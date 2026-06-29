@@ -5,7 +5,8 @@ An end-to-end multimodal music recommender system designed to address **user and
 ##  Live Demo
 
 Interactive web application deployed using Streamlit for real-time recommendations and multimodal inference.
-
+* https://f9fyf4zmsgmsqdem8v9pm8.streamlit.app/
+  
 ##  Key Features
 
 * End-to-end **multimodal recommendation pipeline** for addressing both user and item cold-start scenarios.
@@ -67,7 +68,7 @@ The complete recommendation pipeline has been deployed as an interactive **Strea
 * Interactive song exploration
 * Multimodal inference
 * User-friendly visualization of recommendations
-* https://f9fyf4zmsgmsqdem8v9pm8.streamlit.app/
+
 ---
 
 ## 🛠️ Technology Stack
