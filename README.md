@@ -67,7 +67,7 @@ The complete recommendation pipeline has been deployed as an interactive **Strea
 * Interactive song exploration
 * Multimodal inference
 * User-friendly visualization of recommendations
-
+* https://f9fyf4zmsgmsqdem8v9pm8.streamlit.app/
 ---
 
 ## 🛠️ Technology Stack
