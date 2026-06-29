@@ -1,0 +1,77 @@
+# =====================================
+# Python
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =====================================
+# Virtual environments
+# =====================================
+.venv/
+venv/
+env/
+ENV/
+.nenv/
+
+# =====================================
+# Jupyter
+# =====================================
+.ipynb_checkpoints/
+
+# =====================================
+# VSCode
+# =====================================
+.vscode/
+
+# =====================================
+# OS files
+# =====================================
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Streamlit cache
+# =====================================
+.streamlit/cache/
+
+# =====================================
+# Logs
+# =====================================
+logs/
+*.log
+
+# =====================================
+# Raw dataset
+# =====================================
+data/raw/
+
+# =====================================
+# Large preprocessing artifacts
+# =====================================
+data/processed/attn_mask_all.npy
+data/processed/token_ids_all.npy
+data/processed/mel_all.npy
+data/processed/embeddings.npy
+data/processed/gate_values.npy
+data/processed/master_metadata.csv
+data/processed/nb8_metrics.json
+data/processed/nb9_results.json
+data/processed/resnet_cache.npy
+data/processed/resnet_ids.json
+data/processed/simulated_histories.json
+data/processed/user_states.npy
+data/processed/validation_pairs.json
+data/processed/vocabulary.json
+
+data/processed/embeddings/
+data/processed/lyric_tokens/
+data/processed/mel_spectrograms/
+
+# =====================================
+# Training-only checkpoints
+# =====================================
+models/encoder_final.pt
+models/initialized_weights.pt
+models/song_encoder_init.pt
+models/proj_head_final.pt

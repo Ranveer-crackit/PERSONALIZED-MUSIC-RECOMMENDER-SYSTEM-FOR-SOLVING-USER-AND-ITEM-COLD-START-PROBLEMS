@@ -1,0 +1,989 @@
+Building Personalized Music Recommender
+Personalized Music Recommender System for Solving User and Item Cold Start Problems using Transformer-based Deep Learning Models
+Title Page
+Personalized Music Recommender System for Solving User and Item Cold Start Problems using Transformer-based Deep Learning Models
+A Research-Oriented Academic Project Report
+Submitted in partial fulfillment of the requirements for the award of degree in
+Bachelor of Technology / Master of Technology in Computer Science Engineering / Artificial Intelligence & Data Science
+Prepared By:
+Student Name: ___________________
+Roll Number: ___________________
+Department: ____________________
+Institution: ____________________
+Academic Year: 2025–2026
+Guide: ___________________
+Institution Logo
+
+Certificate
+This is to certify that the project report entitled:
+“Personalized Music Recommender System for Solving User and Item Cold Start Problems using Transformer-based Deep Learning Models”
+submitted by ___________________ is a bonafide record of work carried out under my supervision and guidance during the academic year 2025–2026.
+The work presented in this report has not been submitted elsewhere for the award of any degree or diploma.
+Guide Signature: ___________________
+Head of Department Signature: ___________________
+Institution Seal
+
+Declaration
+I hereby declare that this project report entitled:
+“Personalized Music Recommender System for Solving User and Item Cold Start Problems using Transformer-based Deep Learning Models”
+is an original work carried out by me under the guidance of my project supervisor. All sources of information used in this work have been properly acknowledged.
+Student Signature: ___________________
+Date: ___________________
+
+Acknowledgement
+I express my sincere gratitude to my project guide, faculty members, institution, colleagues, and family members for their constant support, valuable guidance, encouragement, and technical assistance throughout the development of this project.
+Special thanks are extended to researchers and authors whose scholarly contributions in the fields of recommendation systems, transformers, multimodal learning, and deep learning provided significant inspiration and foundational knowledge for this research work.
+
+Abstract
+Music recommendation systems have become a critical component of modern digital streaming platforms due to the exponential growth of online music content and user consumption behavior. Traditional recommendation systems primarily rely on collaborative filtering methods, which suffer from severe limitations such as sparse interaction data, poor personalization for new users, and inability to recommend newly added items. These limitations lead to the well-known User Cold Start and Item Cold Start problems.
+This project proposes a research-oriented Personalized Music Recommender System using lightweight transformer-based multimodal deep learning architectures trained entirely from scratch without the use of pretrained models. The proposed system integrates multiple modalities including audio signals, lyrics, and album cover images from the Music4AllOnion dataset to construct semantically rich song representations.
+The architecture consists of modality-specific lightweight transformers for audio, text, and image processing, followed by Cross-Attention Interaction modules and Gated Fusion mechanisms for multimodal representation learning. The generated unified song embeddings are then utilized within a sequential transformer-based recommendation framework inspired by SASRec and BERT4Rec architectures.
+To solve the Item Cold Start problem, the system leverages multimodal content understanding to generate semantic item embeddings even in the absence of user interaction data. To address the User Cold Start problem, preference initialization and few-shot user embedding generation strategies are employed.
+The project further incorporates self-supervised learning, contrastive learning, ranking optimization, and sequence-aware recommendation strategies to improve recommendation robustness and personalization.
+The proposed architecture is intended as a lightweight, research-focused, implementation-ready framework suitable for academic research, thesis work, and future publication-oriented extensions.
+
+Keywords
+Music Recommendation System
+Cold Start Problem
+User Cold Start
+Item Cold Start
+Transformers
+Multimodal Learning
+Cross Attention
+Gated Fusion
+Sequential Recommendation
+Self-Supervised Learning
+Contrastive Learning
+Recommendation Systems
+Deep Learning
+Music4AllOnion Dataset
+Personalized Recommendation
+
+Table of Contents
+Introduction
+Problem Statement
+Objectives
+Scope of the Project
+Applications
+Expected Outcomes
+Literature Review
+Dataset Description
+System Architecture
+Architecture Diagram
+Mathematical Formulation
+Model Design
+Cold Start Solution Strategy
+Training Pipeline
+Evaluation Metrics
+Experimental Setup
+Implementation Plan
+Algorithms
+UML Diagrams
+Results and Expected Analysis
+Challenges and Limitations
+Future Enhancements
+Conclusion
+References
+Appendix
+
+1. Introduction
+1.1 Background of Recommendation Systems
+Recommendation systems are intelligent information filtering systems designed to predict user preferences and provide personalized suggestions based on historical behavior, contextual information, and content characteristics. Modern digital platforms such as Spotify, YouTube Music, Apple Music, and Netflix heavily rely on recommendation systems to improve user engagement, retention, and content discoverability.
+Traditional recommendation systems can be categorized into:
+Collaborative Filtering
+Content-Based Filtering
+Hybrid Recommendation Systems
+Collaborative filtering methods depend primarily on user-item interaction matrices. These systems identify patterns among users with similar preferences. However, collaborative filtering struggles in scenarios involving sparse interaction data.
+Content-based systems utilize item attributes such as metadata, textual descriptions, genres, and acoustic features to recommend similar content.
+Hybrid systems combine collaborative and content-based methods to improve recommendation quality and robustness.
+
+1.2 Importance of Music Recommendation
+The rapid expansion of online music libraries has created significant challenges for users attempting to discover relevant content. Personalized music recommendation systems help users:
+discover new songs,
+explore emerging artists,
+improve listening satisfaction,
+reduce information overload,
+enhance user engagement.
+Music recommendation systems are particularly challenging because music preference depends on:
+emotional state,
+contextual mood,
+listening history,
+semantic lyrics,
+acoustic characteristics,
+cultural preferences,
+visual aesthetics.
+This complexity makes music recommendation an ideal domain for multimodal deep learning.
+
+1.3 Problems in Traditional Recommendation Systems
+Traditional collaborative filtering approaches suffer from several limitations:
+Problem
+Description
+Data Sparsity
+User-item interactions are extremely sparse
+User Cold Start
+New users lack interaction history
+Item Cold Start
+New songs lack ratings/interactions
+Scalability
+Large matrices become computationally expensive
+Lack of Semantic Understanding
+Traditional methods cannot understand music semantics
+Context Ignorance
+Sequential listening behavior is ignored
+
+These limitations reduce personalization quality and recommendation robustness.
+
+1.4 Cold Start Challenges
+User Cold Start
+Occurs when:
+a new user enters the system,
+no listening history exists,
+no ratings or interactions are available.
+Traditional collaborative filtering fails because user similarity cannot be computed.
+Item Cold Start
+Occurs when:
+a new song is introduced,
+no interaction history exists,
+no collaborative signals are available.
+This prevents recommendation of newly released songs.
+
+1.5 Why Transformer Architectures are Suitable
+Transformers have become the dominant architecture in modern deep learning due to their ability to:
+model long-range dependencies,
+capture contextual relationships,
+process sequential data effectively,
+perform parallel computation,
+support multimodal learning.
+In music recommendation systems, transformers are particularly useful because:
+Capability
+Benefit
+Self-Attention
+Learns contextual relationships
+Cross-Attention
+Enables multimodal interaction
+Sequential Modeling
+Captures user listening patterns
+Representation Learning
+Generates semantic embeddings
+Scalability
+Handles large sequence processing
+
+
+1.6 Motivation of the Project
+The primary motivations behind this project are:
+solve user cold start problems,
+solve item cold start problems,
+design lightweight transformer architectures,
+avoid dependence on pretrained models,
+build research-oriented multimodal recommendation systems,
+improve semantic understanding of music content.
+Unlike existing systems that rely heavily on large pretrained models, this project focuses on building lightweight transformer models trained entirely from scratch.
+
+1.7 Research Gaps Identified
+From the literature analysis, the following research gaps were identified:
+Research Gap
+Description
+Dependence on Pretrained Models
+Existing systems rely heavily on CLIP/BERT
+Poor Cold Start Handling
+Limited semantic item understanding
+Limited Multimodal Interaction
+Simple concatenation fusion dominates
+Weak Personalization
+Sequential behavior underutilized
+Heavy Computational Requirements
+Large-scale models unsuitable for small datasets
+Lack of Lightweight Architectures
+Few research works focus on lightweight transformer recommenders
+
+The proposed system addresses these limitations through lightweight multimodal transformer architectures combined with cross-attention and gated fusion.
+
+2. Problem Statement
+Traditional music recommendation systems primarily depend on collaborative filtering techniques that require large amounts of user-item interaction data. Such approaches fail significantly in scenarios involving:
+User Cold Start
+Item Cold Start
+Sparse interaction matrices
+Limited contextual understanding
+Weak semantic content analysis
+In User Cold Start situations, newly registered users do not possess sufficient listening history, preventing the recommendation system from learning meaningful preference patterns.
+In Item Cold Start situations, newly added songs lack interaction data, causing traditional systems to ignore or fail to recommend them.
+Furthermore, conventional recommendation approaches cannot effectively understand multimodal characteristics of music such as:
+audio semantics,
+lyrical meaning,
+visual aesthetics.
+This project aims to develop a transformer-based multimodal recommendation system capable of:
+learning semantic representations from audio, lyrics, and images,
+generating robust unified song embeddings,
+solving both user and item cold start problems,
+enabling personalized sequential recommendation,
+improving recommendation quality without pretrained models.
+
+3. Objectives
+3.1 Primary Objectives
+Develop a personalized music recommender system.
+Solve User Cold Start Problem.
+Solve Item Cold Start Problem.
+Train transformer architectures from scratch.
+Generate multimodal semantic song embeddings.
+
+3.2 Secondary Objectives
+Implement cross-attention fusion.
+Implement gated fusion mechanisms.
+Learn sequential user preferences.
+Build ranking-based recommendation pipelines.
+Improve semantic alignment across modalities.
+
+3.3 Research Objectives
+Investigate lightweight transformer architectures.
+Explore multimodal representation learning.
+Analyze self-supervised learning effectiveness.
+Evaluate multimodal fusion techniques.
+Study cold-start adaptation strategies.
+
+3.4 Performance Objectives
+Improve Precision@K.
+Improve Recall@K.
+Improve ranking quality.
+Improve recommendation diversity.
+Improve cold-start recommendation capability.
+
+4. Scope of the Project
+The scope of the project includes:
+multimodal music recommendation,
+lightweight transformer design,
+transformer-based representation learning,
+sequential recommendation,
+cold-start handling,
+recommendation ranking,
+multimodal fusion learning.
+The project focuses on research-oriented implementation and experimentation rather than large-scale industrial deployment.
+
+5. Applications
+Applications of the proposed system include:
+Application
+Description
+Music Streaming Platforms
+Personalized song recommendation
+Playlist Generation
+Dynamic playlist creation
+Artist Discovery
+New artist recommendation
+Emotion-Aware Systems
+Mood-based recommendation
+Multimedia Retrieval
+Semantic music retrieval
+Content Discovery Platforms
+User engagement improvement
+
+
+6. Expected Outcomes
+Expected outcomes include:
+lightweight transformer-based music recommender,
+multimodal semantic song embeddings,
+improved cold-start handling,
+personalized sequential recommendation,
+explainable multimodal recommendation architecture,
+research publication potential.
+
+7. Literature Review
+7.1 Collaborative Filtering
+Collaborative filtering predicts user preferences based on similarities among users and items.
+Advantages
+simple implementation,
+effective with large interaction datasets.
+Limitations
+cold start problems,
+sparsity issues,
+poor semantic understanding.
+
+7.2 Content-Based Filtering
+Uses item metadata and content features.
+Advantages
+handles new items,
+semantic recommendation capability.
+Limitations
+limited personalization,
+overspecialization.
+
+7.3 Hybrid Recommendation Systems
+Combines collaborative and content-based approaches.
+Advantages
+better robustness,
+improved personalization,
+reduced sparsity issues.
+
+7.4 Transformer-Based Recommendation
+Transformer architectures introduced attention-based sequence learning.
+Important models:
+Model
+Contribution
+SASRec
+Sequential recommendation using self-attention
+BERT4Rec
+Bidirectional transformer recommendation
+Transformer-XL
+Long sequence modeling
+
+Transformers outperform RNNs because they:
+capture long-range dependencies,
+allow parallel processing,
+improve representation quality.
+
+7.5 Multimodal Recommendation Systems
+Multimodal recommendation integrates:
+text,
+images,
+audio,
+metadata.
+Important multimodal techniques:
+Technique
+Purpose
+Early Fusion
+combine features early
+Late Fusion
+combine outputs
+Cross Attention
+inter-modal interaction
+Gated Fusion
+adaptive weighting
+
+
+7.6 Contrastive Learning
+Contrastive learning aligns embeddings in shared semantic space.
+Key concepts:
+positive pairs,
+negative pairs,
+InfoNCE loss.
+Applications:
+multimodal alignment,
+representation learning,
+semantic clustering.
+
+7.7 Literature Comparison Table
+Approach
+Strength
+Collaborative Filtering
+good personalization
+Content-Based Filtering
+handles new items
+Hybrid Systems
+balanced performance
+CNN/RNN Recommendation
+sequence learning
+Transformer Recommendation
+strong sequence modeling
+Proposed System
+multimodal + cold-start handling
+
+
+8. Dataset Description
+8.1 Music4AllOnion Dataset
+The Music4AllOnion dataset contains multimodal music-related information including:
+audio files,
+lyrics,
+metadata,
+cover images,
+tags,
+genre information.
+
+8.2 Features Available
+Feature Type
+Description
+Audio
+waveform/music clips
+Lyrics
+textual content
+Images
+album cover images
+Metadata
+artist, genre, tags
+Tags
+semantic labels
+
+
+8.3 Data Preprocessing Pipeline
+Audio Processing
+Pipeline:
+Audio loading
+Resampling
+Noise reduction
+Mel spectrogram generation
+Patch extraction
+
+Lyrics Processing
+Pipeline:
+Text cleaning
+Tokenization
+Stopword handling
+Vocabulary generation
+Positional encoding
+
+Image Processing
+Pipeline:
+Image resizing
+Normalization
+Patch extraction
+Augmentation
+
+8.4 Feature Engineering
+Generated features:
+Modality
+Engineered Features
+Audio
+mel spectrogram patches
+Lyrics
+token embeddings
+Image
+visual patches
+
+
+8.5 Handling Missing Values
+Strategies:
+modality masking,
+imputation,
+filtering incomplete samples.
+
+9. System Architecture
+9.1 End-to-End Pipeline
+The proposed architecture consists of:
+Modality-specific transformers
+Cross-attention interaction module
+Gated fusion layer
+Unified embedding generation
+Sequential recommendation transformer
+Ranking network
+Cold-start handling modules
+
+9.2 Modality Encoders
+Audio Transformer
+Input:
+mel spectrogram patches.
+Architecture:
+patch embedding,
+positional encoding,
+transformer encoder layers.
+Output:
+audio embedding.
+
+Lyrics Transformer
+Input:
+tokenized lyrics.
+Architecture:
+embedding layer,
+positional encoding,
+transformer encoder.
+Output:
+lyrics embedding.
+
+Vision Transformer
+Input:
+image patches.
+Architecture:
+patch embedding,
+self-attention layers,
+transformer blocks.
+Output:
+image embedding.
+
+9.3 Cross-Attention Interaction
+Cross-attention learns relationships between modalities.
+Examples:
+audio attends to lyrics,
+lyrics attend to image,
+image attends to audio.
+This improves semantic multimodal alignment.
+
+9.4 Gated Fusion Layer
+The gated fusion layer dynamically learns modality importance.
+Benefits:
+adaptive weighting,
+modality balancing,
+improved robustness.
+
+9.5 Unified Song Embedding
+The fused representation generates a unified semantic song embedding.
+This embedding is used for:
+recommendation,
+similarity search,
+clustering,
+ranking.
+
+9.6 Sequential Recommendation Module
+Inspired by:
+SASRec,
+BERT4Rec.
+Purpose:
+learn sequential user listening behavior.
+Input:
+historical song embeddings.
+Output:
+predicted future preference embedding.
+
+9.7 Ranking Network
+The ranking network computes recommendation scores between:
+user embeddings,
+song embeddings.
+Top-N items are recommended.
+
+10. Architecture Diagram
+                ┌───────────────────┐
+                │   Music Dataset   │
+                └─────────┬─────────┘
+                          │
+      ┌───────────────────┼────────────────────┐
+      │                   │                    │
+      ▼                   ▼                    ▼
+
+┌────────────┐    ┌──────────────┐    ┌──────────────┐
+│   Audio    │    │    Lyrics    │    │ Cover Image  │
+└─────┬──────┘    └──────┬───────┘    └──────┬───────┘
+      │                  │                   │
+      ▼                  ▼                   ▼
+
+┌────────────┐   ┌──────────────┐   ┌──────────────┐
+│ Audio      │   │ Lyrics       │   │ Vision       │
+│Transformer │   │Transformer   │   │Transformer   │
+└─────┬──────┘   └──────┬───────┘   └──────┬───────┘
+      │                  │                   │
+      ▼                  ▼                   ▼
+
+ Audio Embedding   Lyrics Embedding   Image Embedding
+
+             └──────────────┬──────────────┘
+                            ▼
+
+              Cross-Attention Interaction
+         (Audio ↔ Lyrics ↔ Image Relations)
+
+                            ▼
+
+                 Gated Fusion Layer
+       (Adaptive Modality Importance Learning)
+
+                            ▼
+
+                Unified Song Embedding
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                                       │
+        ▼                                       ▼
+
+ Item Cold Start Module              User Cold Start Module
+(Content-Based Similarity)          (Preference Initialization)
+
+        │                                       │
+        └───────────────────┬───────────────────┘
+                            ▼
+
+          ┌────────────────────────────────┐
+          │ Sequential Transformer         │
+          │ Personalized Recommender       │
+          │ (Mini SASRec/BERT4Rec Style)   │
+          └────────────────────────────────┘
+
+                            ▼
+
+                    Ranking Network
+
+                            ▼
+
+                 Top-N Recommendations
+
+11. Mathematical Formulation
+11.1 Self-Attention
+Attention mechanism:
+Q = XWQ K = XWK V = XWV
+Attention:
+Attention(Q,K,V) = softmax(QKT / √dk)V
+
+11.2 Positional Encoding
+PE(pos,2i) = sin(pos / 10000^(2i/d)) PE(pos,2i+1) = cos(pos / 10000^(2i/d))
+
+11.3 Gated Fusion
+Gate:
+g = σ(W[A;L;I] + b)
+Fusion:
+F = gaA + glL + giI
+
+11.4 Contrastive Learning
+InfoNCE Loss:
+L = -log(exp(sim(zi,zj)/τ) / Σ exp(sim(zi,zk)/τ))
+
+11.5 Recommendation Scoring
+Score(u,s) = uTs
+Where:
+u = user embedding,
+s = song embedding.
+
+12. Model Design
+12.1 Audio Transformer
+Parameter
+Value
+Layers
+2–4
+Attention Heads
+2
+Embedding Dimension
+128
+Patch Size
+16×16
+FFN Size
+256
+
+
+12.2 Lyrics Transformer
+Parameter
+Value
+Layers
+2
+Heads
+2
+Embedding
+128
+Vocabulary Size
+configurable
+
+
+12.3 Vision Transformer
+Parameter
+Value
+Layers
+2–4
+Heads
+2
+Embedding Dimension
+128
+
+
+12.4 Sequential Transformer
+Parameter
+Value
+Layers
+2
+Heads
+2
+Hidden Size
+128
+
+
+12.5 Why Transformers Instead of RNN/LSTM
+Transformers
+RNN/LSTM
+Parallel processing
+Sequential processing
+Long-range dependency capture
+Vanishing gradient issues
+Better attention modeling
+Limited context
+Multimodal flexibility
+Limited fusion capability
+
+
+13. Cold Start Solution Strategy
+A. User Cold Start
+Preference Initialization
+New users provide:
+favorite songs,
+favorite genres,
+favorite artists.
+Initial user embeddings are generated from selected song embeddings.
+
+Context-Aware Initialization
+Optional contextual features:
+mood,
+time,
+genre preference.
+
+Few-Shot Learning
+Small interaction samples adapt user representation.
+
+B. Item Cold Start
+Content Understanding
+The system uses:
+audio semantics,
+lyrics semantics,
+visual aesthetics.
+
+Metadata Embeddings
+Genre and tags contribute additional semantic understanding.
+
+Content-Based Similarity
+New songs are recommended through embedding similarity.
+
+14. Training Pipeline
+14.1 Data Split
+Split
+Percentage
+Training
+70%
+Validation
+15%
+Testing
+15%
+
+
+14.2 Batch Generation
+Mini-batch strategy:
+positive samples,
+negative samples,
+sequential windows.
+
+14.3 Optimization
+Optimizer:
+AdamW.
+Learning rate scheduling:
+warmup,
+cosine decay.
+
+14.4 GPU Requirements
+Recommended:
+NVIDIA GPU,
+8–16 GB VRAM.
+
+14.5 Regularization
+Techniques:
+dropout,
+weight decay,
+early stopping,
+gradient clipping.
+
+15. Evaluation Metrics
+Precision@K
+Precision@K = relevant recommended items / K
+
+Recall@K
+Recall@K = relevant recommended items / relevant items
+
+NDCG
+Normalized Discounted Cumulative Gain measures ranking quality.
+
+MAP
+Mean Average Precision evaluates recommendation precision.
+
+Hit Rate
+Measures recommendation success frequency.
+
+Coverage
+Measures diversity of recommended catalog.
+
+Diversity
+Measures variety among recommended songs.
+
+Novelty
+Measures recommendation uniqueness.
+
+16. Experimental Setup
+Hardware
+Component
+Specification
+CPU
+Intel i7 / Ryzen 7
+RAM
+16–32 GB
+GPU
+NVIDIA RTX Series
+Storage
+SSD
+
+
+Software Stack
+Tool
+Purpose
+Python
+programming language
+PyTorch
+deep learning
+NumPy
+numerical computing
+Pandas
+data processing
+Scikit-learn
+evaluation
+Librosa
+audio processing
+OpenCV
+image processing
+Matplotlib
+visualization
+
+
+17. Implementation Plan
+Phase 1 — Literature Review
+Duration: Week 1–2
+Tasks:
+paper reading,
+architecture analysis,
+dataset understanding.
+
+Phase 2 — Dataset Preprocessing
+Duration: Week 3–4
+Tasks:
+audio preprocessing,
+lyrics cleaning,
+image preprocessing.
+
+Phase 3 — Transformer Development
+Duration: Week 5–7
+Tasks:
+audio transformer,
+lyrics transformer,
+image transformer.
+
+Phase 4 — Fusion Module
+Duration: Week 8
+Tasks:
+cross-attention,
+gated fusion.
+
+Phase 5 — Recommendation Module
+Duration: Week 9–10
+Tasks:
+sequential transformer,
+ranking network.
+
+Phase 6 — Cold Start Module
+Duration: Week 11
+Tasks:
+user initialization,
+item embedding retrieval.
+
+Phase 7 — Evaluation and Analysis
+Duration: Week 12
+Tasks:
+experiments,
+ablation studies,
+visualization.
+
+18. Algorithms
+Recommendation Algorithm
+Input multimodal data.
+Generate modality embeddings.
+Apply cross-attention.
+Apply gated fusion.
+Generate unified embeddings.
+Learn sequential user preferences.
+Rank candidate songs.
+Return Top-N recommendations.
+
+Training Loop
+Load batch.
+Generate embeddings.
+Compute contrastive loss.
+Compute ranking loss.
+Backpropagation.
+Update parameters.
+
+19. UML Diagrams
+Use Case Diagram
+Actors:
+User,
+Recommendation Engine,
+Dataset Manager.
+Use cases:
+login,
+preference initialization,
+recommendation retrieval,
+playlist generation.
+
+Activity Diagram
+Flow:
+user interaction,
+embedding generation,
+recommendation ranking,
+output recommendation.
+
+Sequence Diagram
+Sequence:
+user request,
+feature extraction,
+recommendation generation,
+ranking,
+response.
+
+20. Results and Expected Analysis
+Expected observations:
+multimodal embeddings improve semantic recommendation,
+cross-attention improves modality interaction,
+gated fusion stabilizes recommendation quality,
+cold-start recommendation improves.
+
+Visualization Suggestions
+Use:
+t-SNE,
+UMAP,
+attention heatmaps,
+embedding clusters.
+
+21. Challenges and Limitations
+Challenge
+Description
+Small Dataset
+limited transformer training
+Overfitting
+high parameter sensitivity
+Computational Cost
+transformer training expense
+Sparse User Data
+weak personalization initially
+Modality Imbalance
+one modality dominance
+
+
+22. Future Enhancements
+Potential future work:
+graph neural recommendation,
+reinforcement learning recommendation,
+LLM-enhanced recommendation,
+emotion-aware recommendation,
+federated recommendation systems,
+real-time adaptive recommendation.
+
+23. Conclusion
+This project presents a lightweight transformer-based multimodal music recommender system capable of solving both User Cold Start and Item Cold Start problems using semantic representation learning. By integrating audio, lyrics, and visual information through cross-attention and gated fusion, the proposed architecture provides an advanced research-oriented recommendation framework.
+The system emphasizes:
+multimodal understanding,
+semantic alignment,
+self-supervised learning,
+personalized sequential recommendation,
+lightweight transformer architectures.
+The proposed framework provides a strong foundation for future research and publication-oriented extensions in multimodal recommendation systems.
+
+24. References
+[1] Vaswani, A. et al., “Attention Is All You Need,” NeurIPS, 2017.
+[2] Kang, W., and McAuley, J., “Self-Attentive Sequential Recommendation,” ICDM, 2018.
+[3] Sun, F. et al., “BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer,” CIKM, 2019.
+[4] Dosovitskiy, A. et al., “An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,” ICLR, 2021.
+[5] Gong, Y. et al., “AST: Audio Spectrogram Transformer,” Interspeech, 2021.
+[6] Radford, A. et al., “Learning Transferable Visual Models From Natural Language Supervision,” ICML, 2021.
+[7] Wu, C. et al., “Multimodal Recommender Systems: A Survey,” 2023.
+[8] He, X. et al., “Neural Collaborative Filtering,” WWW, 2017.
+[9] Rendle, S. et al., “BPR: Bayesian Personalized Ranking from Implicit Feedback,” UAI, 2009.
+[10] Devlin, J. et al., “BERT: Pre-training of Deep Bidirectional Transformers,” NAACL, 2019.
+
+25. Appendix
+Sample Audio Preprocessing Pseudocode
+import librosa
+
+audio, sr = librosa.load(path)
+mel = librosa.feature.melspectrogram(audio, sr=sr)
+
+Sample Transformer Training Pseudocode
+for batch in dataloader:
+    embeddings = model(batch)
+    loss = criterion(embeddings)
+    loss.backward()
+    optimizer.step()
+
+Dataset Structure Example
+music_dataset/
+    audio/
+    lyrics/
+    images/
+    metadata/
+
+Configuration Example
+embedding_dim: 128
+num_heads: 2
+num_layers: 2
+batch_size: 16
+learning_rate: 1e-4

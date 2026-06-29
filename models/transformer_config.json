@@ -1,0 +1,12 @@
+{
+  "embed_dim": 128,
+  "num_heads": 2,
+  "num_layers": 2,
+  "ffn_dim": 256,
+  "dropout": 0.1,
+  "audio_patch_dim": 256,
+  "audio_n_patches": 64,
+  "lyrics_vocab_size": 15109,
+  "lyrics_max_len": 256,
+  "resnet_dim": 4096
+}

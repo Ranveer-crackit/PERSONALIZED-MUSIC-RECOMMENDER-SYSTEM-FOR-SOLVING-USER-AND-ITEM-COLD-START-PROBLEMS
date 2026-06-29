@@ -1,0 +1,978 @@
+id,spotify_id,popularity,release,danceability,energy,key,mode,valence,tempo,duration_ms,artist,title,album_name,genre,year,decade,has_lyrics,has_audio,has_visual,completeness
+9BWW2uLto4WhNlDa,5qcrexsUJ4AYyxw7zn3YKi,29.0,1965,0.6779999999999999,0.382,2.0,1.0,0.795,120.643,158333,B.B. King,Help The Poor,Live At The Regal,blues,1965,1960s,True,True,False,2
+I37qfSqv21kKfCd3,46uLYXCBGVCkAFLV6YH2PQ,31.0,1965,0.496,0.701,9.0,1.0,0.86,123.148,117893,The Byrds,It Won't Be Wrong,Turn! Turn! Turn!,"rock,classic rock,folk rock,classic rock",1965,1960s,True,True,False,2
+A6RH26SJ59WiJh26,6lTQUF6os6Y400rkjWb30B,33.0,1967,0.42,0.43,7.0,1.0,0.337,97.196,214213,The Lovin' Spoonful,Darling Be Home Soon,You're A Big Boy Now,"classic rock,pop",1967,1960s,True,True,False,2
+43OzbKKKuC7jFrNA,1SqHYzlHICxnSgLQkOtzUi,23.0,1972,0.7170000000000001,0.522,9.0,1.0,0.54,114.96,182307,Chico Buarque,Quando O Carnaval Chegar,Quando O Carnaval Chegar,"mpb,samba",1972,1970s,True,True,False,2
+Sq4N6tgAJ7kxaqEC,37he5Wve36z2pdQCQGvu9T,23.0,1981,0.4320000000000001,0.984,9.0,1.0,0.259,77.108,48000,Adolescents,Self Destruct,Adolescents,"hardcore punk,punk,hardcore,punk,hardcore punk",1981,1980s,True,True,False,2
+hecj0XKqhuEsOUFE,6Ba7YIgKQIHgSDEpWxuJtj,25.0,1981,0.7240000000000001,0.743,1.0,1.0,0.971,149.32,220160,Gilberto Gil,Lente Do Amor,Luar,"mpb,bossa nova",1981,1980s,True,True,False,2
+c31h1TkpfspcVM0N,2MHCUhZCNWEbwcg22NQXbl,38.0,1982,0.416,0.914,9.0,1.0,0.735,180.834,183613,Cock Sparrer,England Belongs to Me,Shock Troops,"punk,oi",1982,1980s,True,True,False,2
+W2Cxn8hSP9QmIEvG,0JyXTHUeE0vW1ReEp1OWnj,16.0,1987,0.526,0.9,7.0,0.0,0.446,129.937,264080,Echo & the Bunnymen,Bombers Bay,Echo & the Bunnymen,"post-punk,new wave,alternative rock",1987,1980s,True,True,False,2
+DQAro3YYq7xu1wAi,31hVKA2YVN1RSM4qk8utCH,45.0,1989,0.528,0.971,7.0,1.0,0.464,105.205,220253,Mötley Crüe,Rattlesnake Shake,Dr. Feelgood,"hard rock,glam metal,rock",1989,1980s,True,True,False,2
+AGK0z9pdbKpyx2gV,1r8ratK2ne9XUlHo47zeY0,36.0,1990,0.504,0.149,8.0,1.0,0.04,75.468,317533,Angelo Badalamenti,Audrey's Dance - instrumental,Soundtrack From Twin Peaks,"soundtrack,ambient,jazz",1990,1990s,True,True,False,2
+5t9ZOKLEOZ446B6T,3kNZkAnot1Z8AptvfyGVph,30.0,1991,0.293,0.25,9.0,1.0,0.18,82.417,349387,The Smashing Pumpkins,Window Paine,Gish (Deluxe Edition),"alternative rock,rock,alternative rock,rock,grunge",1991,1990s,True,True,False,2
+Gmw9EBzssSrHAEMD,7zlbmB9KDCvkDXPmUefPjD,14.0,1993,0.209,0.977,4.0,0.0,0.307,106.486,400880,Dissection,A Land Forlorn,The Somberlain,"black metal,melodic death metal,melodic black metal,death metal",1993,1990s,True,True,False,2
+UI36v2mFL3s4aWWg,0yVxhYqGFfwGeZRyqUERWx,20.0,1993,0.598,0.532,1.0,0.0,0.0787,101.598,424760,William Orbit,Water From a Vine Leaf,Strange Cargo 3,"ambient,electronic,downtempo,electronica",1993,1990s,True,True,False,2
+UtCgFQH0M7cPkidc,2Rejh16NV462TwiGGf5YNL,21.0,1993,0.348,0.092,0.0,1.0,0.207,175.703,210400,Ella Fitzgerald,Black Coffee,Ella Fitzgerald - First Lady Of Song,"jazz,blues",1993,1990s,True,True,False,2
+FwjVComOWkwA7oYO,7LWIGSn1TmKT3Wrb9cO9U4,32.0,1994,0.657,0.285,7.0,1.0,0.515,128.031,268867,Kasia Kowalska,Jak rzecz,Gemini,rock,1994,1990s,True,True,False,2
+uhOuLXmCFOml8QPy,5cySEdHrutJQq3lw2Y0lqP,38.0,1994,0.406,0.994,11.0,1.0,0.343,151.005,158907,Bad Religion,Better Off Dead,Stranger Than Fiction,punk,1994,1990s,True,True,False,2
+BZR5COFeUjA8hrNM,6FGxhUgXzsj98rI7Yo915Z,29.0,1995,0.826,0.47,1.0,1.0,0.174,106.099,311133,Boards of Canada,Oirectine,Twoism,"ambient,electronic,downtempo",1995,1990s,True,True,False,2
+h8TZh7cCfYSiCYbV,66KKHqWcjAgQi2iGFwBiTZ,30.0,1995,0.179,0.946,2.0,1.0,0.229,165.835,242493,Supergrass,I'd Like to Know,I Should Coco,britpop,1995,1990s,True,True,False,2
+SzMF7AqzwXB0O42u,4Du4YlB18LQd3DVI4URBtB,39.0,1997,0.352,0.961,0.0,0.0,0.525,163.96,225840,In Flames,Episode 666,Whoracle (Reissue 2014),"melodic death metal,death metal,metal,swedish metal",1997,1990s,True,True,False,2
+Ujnh5fJ49HuvVpxq,0HBoXScLDaCqWnBJe4a1y1,25.0,1998,0.529,0.679,2.0,1.0,0.6759999999999999,99.983,321067,Natalie Imbruglia,Pigeons and Crumbs,Left Of The Middle,"pop,pop",1998,1990s,True,True,False,2
+hX06Kd6PrrAxDBnB,1ZAygvDxcD15vVVHVNW0BP,20.0,1998,0.251,0.932,9.0,0.0,0.351,128.874,249667,Dream Theater,Ytse Jam,Once In A Livetime,"progressive metal,progressive rock,progressive metal,progressive rock,metal",1998,1990s,True,True,False,2
+y9PNNtuUNJWIGxIn,0GILd3eTcEsjzSTyDX2XXi,41.0,1998,0.329,0.965,7.0,1.0,0.198,95.201,506813,Death,Flesh and the Power It Holds,The Sound of Perseverance - Reissue,"death metal,technical death metal,progressive metal",1998,1990s,True,True,False,2
+sc4GyuaMba36y54e,7tBeWJ7llztvTDtrwXXZ4Y,10.0,1999,0.296,0.552,3.0,1.0,0.0392,136.461,462333,Rapture,Someone I (don't) Know,Futile,"doom metal,gothic metal",1999,1990s,True,True,False,2
+wjuOa1MO1mAhMtZx,62mRZYg1pSxLcWNN3Xqd1R,16.0,2000,0.415,0.674,2.0,0.0,0.487,166.032,324067,Sarah Brightman,Here With Me,La Luna,pop,2000,2000s,True,True,False,2
+zC6zvEPBFU3BJMIg,6xy3fWKyUJvZwOUiBNlZHz,17.0,2001,0.6890000000000001,0.8640000000000001,1.0,1.0,0.642,127.591,148187,Karol Conká,Passo a Passo,Karol Conka,rap,2001,2000s,True,True,False,2
+AQB88LaysVOVlMxc,03gk2zRwm8uUZDbyZJtPgh,50.0,2002,0.442,0.0285,0.0,1.0,0.197,106.162,187667,Norah Jones,The Nearness of You,Come Away With Me,"jazz,blues",2002,2000s,True,True,False,2
+DI1kGRLaDIb5L4Vq,6SgRAtUkNY22rn3GBjhpBS,52.0,2002,0.4370000000000001,0.967,8.0,1.0,0.266,92.433,298693,In Flames,Trigger,Reroute to Remain (Reissue 2014),"melodic death metal,metal,death metal,swedish metal",2002,2000s,True,True,False,2
+ryY3kGHHvSVirFna,4Fproek7uXgqMyUgCFJcWt,39.0,2002,0.581,0.0249,2.0,1.0,0.245,93.356,125973,John Williams,Gilderoy Lockhart,Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack,"soundtrack,soundtrack,classical",2002,2000s,True,True,False,2
+4sxHQ3I4g2iUHdDw,1s2I9Q7zAE78m7aVZOq3ug,57.0,2003,0.356,0.12,5.0,0.0,0.382,186.46,160440,Nancy Sinatra,Bang Bang (My Baby Shot Me Down),Kill Bill Vol. 1 Original Soundtrack (PA Version),soundtrack,2003,2000s,True,True,False,2
+NJHY7VgIwWPt72WD,49W8opgkv41FNWmTYdgjCp,29.0,2003,0.347,0.8690000000000001,6.0,1.0,0.484,96.388,180387,Funeral for a Friend,Rookie of the Year,Casually Dressed & Deep In Conversation,"post-hardcore,emo,screamo,rock",2003,2000s,True,True,False,2
+kWJr1xnTogSnfUjw,2g5UqL21kyKLVmkcCf2mMb,25.0,2003,0.433,0.923,11.0,0.0,0.272,142.18,247907,Thursday,Tomorrow I'll Be You,War All The Time,"post-hardcore,emo,rock",2003,2000s,True,True,False,2
+9e1IknMy0LthsGg0,48D2dRzncKoIVYdDBoTR70,34.0,2004,0.364,0.969,11.0,0.0,0.274,175.93400000000003,170027,Taking Back Sunday,The Union,Where You Want To Be,"emo,rock,screamo",2004,2000s,True,True,False,2
+Vx7tI8MTw8qs2ytA,6um5ccNzX7k3SRsVnLupvI,56.0,2004,0.485,0.911,9.0,1.0,0.56,155.99,247760,Taking Back Sunday,A Decade Under the Influence,Where You Want To Be,"rock,emo,alternative rock,punk",2004,2000s,True,True,False,2
+lYYaBzvALQ0ZNcsR,0O7lENhqOySbsL743G7PqD,63.0,2004,0.589,0.442,4.0,1.0,0.0904,122.688,224320,Slipknot,Vermilion Pt. 2,Vol. 3: The Subliminal Verses [Special Package],"metal,nu metal",2004,2000s,True,True,False,2
+pgAQbyhPZk9GIklA,5Lwp4ZWFVxvCtcpfP22Jvm,44.0,2004,0.0914,0.69,0.0,1.0,0.146,163.808,302040,Muse,Fury,Absolution,"alternative rock,rock,progressive rock",2004,2000s,True,True,False,2
+uplGsugWDuC1aacg,7azaUeZjFTpxUbpTFsZPX4,49.0,2004,0.463,0.5,0.0,1.0,0.331,89.87,179267,Oswaldo Montenegro,A Lista,25 Anos,mpb,2004,2000s,True,True,False,2
+vRRzQvXPXHKNmrPT,2M3f9CsMtRles6X1joDuTk,27.0,2004,0.544,0.8340000000000001,2.0,0.0,0.458,97.972,184067,Anastacia,I Do,Anastacia,pop,2004,2000s,True,True,False,2
+wt3xdJYIOQXa9qUw,6gMVZCELPB4uV708g7vVLW,33.0,2004,0.331,0.701,11.0,0.0,0.176,124.471,239040,U2,Miracle Drug,How To Dismantle An Atomic Bomb,"rock,alternative rock,classic rock",2004,2000s,True,True,False,2
+DlT4kg9Em5N0g2rQ,7ggui6l9tJaUixcqr7pQIK,36.0,2005,0.424,0.917,7.0,1.0,0.197,101.012,273507,Chiodos,There's No Penguins In Alaska,All's Well That Ends Well,"post-hardcore,screamo",2005,2000s,True,True,False,2
+xT4XCWKEZd7HdxEj,15wtj7oUNjMlov6hYWTX10,33.0,2005,0.337,0.14,0.0,1.0,0.132,75.551,44280,Boards of Canada,Into the Rainbow Vein,The Campfire Headphase,"ambient,electronic,downtempo,electronica",2005,2000s,True,True,False,2
+Kgi0PKjdWurkEcb9,1aXkCl0ABWivQBPjvLXbLA,27.0,2007,0.219,0.927,2.0,0.0,0.284,171.783,226000,ANNA TSUCHIYA inspi' NANA (BLACK STONES),rose,ANNA TSUCHIYA inspi' NANA(BLACK STONES),j-rock,2007,2000s,True,True,False,2
+gwqVyuUyVo6b8rlw,3cmyHos30q47rAcxM9cZeH,37.0,2007,0.151,0.524,6.0,0.0,0.0385,88.10700000000001,570427,Ben Frost,Theory of Machines,Theory of Machines,"ambient,drone,experimental,noise",2007,2000s,True,True,False,2
+9ufwJdANQqCqgnrw,3FTyr2M2y5D2jjOStBGutn,40.0,2008,0.617,0.887,6.0,1.0,0.855,149.97,198347,Katy Perry,If You Can Afford Me,One Of The Boys,"pop,pop rock,pop,pop rock",2008,2000s,True,True,False,2
+K1YI3PSgFDT4nNfT,3ZJAp1N2Stlo2ixvn9rmuM,38.0,2008,0.478,0.875,0.0,1.0,0.509,148.433,205560,Supergrass,Diamond Hoo Ha Man,Diamond Hoo Ha,"britpop,rock,indie rock",2008,2000s,True,True,False,2
+MlxvjKZezZovKHAZ,0E4rbyLYVCGLu75H3W6O67,29.0,2008,0.6729999999999999,0.763,2.0,1.0,0.672,94.615,256952,Calle 13,Gringo Latin Funk,Los De Atrás Vienen Conmigo,latin,2008,2000s,True,True,False,2
+r2HCPMCP75f3yLuB,0DYZefMHhVhMb6FBtDddBV,22.0,2008,0.325,0.88,0.0,1.0,0.242,157.933,240827,Kalafina,Misterioso,The Best Red,"rock,j-pop,pop",2008,2000s,True,True,False,2
+CmG7AsIFxbOojGvP,503q1l7kuxaRhTUI6YK35M,14.0,2009,0.384,0.958,11.0,0.0,0.244,174.05700000000004,287533,Sirenia,The Mind Maelstrom,The 13th Floor,"gothic metal,symphonic metal",2009,2000s,True,True,False,2
+HTGjc2tfRHc57Tjd,7tvs941HpCKpBh0gzZvxJq,20.0,2009,0.612,0.7859999999999999,4.0,1.0,0.5539999999999999,154.614,191773,Pixie Lott,The Way the World Works,Turn It Up,pop,2009,2000s,True,True,False,2
+Ic5bivTJCK6hnMqc,6F6NYubOeEqn3xfCDD7S33,33.0,2009,0.238,0.948,2.0,0.0,0.38,155.377,223520,We Came As Romans,We Are the Reasons,To Plant a Seed,"post-hardcore,metalcore,screamo,hardcore",2009,2000s,True,True,False,2
+ynX0O5X36vy95QQf,3228t5zdabAEiUFauLuZMe,11.0,2009,0.283,0.8420000000000001,1.0,0.0,0.334,85.738,284027,Carcass,Incarnated Solvent Abuse,Gods Of Grind,"death metal,grindcore,death metal,grindcore,melodic death metal",2009,2000s,True,True,False,2
+4q7zSqZdOykOZCjE,1Pv5j7BtAEDnuvdHNyuOtC,27.0,2010,0.326,0.5920000000000001,8.0,0.0,0.201,74.423,117173,Flying Lotus,German Haircut,Cosmogramma,"electronic,acid jazz,experimental",2010,2010s,True,True,False,2
+Fk1xz8S3TPw4lLsk,2zajpH7RAvvbtaBzsJxiya,20.0,2010,0.188,0.939,11.0,0.0,0.267,91.649,218947,Daughters,The Theatre Goer,Daughters,"hardcore,metal",2010,2010s,True,True,False,2
+bCKvKdnDqolBYsE1,1nLtBL6mOlNia99pgtJ0jV,40.0,2010,0.7020000000000001,0.8240000000000001,1.0,1.0,0.637,111.802,299213,Janet Jackson,Alright,Best Of Number Ones,"new jack swing,pop",2010,2010s,True,True,False,2
+O8xLq9YZsJ0lwLXd,47TM4oUn1Sau5lFuOvJepi,18.0,2011,0.608,0.594,0.0,1.0,0.342,123.685,236826,Part Time,Riots in the Streets,What Would You Say?,shoegaze,2011,2010s,True,True,False,2
+BTi9LtASz55cl9E3,3Fld33fuWTUUmVx9BEkyDx,43.0,2012,0.68,0.889,7.0,1.0,0.626,126.916,204973,One Direction,Stole My Heart,Up All Night,pop,2012,2010s,True,True,False,2
+FPYDJ51BRuS13YUd,4dOXc4Suk5eig0jiCqCN5Y,41.0,2012,0.406,0.632,4.0,1.0,0.109,149.25799999999995,249440,Gavin Rossdale,Love Remains The Same,Wanderlust,"rock,alternative rock,pop",2012,2010s,True,True,False,2
+JmplYKIZUJSwkCHf,379NxsaOdaBZQsAwfsb4QW,42.0,2012,0.618,0.752,0.0,1.0,0.679,115.957,221027,Glee Cast,What Doesn't Kill You (Stronger),What Doesn't Kill You (Stronger) (Glee Cast Version),"soundtrack,pop",2012,2010s,True,True,False,2
+D5APeq80TqUke4uN,2SVxpHVwxKkqhWCvlz7g80,37.0,2013,0.194,0.401,11.0,0.0,0.288,78.631,368600,Cloud Control,Dream Cave,Dream Cave,"indie pop,indie rock,folk",2013,2010s,True,True,False,2
+y7fQzcjsqFU1iG8n,7qR4k47umZKhf9usjArs8u,32.0,2013,0.6829999999999999,0.2,1.0,0.0,0.324,113.958,229880,Vitor Ramil,Foi No Mês Que Vem,Foi No Mês Que Vem,singer-songwriter,2013,2010s,True,True,False,2
+86LgMB8I2mjqAObi,3EJht2HTniMJbQzi8O0L10,37.0,2014,0.688,0.605,11.0,0.0,0.24,85.03399999999998,185815,Mura Masa,Suicide Blades,Soundtrack To A Death,downtempo,2014,2010s,True,True,False,2
+BF6QAFYP8Topuq66,0ixCuGHAhjSbrAJ8CAMQ71,18.0,2015,0.531,0.463,9.0,0.0,0.161,131.991,283120,Lebanon Hanover,Chimerical,Besides the Abyss,"post-punk,minimal",2015,2010s,True,True,False,2
+Pe4RTnSDm9wLHlvn,7tUXZgLbOCvRJ9FBlairoU,63.0,2016,0.909,0.573,5.0,1.0,0.392,144.946,134271,Ghostemane,Blackmage,Blackmage,rap,2016,2010s,True,True,False,2
+dhxGnut2Tv3H7eK8,4FKEsUNeUMPl50POc5sIkf,29.0,2016,0.463,0.991,6.0,0.0,0.434,107.979,237387,Dark Tranquillity,When the World Screams,Atoma,"melodic death metal,death metal",2016,2010s,True,True,False,2
+jFMxU0fzllSDYgeL,6KyXDQITY6sIDI6okAEo94,21.0,2016,0.682,0.59,2.0,1.0,0.65,150.067,183636,Yumi Zouma,Better When I'm By Your Side,Yoncalla,"indie pop,synthpop,dream pop,pop",2016,2010s,True,True,False,2
+oS1OjybSuOhRCZ6p,1jvi0pAotOVmSSctgZFPJM,36.0,2016,0.647,0.329,10.0,0.0,0.127,89.126,137760,Flughand,mo,EXPEDITion Vol. 7: Moonloops,beats,2016,2010s,True,True,False,2
+vA40YEOjc5FTGWcW,5GljXYUiVUzyinXkR0gwtq,29.0,2016,0.522,0.936,3.0,0.0,0.183,140.025,241714,Rogue,Imperfect Views,Imperfect Views,"electronic,edm",2016,2010s,True,True,False,2
+wmQAeNc7epXlaAzB,7MdZQXUBijQxcBkYz4G1Z5,63.0,2016,0.698,0.193,1.0,1.0,0.607,84.03,117495,JinSang,affection,Life,"lo-fi,electronic",2016,2010s,True,True,False,2
+y86rxJbIieI0nVAf,1dafxtAUxrlLPoJdWjF9KI,19.0,2016,0.769,0.4,4.0,0.0,0.278,101.956,198498,Yumi Zouma,Drachma,Yoncalla,"indie pop,synthpop,dream pop,pop",2016,2010s,True,True,False,2
+MppZIeEahP9BAkFV,2tUuhNHoCzeYgd2IzO12fD,38.0,2017,0.723,0.73,5.0,0.0,0.337,120.995,226154,Darci,Life,Life,"wave,wave",2017,2010s,True,True,False,2
+NnhlEJVVJcX5oGci,2M3TfnD7C6CeH41Rq8Jqgz,12.0,2017,0.586,0.841,4.0,1.0,0.736,118.047,234080,For Tracy Hyde,Floor,he(r)art,"shoegaze,dream pop,indie pop",2017,2010s,True,True,False,2
+SCU8jOAQkPveucE5,600OCZ1UO4sMpHO3F1E2jb,46.0,2017,0.812,0.341,6.0,0.0,0.119,100.014,216000,DVSN,P.O.V.,Morning After,soul,2017,2010s,True,True,False,2
+VHapkzIKNII6em3O,60KoC44pKcUUmhsHGORSha,25.0,2017,0.5720000000000001,0.624,7.0,1.0,0.235,144.901,223257,VIXX,To Us,Shangri-La,"k-pop,pop,k-pop",2017,2010s,True,True,False,2
+lv9qo6razyeNcMvG,0vicQm86o7GnT42GdG34sA,52.0,2017,0.246,0.483,8.0,1.0,0.0751,141.84799999999996,278093,The Killers,Some Kind of Love,Wonderful Wonderful,"alternative rock,new wave",2017,2010s,True,True,False,2
+mrCWd4wEqSDtZpWG,3OEsUZFJ4c7z3gz6o7v9C2,47.0,2017,0.711,0.74,7.0,1.0,0.532,110.003,186093,The Vamps,Shades On,Night & Day (Night Edition),"pop,pop rock",2017,2010s,True,True,False,2
+1toZXou7rNITaMLS,0YqdsM9x9NtKUfwqooo6iV,37.0,2018,0.498,0.951,1.0,0.0,0.267,132.039,241320,Alkaline Trio,I Can't Believe,Is This Thing Cursed?,"punk,emo,pop punk,punk",2018,2010s,True,True,False,2
+VUnI9XZ8eQvNFxHa,1aeKIPo431ykCa62MFpVxO,30.0,2018,0.326,0.412,0.0,0.0,0.0535,124.9,166415,Perfume Genius,Not for Me,Not for Me,art pop,2018,2010s,True,True,False,2
+fr2Aug40bR9rwvme,31KUXcmpp6SzBrzTkMpc37,16.0,2018,0.337,0.933,7.0,0.0,0.0793,101.33,87070,Converge,Churches and Jails,Beautiful Ruin,mathcore,2018,2010s,True,True,False,2
+hkECjY8PfY1VYY8S,57HOP4VNi4D9MEPKXJbe3m,32.0,2018,0.5379999999999999,0.889,5.0,0.0,0.174,144.928,289520,EURINGER,Problematic,EURINGER,"synthpop,punk,electronic",2018,2010s,True,True,False,2
+p5HtO2R3uTnstIKJ,6uXrp1p4xTxWhxQY12izK4,20.0,2018,0.193,0.116,1.0,1.0,0.0295,135.312,91324,Boy Harsher,February,Country Girl (Extended Version),"synthpop,minimal wave,ebm,synthpop",2018,2010s,True,True,False,2
+tIm1i6PHng1nfeLT,4tO4YTGmf8CjOep6cKck5w,22.0,2018,0.395,0.985,2.0,1.0,0.148,168.178,186213,DIR EN GREY,Rubbish Heap,The Insulated World,"metal,death metal,j-metal",2018,2010s,True,True,False,2
+ydpb57R61JNUBZhb,3wbDA6hrNhmY3KhRbWgVDx,39.0,2018,0.563,0.48,2.0,0.0,0.345,148.092,243000,Rhye,Sinful,Blood,"smooth soul,art pop",2018,2010s,True,True,False,2
+ceXwFzD28XT3KHwP,5jHIXdSiJVQ64P3lAH969X,34.0,2019,0.653,0.936,5.0,1.0,0.821,119.988,200720,Kylie Minogue,Never Too Late,Step Back in Time: The Definitive Collection,pop,2019,2010s,True,True,False,2
+qEkNMoMAoaD1iIPH,0CEXm6wzFXx1txePLk0qRS,35.0,2019,0.346,0.732,3.0,1.0,0.404,121.99,187880,Arja Saijonmaa,Mina fyra årstider,Mina fyra årstider,eurovision,2019,2010s,True,True,False,2
+P9zu2KbE0a5rlbpF,3mwIoHzwnTnGWjAUVqajLr,30.0,1953,0.54,0.112,10.0,1.0,0.294,122.878,221280,Billie Holiday,Stormy Weather,An Evening With Billie Holiday,"jazz,vocal jazz,blues",1953,1950s,False,True,False,1
+Rmci2Ia3zFavQU0m,0hBPeqE8QSHKUFTb8XigQ6,31.0,1956,0.392,0.752,0.0,1.0,0.949,186.618,112733,Elvis Presley,Long Tall Sally,Elvis,"classic rock,rock,rockabilly",1956,1950s,False,True,False,1
+95YYULAxiUx9CTBl,0PAoDpuqJ89AA16LvkFGro,30.0,1957,0.775,0.376,5.0,1.0,0.5579999999999999,95.921,201760,Muddy Waters,Honey Bee,The Best Of Muddy Waters,"blues,chicago blues",1957,1950s,False,True,False,1
+x5aH4JW1WY40zgfM,1QdQ4r05QWhtcTTXOgRtyA,41.0,1957,0.488,0.122,5.0,1.0,0.331,79.514,196347,Billie Holiday,Fine And Mellow,Billie Holiday,"jazz,blues,vocal jazz",1957,1950s,False,True,False,1
+Bslsq4YxQsat3FBf,6VTbbVjKOC2qWagIDbkJrC,62.0,1958,0.746,0.243,4.0,0.0,0.425,118.578,215747,Nina Simone,My Baby Just Cares for Me - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),"jazz,soul,blues,vocal jazz",1958,1950s,False,True,False,1
+b7gVLOR6PnhIvq6r,16nJl8NnriCJxraco5Zssm,46.0,1959,0.457,0.5479999999999999,5.0,0.0,0.76,88.8,440840,Charles Mingus,Better Git It in Your Soul,Ah Um,"jazz,bebop",1959,1950s,False,True,False,1
+n1otnJXmyZBteAzz,0aWMVrwxPNYkKmFthzmpRi,61.0,1959,0.421,0.0161,2.0,0.0,0.16,110.926,337733,Miles Davis,Blue in Green,Kind Of Blue (Legacy Edition),"jazz,cool jazz",1959,1950s,False,True,False,1
+xepD5AOHskkc2SYZ,4C4ZGls8SqHMrYayEqK8BT,32.0,1960,0.565,0.383,3.0,1.0,0.614,141.653,145600,Etta James,Girl of My Dreams,At Last!,soul,1960,1960s,False,True,False,1
+3r5VvAVhlC6pZmLb,5YsyqcewwE0c1ukzHVciS3,53.0,1963,0.495,0.435,0.0,1.0,0.71,108.189,169160,Roy Orbison,In Dreams,In Dreams,"classic rock,rock",1963,1960s,False,True,False,1
+kyfi2L9f1A3ctrFv,67tnJf77mVKMIOVcR1SQ2F,40.0,1963,0.487,0.354,9.0,0.0,0.736,177.572,270133,Thelonious Monk,Eronel,Criss-Cross (Expanded Edition),"jazz,bebop,jazz piano,jazz,bebop",1963,1960s,False,True,False,1
+KyUaqLvBpbIeJ4fh,1kvqv4axiWkxOdRz017sQZ,34.0,1965,0.77,0.6459999999999999,9.0,1.0,0.7829999999999999,118.771,155427,Bob Dylan,On the Road Again,Bringing It All Back Home,"folk,folk rock,classic rock",1965,1960s,False,True,False,1
+q7g0H9GW8K7a2bGd,6HOtn3ccKCgz2vQkWFIYnp,35.0,1965,0.475,0.403,9.0,1.0,0.733,150.666,128987,Astrud Gilberto,Photograph,The Astrud Gilberto Album,"bossa nova,jazz",1965,1960s,False,True,False,1
+OoLriekjlAUAEx6N,07KYQySlrmE94gaLbhvp4X,44.0,1966,0.529,0.861,11.0,1.0,0.387,96.52,142507,The Yardbirds,over under sideways down,Roger the Engineer,"classic rock,psychedelic rock,rock,british invasion",1966,1960s,False,True,False,1
+D3fJUkYC7sEvG5sq,61Yh6AEwsba6RYsrWiNmI0,57.0,1967,0.346,0.568,9.0,0.0,0.617,106.756,212747,Charles Aznavour,Emmenez-Moi,Entre deux rêves (Remastered 2014),chanson,1967,1960s,False,True,False,1
+JZrvucFQ56izpI9f,6Pq9MmkDQYZiiCDpxnvrf6,62.0,1967,0.401,0.556,2.0,1.0,0.654,85.206,275867,The Beatles,I Am the Walrus,Magical Mystery Tour (Remastered),"classic rock,rock,psychedelic rock",1967,1960s,False,True,False,1
+bJngnvYLRvCCakZE,6gQYWu4YdUWcOrmeJpiE7L,16.0,1967,0.436,0.489,11.0,0.0,0.613,128.72299999999998,170893,Milton Nascimento,Irmão de Fé,Travessia,"mpb,latin,world",1967,1960s,False,True,False,1
+w0mZg0XPTXbaFcOV,77QMWObQ8MQeIqbzXChhtx,16.0,1967,0.451,0.557,2.0,1.0,0.506,133.625,173573,Frank Zappa,Status Back Baby,Absolutely Free,"progressive rock,rock,experimental",1967,1960s,False,True,False,1
+4R2r3vgRnNzFxeJZ,5dZ8PeKKZJLIQAWNTdp8WX,43.0,1968,0.208,0.615,2.0,0.0,0.101,91.158,502013,The Beatles,Revolution 9,The Beatles (Remastered),"experimental,avant-garde,classic rock,rock",1968,1960s,False,True,False,1
+GFlttzney0bxWfmM,0rCj9YU5bVUHP94Hg67MRa,30.0,1968,0.7190000000000001,0.5379999999999999,10.0,1.0,0.964,105.748,139107,Aretha Franklin,You're A Sweet Sweet Man,Aretha Now,soul,1968,1960s,False,True,False,1
+W5qwCcnok47vE61G,17NTyKH575Q3QWrRq64MfX,23.0,1968,0.57,0.764,7.0,1.0,0.463,128.74,245400,Silver Apples,Program,Silver Apples,"experimental,psychedelic rock,electronic",1968,1960s,False,True,False,1
+rLUdextHcsOPfWy2,2fDHuS1PTkHBbCWWZF1ph9,66.0,1968,0.621,0.524,0.0,1.0,0.889,110.586,162653,Johnny Cash,Folsom Prison Blues,At Folsom Prison,"country,folk,singer-songwriter",1968,1960s,False,True,False,1
+ruJPMCuD5UVowvSb,37soQoNhEEIrhhYgHWK1xU,52.0,1968,0.606,0.52,8.0,1.0,0.765,93.449,138533,Marvin Gaye,Ain't Nothing Like the Real Thing,You're All I Need,"soul,motown",1968,1960s,False,True,False,1
+1tzlTNPd1Q7S6Ci8,1HyRsq9UzKEPv2Dm1Cwpe4,33.0,1969,0.536,0.664,7.0,1.0,0.768,88.973,205827,David Bowie,Janine,David Bowie (aka Space Oddity) [2015 Remaster],"glam rock,rock,classic rock",1969,1960s,False,True,False,1
+36OH00eUfFRi2kA5,20FLGZPgMHXlU0VpQ0HpxN,42.0,1969,0.59,0.3,0.0,1.0,0.456,110.293,264133,Nick Drake,Time Has Told Me,Five Leaves Left,"folk,singer-songwriter,folk,singer-songwriter",1969,1960s,False,True,False,1
+E1cPmZAsGBN1Kjp6,0emmpmWSgJlcgJLOB9wMem,32.0,1969,0.416,0.315,5.0,1.0,0.148,70.215,238240,The Band,Whispering Pines,The Band (Expanded Edition),"folk rock,classic rock,folk",1969,1960s,False,True,False,1
+F93HGwLrrR0aSRLt,35Myb6spNkKlRsZQcm95mP,38.0,1969,0.723,0.486,7.0,1.0,0.716,110.834,173560,The Band,Across the Great Divide,The Band (Expanded Edition),"rock,classic rock",1969,1960s,False,True,False,1
+FUFhq3AqneKyMPMS,03vfFHR7mXS1IjTJ0gwGVZ,6.0,1969,0.387,0.514,7.0,1.0,0.296,89.822,160173,Milton Nascimento,Três Pontas,Courage,mpb,1969,1960s,False,True,False,1
+M37tlyMofl3uD9Dr,3yWx3rzS2MDqkopz3utEOx,36.0,1969,0.5920000000000001,0.78,10.0,1.0,0.94,91.004,184840,The Band,Rag Mama Rag,The Band (Expanded Edition),"classic rock,folk rock,rock",1969,1960s,False,True,False,1
+Odp5GCD93BBqRqkM,5bfvQG4NGiTFfUxPdMKrUd,38.0,1969,0.271,0.364,3.0,1.0,0.5429999999999999,85.46799999999998,249333,The Flying Burrito Brothers,Sin City,The Gilded Palace Of Sin,"country,country rock",1969,1960s,False,True,False,1
+PpGYoELzFMMy2Hrz,0Y1RLCzynp0yryYpwY1MGw,36.0,1969,0.435,0.899,4.0,0.0,0.966,93.064,282560,Os Originais Do Samba,cadê tereza,Os Originais Do Samba,samba,1969,1960s,False,True,False,1
+kWxrxjngnjZvORqG,7J42bT9SnqnVJH4e4CMA8u,42.0,1969,0.525,0.3,2.0,1.0,0.69,127.947,260133,Gal Costa,"Divino, maravilhoso",Gal Costa,mpb,1969,1960s,False,True,False,1
+mI7gDAp6RjvDh9LJ,2YvFuxpoNlpsJZjhjs6OPE,23.0,1969,0.615,0.36,0.0,1.0,0.6920000000000001,128.399,240000,Gal Costa,A Coisa Mais Linda Que Existe,Gal Costa,mpb,1969,1960s,False,True,False,1
+Hz0y9DubjPMuTfnL,74iQ3gahRTOGc19bYadBE3,51.0,1970,0.9,0.7090000000000001,9.0,1.0,0.897,105.822,291320,Sly & The Family Stone,Thank You (Falettinme Be Mice Elf Agin),Greatest Hits,"funk,soul",1970,1970s,False,True,False,1
+XlZcuJVNVga0RYLc,2vNuzzaFEPY2WGdYFhdeui,20.0,1970,0.6,0.107,0.0,0.0,0.732,117.63,141893,Vashti Bunyan,Where I Like to Stand,Just Another Diamond Day,"folk,singer-songwriter",1970,1970s,False,True,False,1
+Y2uEDvnk7vFaHrhy,7hxZF4jETnE5Q75rKQnMjE,68.0,1970,0.713,0.258,9.0,1.0,0.56,98.805,176533,Johnny Cash,I Walk the Line,I Walk the Line (Original Soundtrack Recording),"country,folk,singer-songwriter",1970,1970s,False,True,False,1
+i4KCf1xWj1EqMGTn,6EKrBVHDk20hwjYWGPQQlF,45.0,1970,0.485,0.662,5.0,1.0,0.631,139.687,372145,Black Sabbath,Fairies Wear Boots,Paranoid (2014 Remaster),"hard rock,classic rock,metal,rock,hard rock,classic rock",1970,1970s,False,True,False,1
+5ju1mKYhtceNuStN,60dWKahUyEfdEVKCRggEhC,30.0,1971,0.775,0.675,9.0,0.0,0.882,136.11,335013,Grant Green,Cantaloupe Woman,Visions,jazz,1971,1970s,False,True,False,1
+654pm3bd6h7uX9Ak,0uHYplBhwLYey7f9qAmnSM,49.0,1971,0.564,0.357,1.0,1.0,0.477,129.24200000000002,206067,Joan Baez,The Night They Drove Old Dixie Down,Blessed Are...,"folk,singer-songwriter",1971,1970s,False,True,False,1
+6TPMoHgb7nUObiJf,4ph6P4p5l1fxbjHjapiVky,31.0,1971,0.376,0.22,6.0,0.0,0.193,106.153,182160,Françoise Hardy,La Question,La question,pop,1971,1970s,False,True,False,1
+7QVhid2HH8LPpnzH,0bxFBf5t5rrHxPxFhVkqC7,27.0,1971,0.281,0.763,9.0,0.0,0.43,78.295,219533,Uriah Heep,High Priestess,Salisbury,"hard rock,classic rock,progressive rock",1971,1970s,False,True,False,1
+9PhjS5PpTaD83W71,2BNiG5hfIcvpSoRPlvniYp,22.0,1971,0.6659999999999999,0.8740000000000001,9.0,1.0,0.974,151.539,115562,Tim Maia,Salve Nossa Senhora,Tim Maia 1971,"mpb,forro",1971,1970s,False,True,False,1
+A69AvMvPAuvzv4OV,5N4vVbNotNwWGG8KcCdstR,44.0,1971,0.37,0.6940000000000001,0.0,1.0,0.6509999999999999,155.093,270000,T. Rex,Cosmic Dancer,Electric Warrior [Expanded & Remastered],"glam rock,classic rock,rock",1971,1970s,False,True,False,1
+SZZK2PmMy16Zcyyh,6iAsnr8wFAYUCmN02CI84i,27.0,1971,0.281,0.732,9.0,0.0,0.458,154.562,308787,Uriah Heep,Look at Yourself,Look At Yourself,"hard rock,classic rock,progressive rock,rock",1971,1970s,False,True,False,1
+dBvnxlxPkfJWKrcs,4EQL3I68WEw20icaY5y6Cy,37.0,1971,0.564,0.591,2.0,1.0,0.958,128.982,132800,The Who,Happy Jack,"Meaty, Beaty, Big And Bouncy","classic rock,rock",1971,1970s,False,True,False,1
+lUzoIReIASFM2KZI,1YrcdJX562hDZZcfq0DUdk,34.0,1971,0.358,0.145,10.0,1.0,0.22,73.161,179067,Frank Sinatra,Bein' Green,Sinatra & Company,"downtempo,jazz,swing",1971,1970s,False,True,False,1
+uiNb8rH4VinZhq3d,1rHMg7t3LICgfTl2OsDn46,63.0,1971,0.764,0.188,2.0,1.0,0.7809999999999999,115.715,102200,Cat Stevens,The Wind,Teaser And The Firecat,"folk,singer-songwriter,classic rock",1971,1970s,False,True,False,1
+uu3kKGU6jcCCUaTJ,6BmiOymAiOcmThWDKLysFK,34.0,1971,0.387,0.263,5.0,0.0,0.191,100.071,119800,Chico Buarque,Valsinha,Construção,"mpb,bossa nova",1971,1970s,False,True,False,1
+ztxZtDqlrNbAV5IO,2Dsy7Ls7OuvG1fpjrKI5AE,44.0,1971,0.307,0.49,2.0,1.0,0.206,132.644,176867,Pink Floyd,Arnold Layne,Relics,"psychedelic rock,classic rock,rock,progressive rock",1971,1970s,False,True,False,1
+AyEA8IEzb35HaM7H,18anGZqHhMCG6z8sLHfEnx,28.0,1972,0.316,0.877,9.0,1.0,0.574,138.093,619969,Uriah Heep,The Magician's Birthday,The Magician's Birthday,"progressive rock,hard rock,classic rock",1972,1970s,False,True,False,1
+XCFbTDSxsAfATZpJ,5ZgNecJcN9SSopnmCTlpXs,47.0,1972,0.588,0.708,6.0,1.0,0.579,131.197,178376,Roxy Music,Virginia Plain,Roxy Music (Remastered),"glam rock,rock,classic rock,art rock",1972,1970s,False,True,False,1
+q5ciXWRZhC97sUzP,0FnUHRtUgopfEoIVrGfkH0,37.0,1972,0.479,0.574,7.0,1.0,0.351,110.737,188775,Black Sabbath,Tomorrow's Dream,Vol. 4 (2014 Remaster),"classic rock,hard rock,metal",1972,1970s,False,True,False,1
+tMslqsIbEJY7A1yB,2fqDuYbP9LsoiC1DiXDhWk,37.0,1972,0.5720000000000001,0.726,2.0,1.0,0.6940000000000001,97.447,149867,America,Don't Cross The River,America's Greatest Hits - History,"soft rock,classic rock,rock,folk rock",1972,1970s,False,True,False,1
+Qw463oJExAqhnUkL,7ESs28TZl95wGtMY3z3gRD,30.0,1973,0.648,0.316,4.0,1.0,0.93,80.8,123507,Secos & Molhados,Prece Cósmica,A volta de Secos & Molhados,mpb,1973,1970s,False,True,False,1
+Xw7kOFPfMjDg3ovb,1UrL8KTVuwhrUa9SRfY0NO,24.0,1973,0.5589999999999999,0.7240000000000001,0.0,1.0,0.617,109.215,270800,Alice Cooper,Generation Landslide,Billion Dollar Babies (Deluxe Reissue),"hard rock,classic rock,glam rock,rock",1973,1970s,False,True,False,1
+YrcjNsJw0H5RAtGv,4EoKbid1MFccC0VCtO5ehz,27.0,1973,0.414,0.127,8.0,0.0,0.23,147.44799999999995,190640,Genesis,More Fool Me,Selling England By The Pound,"progressive rock,classic rock,rock",1973,1970s,False,True,False,1
+nDrB9cYYcQU8mcve,20wu6USlvWRghMOvUdfLgE,50.0,1973,0.815,0.388,11.0,0.0,0.846,94.558,256693,Al Green,Here I Am (Come and Take Me),Call Me,"soul,rhythm and blues,funk,soul,funk",1973,1970s,False,True,False,1
+pBIpvqWxaU73OCkx,1MlmYflHA4WFqnu2v42Kme,38.0,1973,0.6970000000000001,0.677,0.0,1.0,0.955,143.329,166973,Jim Croce,One Less Set of Footsteps,Life And Times,"singer-songwriter,folk,classic rock",1973,1970s,False,True,False,1
+rprbVRl18Wygpl2K,7ukBeymdmgSQM4YyegpTao,31.0,1973,0.489,0.988,3.0,1.0,0.328,127.073,209093,Roxy Music,Street Life,Stranded (Remastered),"rock,glam rock,classic rock",1973,1970s,False,True,False,1
+uwr8zq5ihwnVaYrr,30dD56ykmN0i9GyDRNAgLY,36.0,1973,0.7190000000000001,0.62,4.0,1.0,0.914,125.833,209907,Jim Croce,Roller Derby Queen,Life And Times,"classic rock,singer-songwriter,folk,folk,singer-songwriter",1973,1970s,False,True,False,1
+ypdD42yz91OaAnSj,4zLMM82wGnGS0VIy3pq2yU,40.0,1973,0.278,0.604,6.0,1.0,0.778,166.66299999999995,357085,Black Sabbath,Sabbra Cadabra,Sabbath Bloody Sabbath (2014 Remaster),"hard rock,classic rock,metal",1973,1970s,False,True,False,1
+DiSmJTQkMuX7gIxv,4S2loqYzPmjjEOxonsHxJx,20.0,1974,0.247,0.677,7.0,1.0,0.0395,131.418,317333,Genesis,The Waiting Room,The Lamb Lies Down On Broadway,"progressive rock,rock",1974,1970s,False,True,False,1
+Jhn36tJ0Na3moXze,23nw77uPc7tph9bK9vYT9i,11.0,1974,0.3670000000000001,0.684,0.0,1.0,0.401,75.852,66133,The Residents,Numb Erone,Meet The Residents,"experimental,avant-garde",1974,1970s,False,True,False,1
+ORrlh2tKKYXDqfbz,27KA6KHjX6dLuEcZAcvEF1,43.0,1974,0.573,0.5429999999999999,4.0,0.0,0.865,105.089,290893,Jorge Ben,Errare Humanum Est,A Tabua De Esmeralda,samba,1974,1970s,False,True,False,1
+dwiK2oMGGlufVCY2,2RsIMMh9vfuaQanujKuqUq,30.0,1974,0.222,0.144,9.0,1.0,0.163,78.687,189267,Randy Newman,Marie,Good Old Boys,"rock,pop",1974,1970s,False,True,False,1
+eVTughwhblPqa4Sj,4F1p9de1hUXV7l0DBpPUhL,52.0,1974,0.256,0.863,5.0,1.0,0.521,158.947,389333,UFO,Rock Bottom - 2007 Remaster,Phenomenon (2007 Remaster),"hard rock,rock",1974,1970s,False,True,False,1
+fqMrss7xuYDmEzZE,1egCIlK7j1ioz15rh3BYHN,30.0,1974,0.477,0.912,10.0,1.0,0.68,126.484,173800,Roxy Music,All I Want Is You,Country Life (Remastered),"glam rock,rock",1974,1970s,False,True,False,1
+kJWM0hXMcpCMxwdz,2dMLwn8j56Z0IRbmspUzXm,20.0,1974,0.688,0.85,5.0,1.0,0.872,103.69,178000,Martinho Da Vila,"Patrão, Prenda Seu Gado",Martinho da Vila,samba,1974,1970s,False,True,False,1
+1oDsaJXFx2eQooNV,59w0sJFmdFD9oAfMm5WRT3,26.0,1975,0.449,0.303,2.0,1.0,0.615,77.325,234480,Gilberto Gil,Pai E Mãe,Refazenda,mpb,1975,1970s,False,True,False,1
+JP8m3lFdsAaik6hR,48oEdT2SQwD7KX8Na70Omy,27.0,1975,0.259,0.453,4.0,0.0,0.302,80.078,223840,Black Sabbath,Supertzar,Sabotage (2014 Remaster),"hard rock,classic rock,metal",1975,1970s,False,True,False,1
+SGMCtsHU9pLlS9op,1B8EEErIOWejTin5Tweb8e,26.0,1975,0.341,0.42,2.0,0.0,0.58,113.804,325173,Camel,Dunkirk,The Snow Goose,"progressive rock,classic rock",1975,1970s,False,True,False,1
+i5aqYA5Rfd9s6muV,5eVjE8FDSDXQLSbTZSA5Qv,47.0,1975,0.514,0.234,4.0,1.0,0.454,173.644,203507,Bob Dylan,Buckets of Rain,Blood On The Tracks,"folk,singer-songwriter,folk rock,classic rock",1975,1970s,False,True,False,1
+pVMdacYZ8F6Xn792,6PWTpE51z9JaCPO1oA8X8q,29.0,1975,0.417,0.386,2.0,1.0,0.25,79.952,251760,Electric Light Orchestra,Waterfall,Face the Music,"classic rock,symphonic rock,rock",1975,1970s,False,True,False,1
+3z8wOm96xSmJjqCN,6dEKu4xcuudmcIjNLhyUhd,31.0,1976,0.5579999999999999,0.731,0.0,0.0,0.7909999999999999,118.798,456493,First Choice,Dr. Love,Salsoul Classics Vol. 1,"soul,disco",1976,1970s,False,True,False,1
+AfIyeyEcjH6NS7fH,1X3OsCYIN7uaBnorGRWMRB,22.0,1976,0.431,0.93,9.0,1.0,0.453,128.828,206880,Black Sabbath,Rock 'N' Roll Doctor,Technical Ecstasy (2013 Remaster),"hard rock,metal",1976,1970s,False,True,False,1
+AtXtJWUQylTH8Izn,2vmXFXcr44JSrZ1MpgWLRa,23.0,1976,0.414,0.116,9.0,1.0,0.0504,110.618,262467,Elis Regina,Tatuagem,Falso Brilhante,mpb,1976,1970s,False,True,False,1
+KEx5BLuVQ8jx1TdO,73lYI49LhfsscO33ohrGN0,54.0,1976,0.71,0.589,0.0,1.0,0.65,144.601,279360,Peter Tosh,Legalize It,Legalize It (Legacy Edition),"reggae,roots reggae,reggae,roots reggae",1976,1970s,False,True,False,1
+QCAOPQiHko6vrPJK,75PHqzep3Lf11sIYP5ps5q,55.0,1976,0.627,0.875,0.0,1.0,0.8540000000000001,110.521,250240,Van McCoy,The Hustle,The Hustle & The Best of Van McCoy,"disco,pop",1976,1970s,False,True,False,1
+Vh0xAmazWLyVAe4K,0sMTdzsZ67hYfSka4fCRSz,32.0,1976,0.622,0.39,9.0,0.0,0.409,130.023,129267,Luiz Melodia,Veleiro Azul,Maravilhas Contemporâneas,"mpb,samba",1976,1970s,False,True,False,1
+fy416rwoUQBOAukF,5vfTYYKnKms8Q4d3YN49OK,22.0,1976,0.236,0.759,2.0,0.0,0.747,164.53099999999995,298493,Black Sabbath,All Moving Parts (Stand Still),Technical Ecstasy (2013 Remaster),hard rock,1976,1970s,False,True,False,1
+4XNPZxNzkHBSVmZC,6Yih6YZRyrvcMNqVWtZgqY,4.0,1977,0.486,0.52,0.0,1.0,0.431,90.829,258933,Clara Nunes,Sagarana,As Forças Da Natureza,"samba,mpb",1977,1970s,False,True,False,1
+5sZh50GfFeQDppye,63H85bBeoHVAiw34YXQQXY,19.0,1977,0.173,0.914,7.0,1.0,0.506,184.295,97173,The Damned,Fish,Damned Damned Damned,punk,1977,1970s,False,True,False,1
+ELKhcD5kSG0hrmfg,3fHrnF1MxAZaiGVkGIxM9h,32.0,1977,0.7659999999999999,0.636,11.0,0.0,0.8440000000000001,102.17,515733,Parliament,Bop Gun (Endangered Species),Funkentelechy Vs. The Placebo Syndrome,"funk,soul",1977,1970s,False,True,False,1
+IFzJQV7WP5eX8Gm0,6MlM7j7otOKpa0jFi8htxm,42.0,1977,0.619,0.368,8.0,0.0,0.795,164.918,288373,Rufus,Everlasting Love,Ask Rufus,soul,1977,1970s,False,True,False,1
+sanAggO23pEV3YlM,6IMlcKjsIM3l3yXWykTa3y,49.0,1977,0.721,0.488,4.0,0.0,0.884,152.292,363373,The Clash,Police & Thieves - Remastered,The Clash,"rock,new wave",1977,1970s,False,True,False,1
+v8lDYaRVFNocOs1e,70aUjWZmd9F3bRSsR4DwAJ,48.0,1977,0.804,0.233,2.0,1.0,0.583,90.639,196800,James Taylor,Handy Man,JT,"folk,singer-songwriter,soft rock",1977,1970s,False,True,False,1
+1uXDQ2bocb32XC8x,0juUBRf9y5nms287Nb6n6D,25.0,1978,0.629,0.285,9.0,1.0,0.718,111.321,227600,Siouxsie and the Banshees,Overground,The Scream,"post-punk,new wave,gothic rock",1978,1970s,False,True,False,1
+5NPIflBQIHPLl0ZY,2j9Rx1tUTSMPTADLEUVjzR,23.0,1978,0.578,0.831,2.0,1.0,0.92,128.618,236892,Blondie,I Know But I Don't Know,Parallel Lines,"new wave,rock",1978,1970s,False,True,False,1
+DWydTVbEPE1sgEpi,4a9Zle3BpLH6p6BwCwqHQl,23.0,1978,0.446,0.752,9.0,0.0,0.47,132.467,230707,Tim Maia,Se eu lembro faz doer,Disco Club,"soul,mpb,funk",1978,1970s,False,True,False,1
+GYOPxcLEkSGrVDMO,2Xb6wJYGi0QXwURw5WWvI5,64.0,1978,0.7829999999999999,0.322,0.0,1.0,0.77,128.226,267773,Gerry Rafferty,City To City,City To City,"singer-songwriter,pop,classic rock",1978,1970s,False,True,False,1
+IrjswztZEIKISBcY,60FRsJnxV5OC0ueBwYB0yT,43.0,1978,0.4370000000000001,0.605,7.0,1.0,0.49,144.866,302200,Belchior,Comentário A Respeito De John,2 é Demais,mpb,1978,1970s,False,True,False,1
+LUcqi7ygl34KR7yE,5Vrczz39CvlD3OGCa6utoA,61.0,1978,0.82,0.464,11.0,1.0,0.872,109.374,207307,Frankie Valli,Grease,Frankie Valli...Is The Word,"soundtrack,disco",1978,1970s,False,True,False,1
+o6DGDjPIa8KJywFL,6vus9MVHn3VwrT4RBaZeKY,25.0,1978,0.223,0.7809999999999999,9.0,0.0,0.5589999999999999,146.673,387569,Black Sabbath,Johnny Blade,Never Say Die! (2013 Remaster),"hard rock,metal",1978,1970s,False,True,False,1
+vFWzMJvXI7mf5rMy,04gIwGfieeCStpCG8LpxH7,4.0,1978,0.237,0.337,11.0,0.0,0.0407,60.84,66425,Throbbing Gristle,Blood on the Floor,D.O.A. The Third and Final Report of Throbbing Gristle (Remastered),industrial,1978,1970s,False,True,False,1
+zwN0aI8DoUK6t0CA,203I18EujbHxu9qqDP8YVj,33.0,1978,0.22,0.3720000000000001,0.0,1.0,0.0622,121.677,202107,Milton Nascimento,Nascente,Clube Da Esquina 2,latin,1978,1970s,False,True,False,1
+1o98tADF3yf320xp,7fDzG8eOkIJ1HgVqebjelq,26.0,1979,0.6890000000000001,0.915,1.0,0.0,0.7040000000000001,119.378,164933,Madness,My Girl,One Step Beyond...,"ska,new wave",1979,1970s,False,True,False,1
+FYIU2ttwJr3GGEdZ,579cqjkDzrqCyje6uV5sfw,9.0,1979,0.479,0.828,11.0,0.0,0.7020000000000001,109.829,103120,The Dickies,Got It At The Store,The Incredible Shrinking Dickies (Expanded Version),"punk,pop punk",1979,1970s,False,True,False,1
+ZrJjUVlAFBOn2TuH,2Qm98Rw4rdfvo14ZOUiZTN,42.0,1979,0.393,0.132,4.0,0.0,0.293,87.16799999999998,464667,Peter Green,A Fool No More,In the Skies,"blues,rock,blues",1979,1970s,False,True,False,1
+mfWkQcyxa61bVVoE,5MtnbY0fACKCYyMAsSPmSf,50.0,1979,0.317,0.599,9.0,1.0,0.113,124.492,287573,Joy Division,Day of the Lords,Unknown Pleasures,"post-punk,new wave",1979,1970s,False,True,False,1
+zabYSTRpUMtPISCO,5jF05vx2k6xwj3wRKswNRc,10.0,1979,0.238,0.906,0.0,1.0,0.454,153.084,168800,The Birthday Party,Guilt Parade,Hee Haw,post-punk,1979,1970s,False,True,False,1
+1716lIWVhX5MUNID,4rcHWl68ai6KvpXlc8vbnE,68.0,1980,0.306,0.722,0.0,1.0,0.41,174.732,200293,REO Speedwagon,Keep On Loving You - Remastered,Hi Infidelity (30th Anniversary Edition),"rock,soft rock,classic rock,rock",1980,1980s,False,True,False,1
+3VpAfrFfuT1NWjUP,1yT2euhsWazs0WEnrqjXk9,27.0,1980,0.583,0.733,10.0,1.0,0.665,121.723,229493,Scorpions,Make It Real,Animal Magnetism,"hard rock,classic rock",1980,1980s,False,True,False,1
+5EUyc4czwe7pcJqL,3F8ddXLIHVLdunzh6fLvKs,40.0,1980,0.613,0.957,0.0,1.0,0.715,100.469,261813,The Clash,Hitsville U.K.,Sandinista!,"punk,rock",1980,1980s,False,True,False,1
+EkKbwXy1Wot9kifd,0PIqPVfz3fswMtSEeRWiWq,21.0,1980,0.467,0.825,5.0,0.0,0.88,75.46300000000002,190893,Madness,Embarrassment,Absolutely,"ska,pop",1980,1980s,False,True,False,1
+mOmT7CO1gxnIEffQ,2ifpWVChV5iLsHozrX6IHQ,38.0,1980,0.73,0.61,0.0,1.0,0.779,106.512,261000,Carly Simon,Jesse,Come Upstairs,"rock,soft rock,pop",1980,1980s,False,True,False,1
+yRWnMBqpoo1GBhhN,33p7jMh4ThQdZ3fe6scpfI,41.0,1980,0.721,0.0462,1.0,0.0,0.183,103.8,259960,Michael Franks,Lotus Blossom,One Bad Habit,"smooth jazz,easy listening,jazz,lounge",1980,1980s,False,True,False,1
+KU8OvDjLL1OyfI4N,5LPFhsg2rihdQCyOiDQJFu,59.0,1981,0.563,0.438,9.0,0.0,0.46,102.378,219585,Amanda Miguel,El Me Mintio,El Sonido Vol. 1,"latin pop,pop",1981,1980s,False,True,False,1
+QMvMhKYQKYKoluja,1B5YiZ4fdaXwaagQB4CfVu,26.0,1981,0.5479999999999999,0.664,2.0,1.0,0.7709999999999999,124.44,232773,The Psychedelic Furs,She Is Mine,Talk Talk Talk,"new wave,post-punk",1981,1980s,False,True,False,1
+UH7ugI0cjRMsocKJ,0ZfhFj3lE35k06IGt6tveF,28.0,1981,0.294,0.997,4.0,1.0,0.0385,117.083,217560,Girlschool,C'mon Let's Go,Hit and Run (Bonus Track Edition),hard rock,1981,1980s,False,True,False,1
+h7YM5OjSe8UXn9GH,3NCCzw9yBPGELQdNC2ZcR2,16.0,1981,0.259,0.972,9.0,1.0,0.0721,133.773,267267,Flipper,Shed No Tears,Album - Generic Flipper,"noise rock,punk",1981,1980s,False,True,False,1
+m2TyKpaUKiPknho4,2vkUaRkZ3YXJxmtfzvaCNc,9.0,1981,0.274,0.924,2.0,1.0,0.397,98.924,168627,The Birthday Party,Figure of Fun,Prayers on Fire,post-punk,1981,1980s,False,True,False,1
+wXOwiQ1RqkgbVwEk,3DaC3oRpGInTU0x8DvdSGp,31.0,1981,0.467,0.738,1.0,0.0,0.317,112.325,115800,Black Flag,Damaged I,Damaged,"hardcore punk,punk,hardcore",1981,1980s,False,True,False,1
+GldcNhgBKTOLqrzV,3lrQFKjwoDladcpdSauYCj,35.0,1982,0.5489999999999999,0.821,1.0,0.0,0.7859999999999999,96.948,70733,Descendents,Kabuki Girl,Milo Goes To College,punk,1982,1980s,False,True,False,1
+Znd3aLGkHtFndIhm,4YnYtYWBmDM8YjfMMK0cqs,38.0,1982,0.309,0.82,1.0,1.0,0.399,174.762,201947,Cock Sparrer,We're Coming Back,Shock Troops,"oi,punk",1982,1980s,False,True,False,1
+aHuO9YbF80pTCVLY,7vuSGejUXpD365Nl9tyehq,57.0,1982,0.912,0.534,6.0,0.0,0.963,114.681,275813,Patrice Rushen,Forget Me Nots,Straight From The Heart,"funk,disco,soul",1982,1980s,False,True,False,1
+ku0nCNXQo8cX1LTN,255k7GWdOau9yOsewX85lg,35.0,1982,0.619,0.755,2.0,1.0,0.5920000000000001,123.104,227600,The Who,Athena,It's Hard,"classic rock,rock",1982,1980s,False,True,False,1
+6DrcIdynuSW9e6Sy,24mDapIPTX2AofID2y8nIo,21.0,1983,0.455,0.872,0.0,1.0,0.504,108.745,93160,Black Flag,American Waste,The First Four Years,"hardcore punk,punk,hardcore",1983,1980s,False,True,False,1
+JrRfUMtNk6iLpIq2,27DEhFC0G2olRFgCTksnfw,51.0,1983,0.544,0.797,7.0,1.0,0.885,177.188,220173,Nena,Nur geträumt,Nena,neue deutsche welle,1983,1980s,False,True,False,1
+MDBfTwl01PPkkZav,7sq2J02xkGzHw1ETwISnbd,48.0,1983,0.484,0.6859999999999999,1.0,0.0,0.735,157.69899999999996,171827,Divinyls,Boys In Town,Desperate,"new wave,rock,new wave",1983,1980s,False,True,False,1
+MOsxNqfmueCjlTZa,0eZG5AH0DCMAbYKRsrDeQV,18.0,1983,0.762,0.393,7.0,1.0,0.8,108.267,231987,Depeche Mode,Shame,Construction Time Again (2007 Remastered Edition),"synthpop,new wave",1983,1980s,False,True,False,1
+mH4Y2alqTnbDwCad,2foi8JM7yt5iuwWckMhIqa,22.0,1983,0.203,0.924,2.0,0.0,0.412,171.097,256667,Black Sabbath,Born Again,Born Again (2004 Remaster),"hard rock,metal",1983,1980s,False,True,False,1
+vDRSMUzGdM7zB6Jj,72OrfuJ9RxfLCoqAMeKHCZ,47.0,1983,0.8390000000000001,0.623,1.0,1.0,0.6679999999999999,103.799,235373,New Edition,Candy Girl,Candy Girl,"pop,soul",1983,1980s,False,True,False,1
+wqSM88npEpq9KOwq,2KVrZKnaDbu9Ik9aMHe8J3,36.0,1983,0.555,0.375,1.0,0.0,0.487,138.99200000000002,273667,Bob Dylan,Sweetheart Like You,Infidels,"rock,folk,classic rock,folk rock,soft rock",1983,1980s,False,True,False,1
+znyyJeg7pIVLyyrk,6WEEA3pDQVogiNND0jRfoJ,41.0,1983,0.5820000000000001,0.257,4.0,1.0,0.478,114.127,339293,Paul Simon,Hearts and Bones,Hearts And Bones,"classic rock,folk,singer-songwriter",1983,1980s,False,True,False,1
+0M2XLvJG7NTAL0U6,34Pobuh81Cvth4YZ6qdLdI,46.0,1984,0.508,0.8320000000000001,11.0,0.0,0.69,124.549,192160,David Bowie,Blue Jean,Tonight,"rock,classic rock,pop,rock,glam rock,classic rock",1984,1980s,False,True,False,1
+3LnnbEUlt6gae8cO,3t8XII1JZeE1Frzc6kxAmQ,22.0,1984,0.679,0.872,0.0,1.0,0.715,127.391,216667,Madness,Michael Caine,Keep Moving,"ska,pop,new wave",1984,1980s,False,True,False,1
+EULhmxKBECV2MmTD,6lOMb2emnIL0QNOrsPW4aq,30.0,1984,0.395,0.6629999999999999,7.0,1.0,0.278,135.261,303333,Xmal Deutschland,Mondlicht,Tocsin,"gothic rock,post-punk",1984,1980s,False,True,False,1
+TihWOL1hFJ5z5bjt,6W03BOggURVJECgPfpz7Gh,34.0,1984,0.713,0.46,2.0,1.0,0.483,135.482,304213,The Egyptian Lover,I Cry (Night After Night),On the Nile,electro,1984,1980s,False,True,False,1
+W7H0L69bDUhwkNj9,15qBdyeOsal1QJvB3ysW9g,46.0,1984,0.5429999999999999,0.633,2.0,1.0,0.613,151.609,287000,Willie Nelson,City of New Orleans,City Of New Orleans,country,1984,1980s,False,True,False,1
+eeR5p25cuheH0d2x,5q1zOG2Yhmsqw99HS52L2j,18.0,1984,0.144,0.792,6.0,0.0,0.3229999999999999,176.455,275893,Hellhammer,Messiah,Apocalyptic Raids,"black metal,thrash metal,death metal",1984,1980s,False,True,False,1
+gZweRzTBLBZ9gti1,4nd6FMCfNFWkbi2dnsf5I3,53.0,1984,0.416,0.004,7.0,1.0,0.445,81.221,190560,Erik Satie,Trois Gymnopédies: No. 1,Satie: 3 Gymnopédies; 6 Gnossiennes etc.,easy listening,1984,1980s,False,True,False,1
+pnPHOy8Yye0yYkNM,1Jfd3DtmvV3cpljabW3cDN,19.0,1984,0.434,0.0845,9.0,0.0,0.298,175.25400000000005,325653,Nick Cave & The Bad Seeds,Well Of Misery,From Her To Eternity (2009 Remastered Version),"post-punk,rock,singer-songwriter,alternative rock",1984,1980s,False,True,False,1
+2vbdSd0aznHNVzEh,4Cl7PGkgUy6GxyMeJAer5Q,26.0,1985,0.33,0.949,4.0,1.0,0.725,68.661,122573,Beat Happening,What's Important,Beat Happening,"lo-fi,indie pop,lo-fi,indie pop",1985,1980s,False,True,False,1
+PgJI3Ahd2iZizmaO,0WnVjkW8k8Zo37JAI7K8zF,48.0,1985,0.7170000000000001,0.6509999999999999,9.0,1.0,0.904,114.471,236333,Orchestral Manoeuvres in the Dark,Secret,Crush,"new wave,synthpop,pop",1985,1980s,False,True,False,1
+QUqWCa8AqCCflwye,1ko2lVN0vKGUl9zrU0qSlT,62.0,1985,0.8029999999999999,0.488,1.0,1.0,0.624,95.771,237106,"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),Anthology,"smooth jazz,jazz,jazz,smooth jazz",1985,1980s,False,True,False,1
+daDqe2olj6TIqVu8,4KU3A3VlCDwPJVxLz3WM3z,33.0,1985,0.636,0.733,1.0,1.0,0.821,153.987,273467,Bryan Ferry,Windswept,Boys And Girls (Remastered 1999),"rock,pop,classic rock",1985,1980s,False,True,False,1
+iG30Xc8sk0I0dDHG,2LdtluFBgL8cuSo9nkvJ57,44.0,1985,0.342,0.0751,1.0,1.0,0.184,124.233,224867,Commodores,Still,All The Great Love Songs,"soul,motown",1985,1980s,False,True,False,1
+iZeGpa4DeGww5Zv5,1OxUd69NdTtJijLjlLb5B4,43.0,1985,0.525,0.937,0.0,1.0,0.335,110.554,158360,Mötley Crüe,Use It Or Lose It,Theatre of Pain,hard rock,1985,1980s,False,True,False,1
+4dtetdgx27KubclD,3tpZGughvVt9faNl89jzj4,37.0,1986,0.335,0.997,6.0,0.0,0.193,123.775,100507,Slayer,Necrophobic,Reign In Blood,"thrash metal,metal,slayer",1986,1980s,False,True,False,1
+aMYgfO8v32HK4ReI,5974yVlI3XerYJNzlF7N3H,3.0,1986,0.6459999999999999,0.79,4.0,1.0,0.5539999999999999,109.007,246467,Roxette,From One Heart to Another,Pearls Of Passion,pop,1986,1980s,False,True,False,1
+nSZciweKxbqJ9RsI,4tjmnH63AMBjaPdtHOpq4Q,51.0,1986,0.469,0.87,2.0,0.0,0.5,134.577,223733,RPM,Alvorada Voraz - ao vivo,Radio Pirata Ao Vivo,"rock,brazilian rock,pop rock",1986,1980s,False,True,False,1
+rbKLvtpwg3zLpDxu,1XvfncS1t4BNkh37klHeqj,53.0,1986,0.596,0.947,11.0,0.0,0.487,102.238,132853,Hombres G,Marta Tiene Un Marcapasos,La Cagaste... Burt Lancaster,lounge,1986,1980s,False,True,False,1
+sATo7t1MQZC1yoCS,7u6qf1AoPDlgm49eVRFQaR,13.0,1986,0.0725,0.0168,5.0,0.0,0.0319,177.19,72200,Black Sabbath,Sphinx (The Guardian),Seventh Star (2004 Remaster),metal,1986,1980s,False,True,False,1
+wxDeTjSbTtfchYQd,11TjIWJL0NldXSujEzx6qw,24.0,1986,0.34,0.345,2.0,1.0,0.284,171.4,205960,Cocteau Twins,Little Spacey,Victorialand,"dream pop,ambient,shoegaze",1986,1980s,False,True,False,1
+zL1fQptYWHfL1NZ8,0gr14KOtRmtcV0z4dXJG2T,18.0,1986,0.324,0.925,6.0,0.0,0.235,101.878,384173,Destruction,Life Without Sense,Eternal Devastation,"thrash metal,metal,thrash metal,metal",1986,1980s,False,True,False,1
+zLE3QUKujFQ7lPDW,7cWVuLuQrH3kqWeMAbIOPs,33.0,1986,0.563,0.645,10.0,0.0,0.597,119.681,353973,Clan of Xymox,Medusa,Medusa,"gothic rock,electronic",1986,1980s,False,True,False,1
+JMB8ieGeqTMmFTkQ,2ksadH0rmJCMAQ8r3Najnt,38.0,1987,0.245,0.933,4.0,0.0,0.456,178.555,209000,Celtic Frost,Mexican Radio,Into the Pandemonium (Bonus Track Edition),"thrash metal,metal,black metal",1987,1980s,False,True,False,1
+UXMFqAPBFvQjgf7G,7bokoUfReZCLOoCB4pXUDd,15.0,1987,0.701,0.723,4.0,1.0,0.946,145.559,210160,Xuxa,Hey Mickey,Xegundo Xou da Xuxa,pop,1987,1980s,False,True,False,1
+VBlnzvS2yQ4WiASL,5aWvinQcbc1W1WdP0GQ6J1,53.0,1987,0.6920000000000001,0.905,10.0,1.0,0.667,109.705,263680,Icehouse,Icehouse,Man Of Colours,"new wave,synthpop",1987,1980s,False,True,False,1
+VgOPQJbJYLZWOqJG,2XkuSbp5say8nZW8g6156Z,50.0,1987,0.5820000000000001,0.575,7.0,1.0,0.5579999999999999,140.601,140867,Sam The Sham & The Pharaohs,Wooly Bully,Full Metal Jacket (Original Motion Picture Soundtrack),"classic rock,garage rock,rock",1987,1980s,False,True,False,1
+aOlLvKeJpwLMOLFi,5IfSEpxmVAyu41B3xMqbZQ,40.0,1987,0.7390000000000001,0.65,5.0,1.0,0.902,126.414,258573,ABC,When Smokey Sings,Alphabet City,"new wave,pop",1987,1980s,False,True,False,1
+gMOsUcUGFKCIqLEr,5gWhhJ2EZmZ8GsvNSapNHX,11.0,1987,0.194,0.8440000000000001,7.0,1.0,0.227,88.604,358893,Celtic Frost,Rex Irae (Requiem),Into the Pandemonium (Bonus Track Edition),"metal,thrash metal,gothic metal,black metal,black metal,thrash metal,doom metal",1987,1980s,False,True,False,1
+i23rjYLYSz3ht7oe,4RZqXtdJaIYjcNa7LB5cxK,26.0,1987,0.222,0.889,4.0,0.0,0.3229999999999999,221.112,100507,Big Black,L Dopa,Songs About Fucking,"noise rock,punk,hardcore",1987,1980s,False,True,False,1
+H9hYo7nMc8AYedDd,2gNyCHDGyHrw3lCpT9LqlY,46.0,1988,0.7240000000000001,0.738,11.0,0.0,0.93,89.977,292467,Mylène Farmer,Pourvu Qu'Elles Soient Douces,Ainsi Soit Je,pop,1988,1980s,False,True,False,1
+WwXNu1Vc0AmIOlzl,7oxwhQxkGegjlMf3k9sWgm,50.0,1988,0.478,0.176,10.0,1.0,0.534,144.143,254000,Antônio Carlos Jobim,Desafinado,Jazz 'Round Midnight,"bossa nova,jazz",1988,1980s,False,True,False,1
+ghjUEz5JNVbVTC89,2ixCoRL71z0cmHKwZGEhYE,40.0,1988,0.7190000000000001,0.313,5.0,0.0,0.505,121.914,335067,Toto,Mushanga,The Seventh One,"rock,pop,classic rock",1988,1980s,False,True,False,1
+uGavuEc4V6W0Z8uz,0gDZ6QNeLbDQk8DMi6DdQa,25.0,1988,0.515,0.623,2.0,1.0,0.6609999999999999,110.146,207480,Galaxie 500,Pictures,Today,"shoegaze,dream pop,indie rock",1988,1980s,False,True,False,1
+yt9YzKUdhF7VXoTK,6FwoAekQelrCxhP9tVu1ju,31.0,1988,0.481,0.625,5.0,1.0,0.4370000000000001,120.078,179280,Cocteau Twins,Athol-Brose,Blue Bell Knoll,dream pop,1988,1980s,False,True,False,1
+2EWpHBPphNRfgUCr,3ojDU1HhKEfdExIN6QsK8q,42.0,1989,0.665,0.904,2.0,1.0,0.573,101.805,294413,Bobby Brown,On Our Own,Ghostbusters II,"new jack swing,pop,soundtrack",1989,1980s,False,True,False,1
+Iv5whTKfJWxvUVmt,3NNRDMmQzPjaUWNyAJb3bB,29.0,1989,0.5489999999999999,0.7440000000000001,0.0,1.0,0.823,202.461,248867,Prince,Electric Chair,Batman,"soundtrack,rock,funk,soul",1989,1980s,False,True,False,1
+a2rfheDFVxafJTVS,06jpk6ydgD3gl9l6sW3pbC,27.0,1989,0.332,0.981,2.0,1.0,0.101,107.24,91467,Gorilla Biscuits,Forgotten,Start Today,"hardcore punk,hardcore,straight edge",1989,1980s,False,True,False,1
+fnp05PopaiPigu5S,43uFdcIBsbLcNHubpwx4yy,36.0,1989,0.285,0.977,8.0,1.0,0.599,172.213,111307,Operation Ivy,Jaded,Operation Ivy (2007 Remaster),"punk,ska punk",1989,1980s,False,True,False,1
+gCU4ljgvOZkZF2vs,0Xd2QGTMxweKlplNrJ9jNx,35.0,1989,0.383,0.911,4.0,1.0,0.539,149.234,204173,The Offspring,Blackball,The Offspring,punk,1989,1980s,False,True,False,1
+jrjw8gs4FGJ8BBK2,0TSQVWntKmXDWbD4ZRzoxT,14.0,1989,0.551,0.575,9.0,1.0,0.296,106.085,175400,Peter Gabriel,It Is Accomplished,Passion: Music for The Last Temptation of Christ,"ambient,soundtrack",1989,1980s,False,True,False,1
+lE1XH75V5I0db2ch,288uCQ0mWfftrMh2VlAz81,13.0,1989,0.239,0.63,6.0,1.0,0.0366,127.303,330000,Godflesh,Mighty Trust Krusher,Streetcleaner,"industrial metal,metal",1989,1980s,False,True,False,1
+nqKSozRsKABIW2ny,1DocEW5Vym3fuAHkWN81LE,53.0,1989,0.805,0.313,3.0,1.0,0.8370000000000001,106.754,229933,Marisela,Sola con Mi Soledad,"15 Éxitos de Marisela, Vol. 2","pop,latin pop",1989,1980s,False,True,False,1
+qTOv5AaaiTbLIbxM,6hTVPfhLNMtecAaJPvVYCf,38.0,1989,0.542,0.716,3.0,1.0,0.659,137.748,206117,Luis Miguel,No Me Puedes Dejar Asi,14 Grandes Exitos,latin,1989,1980s,False,True,False,1
+sbldfWv6WYRbtI5Z,3AT2gH4qI0zz54Y1wKt650,41.0,1989,0.68,0.903,10.0,1.0,0.7829999999999999,120.542,231587,Kylie Minogue,Enjoy Yourself,Enjoy Yourself,pop,1989,1980s,False,True,False,1
+GrvykDOqwf8ArQA5,7ARIbfiiJA4nyuXyXsGxJL,14.0,1990,0.363,0.867,11.0,0.0,0.243,105.05,167000,Lush,Thoughtforms,Gala,"shoegaze,dream pop",1990,1990s,False,True,False,1
+NRCxQuHRCCQp4izd,0hYeFd1LFWrIFvRmRGBiUR,40.0,1990,0.363,0.723,6.0,0.0,0.271,98.268,428919,Anthrax,Keep It In The Family,Persistence Of Time,"thrash metal,metal",1990,1990s,False,True,False,1
+NaGr21eJQGZB2Iow,5yOekTEf67Hl1j4C2CrmlF,5.0,1990,0.579,0.458,5.0,1.0,0.6859999999999999,108.897,229333,Caetano Veloso,Outras Palavras,The Best Of Caetano Velose - Sem Lenco Sem Documento,"mpb,cantautor",1990,1990s,False,True,False,1
+OeGauyK7mM4bTkNp,0uSpIAPDZYULLDJAbSg7r0,26.0,1990,0.292,0.977,8.0,0.0,0.12,109.513,331400,Kreator,When the Sun Burns Red,Coma of Souls,"thrash metal,metal",1990,1990s,False,True,False,1
+TisBJxOjoefQ3023,2KbTRhqw90FAVMkTG99qO1,22.0,1990,0.185,0.0917,0.0,1.0,0.11,70.436,225613,Dead Can Dance,The Song of the Sibyl,Aion (Remastered),"medieval,ambient",1990,1990s,False,True,False,1
+bYBmUWxnogl2WguT,4x37OnzX0hKoYonB9G5w6O,22.0,1990,0.431,0.688,8.0,1.0,0.368,99.974,257027,Nick Cave & The Bad Seeds,The Hammer Song,The Good Son (2010 Remastered Version),rock,1990,1990s,False,True,False,1
+j6yHO7t6Io8IGlXj,05GcclyhZv49AF9ZMX20dG,29.0,1990,0.216,0.124,5.0,1.0,0.0344,123.66,207240,Angelo Badalamenti,Night Life in Twin Peaks - Instrumental,Soundtrack From Twin Peaks,"soundtrack,ambient,jazz",1990,1990s,False,True,False,1
+mto4PdERBeoD9ics,6NdcSEhpGGAYXNnnhGS2s6,65.0,1990,0.542,0.915,9.0,1.0,0.92,159.81,175400,The Romantics,What I Like About You,What I Like About You (And Other Romantic Hits),"rock,new wave,classic rock,power pop",1990,1990s,False,True,False,1
+wzDMcadBxDUb6QeK,1BPBNM6raRVpRRi5AmTtEm,14.0,1990,0.575,0.846,2.0,1.0,0.5670000000000001,91.465,240507,Kylie Minogue,The World Still Turns,Rhythm of Love,pop,1990,1990s,False,True,False,1
+zVrq3MhqZnDFCEiw,14FEBzpNrarSwrDwIDrqHa,38.0,1990,0.6940000000000001,0.947,2.0,1.0,0.95,120.025,203120,Sonia,You'll Never Stop Me Loving You,Everybody Knows,"pop,disco",1990,1990s,False,True,False,1
+0ExIPg8J0CGcdKtb,7DDfGy1cstvJGETyYYnfig,25.0,1991,0.347,0.979,8.0,1.0,0.266,135.255,187213,Motörhead,The One to Sing the Blues,1916,"hard rock,metal",1991,1990s,False,True,False,1
+2WV9cYODbMIU1dsz,4hmEhlUYHxZPie8Ouhv372,23.0,1991,0.752,0.8140000000000001,1.0,0.0,0.657,116.019,211600,Paula Abdul,To You,Spellbound,pop,1991,1990s,False,True,False,1
+AEE627GREU3ETOpZ,71yXwcl1PNMmEBWYK6JMDV,48.0,1991,0.562,0.5720000000000001,8.0,0.0,0.473,84.792,233493,Sting,Mad About You,The Soul Cages,"rock,pop,singer-songwriter",1991,1990s,False,True,False,1
+Ox8Cbvs3VcKdEax5,48hpDiomq25LOQGAiVbq77,46.0,1991,0.62,0.72,6.0,0.0,0.853,119.964,236067,Erasure,Love to Hate You,Chorus,"synthpop,pop,new wave,electronic",1991,1990s,False,True,False,1
+Qz7M2xzyaaajAt1h,15XYdD283tK9iyJzL738bn,52.0,1991,0.612,0.627,1.0,1.0,0.393,125.918,322760,Mylène Farmer,L'Autre,L'Autre,pop,1991,1990s,False,True,False,1
+atZ5JeSsRGAorju6,6sOFtXSNLoM3tXjea2qg1z,20.0,1991,0.748,0.5589999999999999,4.0,0.0,0.565,124.973,305733,LFO,Simon from Sydney,Frequencies,"techno,electronic,electro",1991,1990s,False,True,False,1
+g8M1ItPoj5PEZsrT,2FjpNlxgvURWV3x1XdcPzy,30.0,1991,0.448,0.883,0.0,0.0,0.226,111.227,286093,The Smashing Pumpkins,Bury Me,Gish (Deluxe Edition),"alternative rock,rock,grunge",1991,1990s,False,True,False,1
+kAu5Iw2FYWTLkqrv,0Tjdbd83LEAWrA0atsXMDJ,45.0,1991,0.471,0.19,7.0,1.0,0.305,72.764,146733,The Everly Brothers,Let It Be Me,Best Of The Everly Brothers - Rare Solo Classics,pop,1991,1990s,False,True,False,1
+mAfQkNH0RyxiKFGK,2zDII2yGOUCdwlkfMq2ruB,19.0,1991,0.147,0.932,4.0,0.0,0.158,138.769,210507,Darkthrone,Sunrise Over Locus Mortis,Soulside Journey,"death metal,black metal,metal",1991,1990s,False,True,False,1
+tjJvlM1krULUlWrz,4OLYwM83eMyfV8yyFZAOPe,21.0,1991,0.3,0.5920000000000001,7.0,1.0,0.0715,126.96,628000,Bathory,Blood and Iron,Twilight of the Gods,viking metal,1991,1990s,False,True,False,1
+3Ey5usGZWWOV9T1F,7Imvh030lE3llIlUIC4Nr9,34.0,1992,0.204,0.395,2.0,0.0,0.22,51.43600000000001,226760,Vangelis,Light and Shadow,1492 (Conquest Of Paradise),"soundtrack,electronic,new age,ambient,electronic,new age,soundtrack",1992,1990s,False,True,False,1
+7LixE3yy8rariel2,0Lgpj2BfgNp4EJfk39Mjx7,12.0,1992,0.166,0.95,5.0,1.0,0.108,148.158,304733,Amorphis,Warriors Trial,Karelian Isthmus,"death metal,melodic death metal",1992,1990s,False,True,False,1
+Mo6qihTavnBGST6o,63PIgPkDf3rswlU4ZWCYAM,54.0,1992,0.7440000000000001,0.851,10.0,0.0,0.626,105.882,293600,TLC,What About Your Friends,Ooooooohhh... On The TLC Tip,pop,1992,1990s,False,True,False,1
+UFGlGBQ5DhFck2k0,7qz9wPg9RiyFgn15vOfQwk,25.0,1992,0.474,0.147,10.0,1.0,0.0498,83.62100000000002,407867,Red House Painters,24,Down Colorful Hill,folk,1992,1990s,False,True,False,1
+VMCDrlp203Ov1lIs,22w4GnALIpPLK3FmlK8KRF,18.0,1992,0.442,0.784,0.0,1.0,0.614,102.234,158693,The Jesus Lizard,The Art of Self Defense,Liar,noise rock,1992,1990s,False,True,False,1
+hW9zt1NNUsvUWJtW,4EzZPB8OujNAeND6C2SduJ,35.0,1992,0.742,0.7340000000000001,1.0,1.0,0.723,126.988,319493,Bizarre Inc.,I'm Gonna Get You,Energique,house,1992,1990s,False,True,False,1
+mnjO9JOFEukV16nK,6agRMf0Wps2cw59fppsYKH,15.0,1992,0.41,0.72,4.0,0.0,0.623,150.174,306160,Lush,Monochrome,Spooky,"shoegaze,dream pop",1992,1990s,False,True,False,1
+oKlg7gKZAW9QWlyk,2AdIDytAkGnG4a2D2OOfFX,31.0,1992,0.526,0.909,0.0,1.0,0.638,132.895,217027,Warrant,All My Bridges Are Burning,Dog Eat Dog,hard rock,1992,1990s,False,True,False,1
+BCRhvFqXIcIgF554,1vNSJZgaRg57ZVSiuA5BVG,29.0,1993,0.804,0.682,11.0,0.0,0.966,123.132,238560,Boney M.,Happy Song,Gold - 20 Super Hits (International),disco,1993,1990s,False,True,False,1
+F25rVai0SvIvQ1xb,08jcVB28seFgQ5WrQiLKZQ,25.0,1993,0.67,0.0625,9.0,1.0,0.569,142.894,154773,Frank Sinatra,Five Minutes More,The Columbia Years (1943-1952): The Complete Recordings: Volume 4,"easy listening,jazz",1993,1990s,False,True,False,1
+RsAeplrJTbs6l9Lz,1Cf7dFkPLDptDBau5h29oI,10.0,1993,0.151,0.98,2.0,1.0,0.095,98.946,291627,Necrophobic,Sacrificial Rites,The Nocturnal Silence,"death metal,metal,death metal,black metal",1993,1990s,False,True,False,1
+hLDDA7EQuMK2pPuh,4wgr6gTTxKqol5hT1cPUdo,36.0,1993,0.8690000000000001,0.45,1.0,1.0,0.816,95.223,221800,Digable Planets,Jimmi Diggin Cats,Reachin' (A New Refutation Of Time And Space),hip hop,1993,1990s,False,True,False,1
+4G49r3ib45T0SbWc,6fckQ6vxP2p9dkZ8QQfcqz,17.0,1994,0.173,0.7879999999999999,9.0,0.0,0.126,145.99,349560,Dimmu Borgir,For All Tid,For All Tid,"black metal,norwegian black metal,symphonic black metal",1994,1990s,False,True,False,1
+5P3s28iq26f6rpxI,7wzaMIoQQdz7VKAk12yAIF,26.0,1994,0.723,0.633,11.0,0.0,0.915,94.086,269733,Brandy,Sunny Day,Brandy,soul,1994,1990s,False,True,False,1
+9WjVr5fxwGlbPSaW,3lGBvPUgO7MJltUnBlOpe9,58.0,1994,0.8079999999999999,0.726,10.0,0.0,0.616,96.12,221027,Gang Starr,Mass Appeal,Hard To Earn,"hip hop,rap,old school hip hop",1994,1990s,False,True,False,1
+B1Z16giTSHz5ftPt,4KQ2yW8BrFRkgvSx7uDito,31.0,1994,0.411,0.86,2.0,1.0,0.0386,156.958,385373,Dead Can Dance,Rakim,Toward The Within (Remastered),ambient,1994,1990s,False,True,False,1
+EpvLuUB2FCQA9ggk,5geT58aayKzvusx575xcaq,33.0,1994,0.643,0.000172,6.0,0.0,0.984,149.422,432907,NOFX,Scavenger Type,Punk In Drublic,punk,1994,1990s,False,True,False,1
+HXEcrJ9bF7E7eFUx,6xnPY0pNh5I7l4VOH62v6j,36.0,1994,0.4320000000000001,0.6679999999999999,7.0,1.0,0.875,121.417,254373,Raimundos,Selim,Raimundos,rock nacional,1994,1990s,False,True,False,1
+NnQr98Drg8HGFi27,3QlTzofanSqDWywxEzGGE2,46.0,1994,0.888,0.584,7.0,1.0,0.762,104.704,334440,Coolio,Fantastic Voyage,It Takes a Thief,"rap,rap",1994,1990s,False,True,False,1
+PCAHxk0ZBRhDSS9I,7zecUVb4DCwf42vcv3fcbP,54.0,1994,0.813,0.229,0.0,1.0,0.288,116.049,380613,Nick Cave & The Bad Seeds,Red Right Hand - Peaky Blinders Theme;Flood Remix,Red Right Hand (Theme from 'Peaky Blinders'),"post-punk,rock,singer-songwriter,alternative rock",1994,1990s,False,True,False,1
+RGue60OvGTHAuaSg,5H7FF15O9yujsj79WGSF3w,36.0,1994,0.616,0.209,5.0,1.0,0.428,134.924,185853,Jimi Hendrix,Hear My Train A Comin' (Acoustic),Blues,"blues,delta blues",1994,1990s,False,True,False,1
+VKjk2aYimnVZnNE5,6CZu9m8qu6PNucLXivZFeq,5.0,1994,0.309,0.398,9.0,1.0,0.627,133.94299999999998,151960,Lisa Germano,Stars,Geek the Girl,"singer-songwriter,dream pop",1994,1990s,False,True,False,1
+fZNfErRq2bPDhQvY,6baN5nSUIVTsUyugSuAj7U,46.0,1994,0.215,0.22,4.0,1.0,0.033,117.476,222373,Vangelis,Main Titles,Blade Runner (Music From The Original Soundtrack),"soundtrack,new age,ambient,electronic",1994,1990s,False,True,False,1
+jJdzLC9TTCgB0lpX,1hMDRoytCSFhnvmCoYqN5R,15.0,1994,0.617,0.486,7.0,1.0,0.514,137.222,165400,Kid Abelha,Seu Espião - Acústico,Meio Desligado (Acústico),"mpb,pop,mpb,pop",1994,1990s,False,True,False,1
+mqgC02zknKOSq66o,00t7QTffOR3SA3L1BvSQVq,57.0,1994,0.506,0.505,8.0,1.0,0.0788,76.016,170227,The Notorious B.I.G.,Suicidal Thoughts,Ready To Die The Remaster,rap,1994,1990s,False,True,False,1
+xKt0akBOBBhJGqyk,165wS8DOyhHPiNgB8vlfsE,38.0,1994,0.353,0.887,8.0,1.0,0.341,99.823,206093,Madball,Set It Off,Set It Off,"hardcore,nyhc",1994,1990s,False,True,False,1
+1chsZHuNP4owyPG4,2G2WTsOil5zwdP9GnUOVws,29.0,1995,0.415,0.807,9.0,1.0,0.326,110.623,282827,Sonic Youth,Becuz,Washing Machine,"experimental,noise rock",1995,1990s,False,True,False,1
+3svH0sauvANCcEx5,0vwBnZ096KeMUQFYWAffFL,19.0,1995,0.29,0.251,5.0,0.0,0.247,77.314,265040,Stevie Wonder,Taboo To Love,Conversation Peace,"soul,pop",1995,1990s,False,True,False,1
+40LoMDngDvMMFX7X,2puMrk8At4ws8Yo92320F7,27.0,1995,0.711,0.677,8.0,1.0,0.247,92.092,142107,Boards of Canada,Iced Cooly,Twoism,electronic,1995,1990s,False,True,False,1
+45GfvkxqVX8RmUoL,3nzDXsVZ47EBu9Y6gmumbF,26.0,1995,0.4370000000000001,0.812,7.0,0.0,0.7390000000000001,125.437,128493,The Amps,Tipp City,Pacer,alternative rock,1995,1990s,False,True,False,1
+4btqVEu4CLWj6U5R,7htuX4mIrg5njoVXm1QSkU,49.0,1995,0.684,0.7140000000000001,2.0,1.0,0.763,123.377,383827,Harold Melvin & The Blue Notes,The Love I Lost,The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass),"soul,philly soul,disco",1995,1990s,False,True,False,1
+4e68v4JTM9gzdlb7,7JapIbw0DdMY8FZfS3sTtd,28.0,1995,0.35,0.395,11.0,0.0,0.28,94.337,358933,Hum,I Hate It Too,You'd Prefer An Astronaut,"space rock,alternative rock,indie rock",1995,1990s,False,True,False,1
+YKLvCxfYFftwks3a,3oKST2HXbmF6ZEaytf7BU3,24.0,1995,0.412,0.937,1.0,1.0,0.436,137.004,317933,Meshuggah,Soul Burn,Destroy Erase Improve (Reloaded),"progressive metal,death metal,metal,progressive metal",1995,1990s,False,True,False,1
+YvLnMTFF6WEZ4uFV,1tpjZwsodyFBEo6kxrxLQr,35.0,1995,0.477,0.962,4.0,0.0,0.352,124.863,197333,Teenage Fanclub,Sparky's Dream,Grand Prix,power pop,1995,1990s,False,True,False,1
+bW7NFRYoMYfJl3Zv,0ItAcLSkUiePOmFGun3cSe,44.0,1995,0.261,0.979,7.0,1.0,0.362,175.866,307427,Death,Crystal Mountain,Symbolic (Remastered Version),"death metal,technical death metal,metal",1995,1990s,False,True,False,1
+fTWYwjkIeL8G8ObV,5INe9EN6cNF6axQ4A4BQfy,45.0,1995,0.267,0.654,8.0,1.0,0.599,80.885,225120,The Smashing Pumpkins,Here Is No Why,Mellon Collie And The Infinite Sadness (Deluxe Edition),"alternative rock,rock,grunge",1995,1990s,False,True,False,1
+lvEPQCROtcAax8Sl,1ZCkOPfivbA3q9ms6YwQcI,17.0,1995,0.197,0.805,10.0,1.0,0.248,140.293,302933,Theatre of Tragedy,Cheerful Dirge,Theatre of Tragedy,"gothic metal,doom metal",1995,1990s,False,True,False,1
+mxfO9V4RGSPl6vez,4QXhRjZacZ1gZUeL7Ukktw,47.0,1995,0.601,0.48,6.0,0.0,0.802,188.21400000000003,361107,Natalie Merchant,Carnival,Tigerlily,"singer-songwriter,rock",1995,1990s,False,True,False,1
+nacUzpwWwS9GV9nu,7L5K98q1TNiB9J2XqhPdJJ,27.0,1995,0.373,0.898,0.0,1.0,0.534,133.127,312160,Oasis,Cum On Feel The Noize - Remastered,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],"britpop,rock",1995,1990s,False,True,False,1
+qyU0u2UG62eHS1S0,6Vas6h9lB5mmeVDXdFqlQA,54.0,1995,0.655,0.8370000000000001,11.0,0.0,0.66,91.014,253613,Adina Howard,Freak Like Me,Do You Wanna Ride?,soul,1995,1990s,False,True,False,1
+sx2cd0ExfrWBIJhv,43QlNorMWn7KAfBnMOTmLn,40.0,1995,0.509,0.738,11.0,0.0,0.5670000000000001,143.8,185933,Mamonas Assassinas,Debil Metal,Mamonas Assassinas,"rock,comedy,metal,comedy rock",1995,1990s,False,True,False,1
+2cl57OymAqfqQNs0,2wHv6LZbHjXKnjredCjd9A,30.0,1996,0.396,0.464,0.0,0.0,0.0994,81.851,406493,Nick Cave & The Bad Seeds,Song of Joy,Murder Ballads (2011 Remastered Version),"rock,singer-songwriter,post-punk,rock",1996,1990s,False,True,False,1
+4OKBmr4mw63vOD32,1prNlxt0CJBXEC8Xp0wxYd,42.0,1996,0.436,0.579,9.0,0.0,0.296,131.151,201613,Cake,Friend Is a Four Letter Word,Fashion Nugget,"alternative rock,rock",1996,1990s,False,True,False,1
+6zhgJzraInVYUw2A,0bICBL91DMKRzO5gQrS4EL,10.0,1996,0.0943,0.272,4.0,1.0,0.302,89.794,358693,lovesliescrushing,Valerian (her voice honeyed),xuvetyn,shoegaze,1996,1990s,False,True,False,1
+8bzm12gdu34flJYa,6oNJnqLvtaLmWTuz3hj28U,28.0,1996,0.214,0.98,5.0,0.0,0.317,155.349,241093,In Flames,Lord Hypnos,The Jester Race (Reissue 2014),"melodic death metal,metal,death metal,swedish metal",1996,1990s,False,True,False,1
+AUuAm8U6ScZR2pEY,6zZmwY5qasaw7QtobXKpZs,52.0,1996,0.618,0.893,6.0,1.0,0.515,91.972,340907,Jamiroquai,Travelling Without Moving - Remastered,Travelling Without Moving,"funk,acid jazz,electronic,pop",1996,1990s,False,True,False,1
+IfLFzTinGkCKPypF,4oaj36KzXRgDg4McgcTsZK,58.0,1996,0.927,0.721,8.0,1.0,0.965,103.018,249382,Los Del Rio,Macarena,Fiesta Macarena,"latin,pop",1996,1990s,False,True,False,1
+O36TKXYtud7UyW4k,12KwQ5UHj6F8HzmAxlXPww,37.0,1996,0.504,0.726,0.0,1.0,0.493,104.139,350760,Cake,Italian Leather Sofa,Fashion Nugget,"alternative rock,rock",1996,1990s,False,True,False,1
+RQiRD1gXfa2ZPS17,2OxkfL5jW8bvYTCNDLlRSY,55.0,1996,0.348,0.393,1.0,1.0,0.357,132.069,153067,Charles Aznavour,She,Greatest Golden Hits,chanson,1996,1990s,False,True,False,1
+TXFJCCjUZmDd7oWD,0EYvyoSfbjHE6OLGXLH86F,26.0,1996,0.7959999999999999,0.7170000000000001,0.0,1.0,0.6629999999999999,110.399,343067,Pulp,Death Goes To The Disco,Countdown: 1992-1983,"britpop,rock",1996,1990s,False,True,False,1
+WkMSx3KJO2p0G7p6,5BBfllI8hk4r2GK7bWtCzl,20.0,1996,0.389,0.521,11.0,0.0,0.141,78.726,106360,Neurosis,Rehumanize,Through Silver In Blood,"doom metal,post-metal,progressive metal,industrial",1996,1990s,False,True,False,1
+gJV9kpeuVJ1RltYw,6oDfRqEbg2gOf64XSwgfCF,42.0,1996,0.665,0.618,5.0,1.0,0.926,134.139,243227,Katinguelê,Recado à minha amada,No compasso do criador,pagode,1996,1990s,False,True,False,1
+icGM98vLlCPFCfeL,1bb6bROP3OXMHcPw84MtmN,58.0,1996,0.8270000000000001,0.635,11.0,0.0,0.7659999999999999,88.87,275640,Lil' Kim,Crush on You,Hard Core,rap,1996,1990s,False,True,False,1
+iixNyLUwReCr6kLt,6k2FLvtZpCcv4uRh4CiBhL,30.0,1996,0.599,0.89,1.0,1.0,0.618,106.722,391693,Motörhead,I Don't Believe A Word,Overnight Sensation,"metal,hard rock,speed metal",1996,1990s,False,True,False,1
+j55LkysM1pJiOuEs,1SVm64B4Ry7dqFSxHY8e65,64.0,1996,0.706,0.8009999999999999,5.0,1.0,0.816,104.535,236160,Kabah,La Calle De Las Sirenas,La Calle De Las Sirenas,"latin pop,pop",1996,1990s,False,True,False,1
+nBUlmSM0CVKBbtSl,3yPDtsP4pwO80uK7Bkg4vP,28.0,1996,0.291,0.964,9.0,1.0,0.541,166.951,184907,Aphex Twin,Yellow Calx,Richard D. James Album,"electronic,experimental,ambient",1996,1990s,False,True,False,1
+xwKBBhanIRPhn00x,0szxZG3QmQpMxrzmOjfDlm,43.0,1996,0.846,0.72,11.0,0.0,0.8640000000000001,133.657,233467,Le Click,Tonight Is The Night,Sweet Dreams,"eurodance,pop",1996,1990s,False,True,False,1
+8LwWueES0IIxFuw8,6hgBJPTHoDJyxydmtFWHKf,47.0,1997,0.8220000000000001,0.7909999999999999,1.0,1.0,0.21,130.059,448627,Daft Punk,Rollin' & Scratchin',Homework,"electronic,house,techno,electro",1997,1990s,False,True,False,1
+FFOykeaPykn6IM3N,1GrikfH0jDejDvrxo84n4P,64.0,1997,0.873,0.591,7.0,1.0,0.496,123.091,301200,Janet Jackson,Together Again,The Velvet Rope,pop,1997,1990s,False,True,False,1
+IOfxaAq79C3hB5ex,7bTys5ZvVZGMR7bSTP3beD,56.0,1997,0.755,0.8140000000000001,10.0,0.0,0.902,95.054,239933,Calo,Formas De Amor,Puro Calo,"latin,rock en espanol",1997,1990s,False,True,False,1
+LSPvtGzbzTSnoRxI,3jMcVhawDrtvgl15KUOokp,26.0,1997,0.574,0.909,11.0,1.0,0.884,154.903,169893,Sleater-Kinney,Dance Song '97,Dig Me Out (Remastered),"rock,punk",1997,1990s,False,True,False,1
+OvsQerRxDCTGJApU,0pg2VKzTsBdbxPzcOkReY2,51.0,1997,0.5529999999999999,0.659,9.0,1.0,0.46,183.815,242800,Kid Loco,A Grand Love Theme,A Grand Love Story,downtempo,1997,1990s,False,True,False,1
+PKe57d0SShn3c3Wx,0Z7rNyPh91W3RRTXDpEFHQ,29.0,1997,0.351,0.937,9.0,1.0,0.381,101.762,140320,Lifetime,Turnpike Gates,Jersey's Best Dancers,"melodic hardcore,punk",1997,1990s,False,True,False,1
+TpAKmk2ATLWnmVsf,2V5ddtN43HnpMtXqvXAkEU,19.0,1997,0.6679999999999999,0.792,4.0,1.0,0.654,154.447,199573,Classix Nouveaux,Guilty,The Very Best Of Classix Nouveaux,"pop,new wave,new romantic",1997,1990s,False,True,False,1
+p2O8DOsp8SKHJiy2,4bavcis6bApsKI8YkKg3Cx,55.0,1997,0.526,0.722,0.0,1.0,0.468,112.961,237347,Celtas Cortos,20 De Abril,Nos Vemos En Los Bares,"rock,spanish rock",1997,1990s,False,True,False,1
+pWzuofWqKI54fmr5,1V4NaFlrUCK49MXcdOcVeS,56.0,1997,0.563,0.136,3.0,1.0,0.368,104.928,280000,Ella Fitzgerald,They Can't Take That Away From Me,The Complete Ella And Louis On Verve,jazz,1997,1990s,False,True,False,1
+u9tKi5XmvClllPzd,2ie9pjBMCSdRGymEsfAL9X,30.0,1997,0.305,0.6679999999999999,0.0,1.0,0.143,113.598,300200,The Dandy Warhols,Good Morning,The Dandy Warhols Come Down,alternative rock,1997,1990s,False,True,False,1
+vhhjNJJasbfATI62,7AMkh36MntX0MkZzBFemFc,42.0,1997,0.397,0.82,4.0,1.0,0.201,144.877,329893,Creed,Pity for a Dime,My Own Prison,"rock,alternative rock,hard rock",1997,1990s,False,True,False,1
+68HZi36SOUDqDJhN,6vKJnXQ3k3BodEj0XXIt9T,19.0,1998,0.645,0.998,7.0,1.0,0.763,106.099,291293,Boards of Canada,Orange Romeda,We Are Reasonable People,electronic,1998,1990s,False,True,False,1
+FdUVgrMpBCSioNT5,04Ujzm8UgATyrfuMAODqfF,36.0,1998,0.345,0.805,9.0,0.0,0.405,134.384,297067,Sunny Day Real Estate,How it Feels to be Something On,How It Feels To Be Something On,"emo,indie rock,alternative rock",1998,1990s,False,True,False,1
+HYVPf1jXtfPowt28,3cDZMv4cnx41TvfTtDQcY1,30.0,1998,0.267,0.921,7.0,0.0,0.307,119.267,459933,Cradle of Filth,Beneath the Howling Stars,Cruelty & The Beast,"symphonic black metal,black metal,gothic metal,metal",1998,1990s,False,True,False,1
+IhwGDJucVhjiC3An,7jkrmjPC9BjieHwrQgTYsj,48.0,1998,0.596,0.892,5.0,0.0,0.938,126.068,202680,Queens of the Stone Age,If Only,Queens of the Stone Age,"stoner rock,rock,alternative rock",1998,1990s,False,True,False,1
+KkerLJBc5CiK89RV,5Sikr6j6y4FPT5SWpTQjVG,23.0,1998,0.433,0.946,7.0,1.0,0.328,147.85,165293,Hum,Comin' Home,Downward Is Heavenward,"space rock,rock",1998,1990s,False,True,False,1
+SVzi2eKBfE8jj5gn,3xGEfpieVAOOGPYerL6M6G,13.0,1998,0.366,0.5870000000000001,0.0,0.0,0.206,121.548,399440,The Sins of Thy Beloved,Lake of Sorrow,Lake of Sorrow,"gothic metal,doom metal",1998,1990s,False,True,False,1
+VowefVYXzYqsthz6,4O7CDNG0J4oDm7a0Nyw5nT,31.0,1998,0.578,0.688,11.0,1.0,0.56,124.276,224306,The Cardigans,Hanging Around,Gran Turismo (Remastered),"rock,pop",1998,1990s,False,True,False,1
+YFa3HDJiqXkQipck,2ik5qJAcmrjbpON5QPxmRr,42.0,1998,0.531,0.48,9.0,1.0,0.8809999999999999,104.117,134227,Anne Murray,Snowbird,This Way Is My Way,"country,country,pop",1998,1990s,False,True,False,1
+arFluwXUKwozOfnq,5gD39QZNvnVkc88kkOWYl9,26.0,1998,0.526,0.556,6.0,1.0,0.351,88.163,280467,Jeff Buckley,New Year's Prayer,Sketches for My Sweetheart The Drunk,"rock,singer-songwriter",1998,1990s,False,True,False,1
+ejfLlnHikScuTLKv,7aKWgpecgLEqisWcXPElDl,57.0,1998,0.7609999999999999,0.735,9.0,0.0,0.5920000000000001,125.815,164267,Cake,Never There,Prolonging the Magic,"alternative rock,rock",1998,1990s,False,True,False,1
+lhgjbIHjfzXPEChv,0yKLTbW4G4oF5y3Cd3x9bu,23.0,1998,0.417,0.664,9.0,0.0,0.525,153.786,220067,PJ Harvey,Joy,Is This Desire?,"rock,alternative rock",1998,1990s,False,True,False,1
+qqeivEG6ZPKrQrYu,5LeELq5JsClPraPpxk0Pz9,46.0,1998,0.17,0.985,8.0,0.0,0.0988,160.732,305720,Angra,Carry On,Angels Cry / Holy Land,"power metal,metal,progressive metal",1998,1990s,False,True,False,1
+vBg7m19qjcLJ3PJG,13ZS2V2RsGWguOYYvIqDN5,49.0,1998,0.5720000000000001,0.8590000000000001,1.0,1.0,0.106,110.034,253293,Stabbing Westward,Save Yourself,Darkest Days,"industrial,industrial rock,rock,alternative rock",1998,1990s,False,True,False,1
+wj9sGIFs9p6WLhy8,1s9Dzjks8HpU5sBPQ7w6of,24.0,1998,0.662,0.312,5.0,1.0,0.7929999999999999,84.351,68133,Brandy,In the Car Interlude,Never Say Never,"soul,gospel",1998,1990s,False,True,False,1
+x7Kd9QgIVMncHXEj,6aPnjn4DISFe7Dou4NZOuK,36.0,1998,0.64,0.664,0.0,1.0,0.879,134.002,180133,The Foundations,Baby Now That I've Found You,Baby Now That I've Found You,"soul,motown",1998,1990s,False,True,False,1
+8vJPuExBPKOlsf2t,4SB7wPWYA0PPiq9BamZjk6,33.0,1999,0.691,0.57,11.0,0.0,0.7509999999999999,95.054,240067,Nazan Öncel,Bu Havada Gidilmez,Demir Leblebi,pop,1999,1990s,False,True,False,1
+9mEEW3iZRa6yMKPe,351A7qskQfpTvSiQaDrS4J,21.0,1999,0.528,0.8029999999999999,9.0,1.0,0.621,141.03799999999995,243253,Sleater-Kinney,A Quarter to Three,The Hot Rock (Remastered),"indie rock,riot grrrl",1999,1990s,False,True,False,1
+GMdlCp6smNFTMcCG,0HBu6BMbM88gtKnDEdMPm0,42.0,1999,0.416,0.928,7.0,1.0,0.596,123.098,184453,Os Paralamas Do Sucesso,"Um Amor, Um Lugar - Ao Vivo",Acústico (Ao Vivo / Remastered),"rock,brazilian rock,mpb",1999,1990s,False,True,False,1
+ItrNwzbXRiUdjuAL,1wXy6Be9qj6rUY00Ua58dq,38.0,1999,0.487,0.912,7.0,1.0,0.601,126.269,91667,Me First and the Gimme Gimmes,Over the Rainbow,Are a Drag,"punk,ska,hardcore punk",1999,1990s,False,True,False,1
+KcTzUC2k4CHHFDR5,5aZzmPUv5a2nna9sxBrmpL,54.0,1999,0.775,0.725,4.0,1.0,0.914,129.681,128973,James Brown,Papa's Got A Brand New Bag - Pt. 1,20th Century Masters: The Millennium Collection: The Best of James Brown,"funk,soul,rhythm and blues,blues",1999,1990s,False,True,False,1
+MfuRcvIiFbsUHxXi,2SNIMcTDV5EBPugSpwJkR1,35.0,1999,0.7290000000000001,0.464,1.0,1.0,0.5760000000000001,91.518,271827,Nightmares on Wax,Ethnic Majority,Carboot Soul,"electronic,lounge,downtempo",1999,1990s,False,True,False,1
+OnLhgv1iWakebXhO,2Q8nCPFEMOaFssYtddFahI,19.0,1999,0.0661,0.939,9.0,0.0,0.175,74.33800000000002,313667,Dimmu Borgir,Dreamside Dominions,Spiritual Black Dimensions,"black metal,symphonic black metal",1999,1990s,False,True,False,1
+X09h0R8EEttI5Xy1,1uWJx0oYZdrtWo9cKRNkjl,4.0,1999,0.616,0.873,7.0,1.0,0.7709999999999999,99.052,210467,Roxette,You Can't Put Your Arms Around What's Already Gone,Have A Nice Day,"pop,rock",1999,1990s,False,True,False,1
+ZQEMnqDdGQoB9bM6,1Tx7N8CWPf1AXL2XHttUCa,15.0,1999,0.394,0.177,2.0,1.0,0.0686,120.961,346560,Brendan Perry,Death Will Be My Bride,Eye of the Hunter,"world,new age,neofolk",1999,1990s,False,True,False,1
+sVu59TyQ8OhKp2pe,7rZrxriWfLJz7FUvaIft0W,10.0,1999,0.518,0.892,5.0,1.0,0.476,113.099,207029,Supergrass,Your Love,Supergrass,"britpop,indie rock",1999,1990s,False,True,False,1
+v8bTx4GE407uoDWm,7zrL3xak0qZQ10HlNxP9HD,43.0,1999,0.831,0.501,10.0,0.0,0.8059999999999999,87.646,277987,Ana Torroja,Ya No Te Quiero,Pasajes de un Sueño,pop,1999,1990s,False,True,False,1
+wsdIIAnZ0y892V4H,0ipjWegd1m7BL6lHahGrSx,35.0,1999,0.488,0.745,7.0,1.0,0.6859999999999999,166.72299999999996,261067,O Rappa,Tribunal de Rua,Lado B Lado A,ska,1999,1990s,False,True,False,1
+wuL7WX6GaDpY7ngB,2sJrWLjmIhU8lp8p8O63EE,9.0,1999,0.6779999999999999,0.371,11.0,1.0,0.695,107.982,176360,Dusty Springfield,Wishin' And Hopin' - Stereo Version,20th Century Masters: The Millennium Collection: Best Of Dusty Springfield,"soul,pop",1999,1990s,False,True,False,1
+zgncWB9BdvsMdIoq,5yvK8CEQYBYTKuVc2SL2ue,8.0,1999,0.393,0.913,11.0,0.0,0.115,107.991,279600,Tristania,Angina,Beyond the Veil,"gothic metal,symphonic metal",1999,1990s,False,True,False,1
+8ZPpSkPs4y49hpat,443jJ9JZQmnMBGn2ZhNYxK,34.0,2000,0.708,0.55,9.0,1.0,0.189,101.996,309160,Chicane,No Ordinary Morning,Behind The Sun (Deluxe Version) [Remastered],"trance,electronic,ambient",2000,2000s,False,True,False,1
+9DBbOS2ZdCD2iIob,6jjcltvbzP4TmMG6lKIrKS,2.0,2000,0.8290000000000001,0.614,8.0,1.0,0.956,144.136,296627,Caetano Veloso,Zumbi,Noites do Norte,mpb,2000,2000s,False,True,False,1
+9b51uFO62TNmCBIr,2lc1ctRm6K7lXxXfVn95C6,28.0,2000,0.72,0.7909999999999999,9.0,1.0,0.878,76.941,217733,Twister,40 Graus,Twister,"pop,teen pop,trance,drum and bass",2000,2000s,False,True,False,1
+CBRb5Jt1Zs8nWIBm,2pm8PsIjAR99ISlqwsnd5H,39.0,2000,0.6509999999999999,0.3670000000000001,10.0,0.0,0.462,136.026,191000,Thievery Corporation,Le Monde,The Mirror Conspiracy,"downtempo,electronic",2000,2000s,False,True,False,1
+IqQag9h53hGFt6u2,3JYEtZycESWmQggXuAbQlZ,31.0,2000,0.687,0.595,6.0,1.0,0.4,170.203,383693,Boards of Canada,Kid for Today,In A Beautiful Place Out In The Country,"ambient,electronic,downtempo",2000,2000s,False,True,False,1
+LqYeXNMtZ4c9vGUm,3Smida2eCUsLzDcmZqXEZ3,57.0,2000,0.602,0.736,11.0,0.0,0.8190000000000001,94.931,139240,The Beatles,Help! - Remastered 2015,1 (Remastered),"classic rock,rock",2000,2000s,False,True,False,1
+U8tlVlJAgdwsfZSf,5bb1P7ZOgbqq4HRIHVBhEp,7.0,2000,0.274,0.7120000000000001,0.0,1.0,0.13,159.33,431360,Therion,Eternal Return,Deggial,"symphonic metal,symphonic metal,gothic metal,death metal",2000,2000s,False,True,False,1
+XL6NhVosEhuaTL93,0yX0Zw8ouA5lD7rbzWfowL,36.0,2000,0.643,0.975,7.0,1.0,0.865,177.808,263200,*NSYNC,Digital Get Down,No Strings Attached,"pop,boy band",2000,2000s,False,True,False,1
+gkzIxj1gwT27Lm6T,0GWBBkDBQj3Zuz4KiQaEBW,16.0,2000,0.5710000000000001,0.5770000000000001,9.0,0.0,0.312,117.277,230827,Mojave 3,Bringin' Me Home,Excuses for Travellers,"indie folk,shoegaze,indie pop",2000,2000s,False,True,False,1
+oNxQkveZmemNxQHA,45S3BsNdyX4J89Jg848sIW,24.0,2000,0.517,0.857,7.0,1.0,0.436,152.939,274787,No Doubt,Home Now,Return Of Saturn,"rock,alternative rock",2000,2000s,False,True,False,1
+zXMIckvMPMVT4LKw,4NqR0cXGiQXh3ni3i4KJqV,35.0,2000,0.67,0.511,9.0,1.0,0.961,83.81700000000002,150640,Clara Nunes,A Deusa Dos Orixás,Bis - Clara Nunes,samba,2000,2000s,False,True,False,1
+1R6oRp7bRFBsyyfj,5FsuWgCmve4wzqllxUedQe,50.0,2001,0.685,0.7390000000000001,8.0,0.0,0.675,90.116,256440,Sandy & Junior,Nada é Por Acaso,Sandy & Júnior,"pop,pop rock",2001,2000s,False,True,False,1
+5L3xIwUkXYocJI0E,1lNFq0fRu2Z8jDBX85ySQ0,31.0,2001,0.255,0.992,6.0,1.0,0.199,90.464,185760,Slayer,New Faith,God Hates Us All,"thrash metal,metal,speed metal",2001,2000s,False,True,False,1
+6FUCpb39J8qQEeS8,6b9I77bVLGkPfhgeQHDzhS,30.0,2001,0.6679999999999999,0.397,6.0,0.0,0.379,119.987,483973,Jan Jelinek,Rock In The Video Age,Loop-Finding-Jazz-Records,"minimal,ambient,glitch,electronic",2001,2000s,False,True,False,1
+9p5oVaZpsao75VVl,0ZM6QtLJAF81PBHlsn5872,34.0,2001,0.7829999999999999,0.506,9.0,0.0,0.3670000000000001,92.009,311200,India.Arie,Back To The Middle,Acoustic Soul,soul,2001,2000s,False,True,False,1
+BWlUcHYWjiuhusdx,4oNOJ3UfDgkLeo8tQu9LSD,23.0,2001,0.379,0.0922,7.0,1.0,0.102,99.072,213733,Hope Sandoval & The Warm Inventions,Butterfly Mornings,Bavarian Fruit Bread,dream pop,2001,2000s,False,True,False,1
+Ei7u8iasNwQsZFxc,2OJvY2amXRl4P2R48XSY0Q,17.0,2001,0.537,0.5,2.0,1.0,0.354,115.541,227240,Destroyer,"Farrar, Straus & Giroux (Sea of Tears)",Streethawk: A Seduction,indie pop,2001,2000s,False,True,False,1
+NMs4iI2bdljqBZgB,3AwLxSqo1jOOMpNsgxqRNE,60.0,2001,0.495,0.974,1.0,1.0,0.354,99.733,201160,System of a Down,Prison Song,Toxicity,"alternative metal,metal,rock,nu metal,hard rock",2001,2000s,False,True,False,1
+RIr7YCcnN43lvqDu,3Id64dLhfH7z0mmcylxuNp,58.0,2001,0.45,0.937,5.0,0.0,0.7909999999999999,101.922,196120,Pennywise,Fuck Authority,Land Of The Free?,punk,2001,2000s,False,True,False,1
+Uowulk9ZG4Pxj8ZT,0udUVjtkBzlCvZcfcYQzS4,46.0,2001,0.5920000000000001,0.418,5.0,1.0,0.738,122.151,329027,Dancing Mood,Close To You,20 Minutos,"ska,reggae",2001,2000s,False,True,False,1
+XU8Wa59y3IP7YvJw,4KyKFoR7N69ZRNJ8tGT1lO,24.0,2001,0.181,0.986,7.0,1.0,0.149,153.454,269973,Converge,Thaw,Jane Doe,"mathcore,hardcore,metalcore,metal,hardcore,mathcore,metalcore",2001,2000s,False,True,False,1
+Z6o7wTaKPy791uk1,3Gr4OWY7lAXAq7PpgUbctG,63.0,2001,0.634,0.489,2.0,0.0,0.6559999999999999,125.326,276773,Los Amantes De Lola,Beber de Tu Sangre,Rock En Espanol - Lo Mejor De Los Amantes De Lola,"rock en espanol,latin rock",2001,2000s,False,True,False,1
+bVf6ktraPF2nxmc5,0kAocIIQ0FP9NIKASAjVH5,50.0,2001,0.371,0.696,7.0,0.0,0.209,75.723,268707,Megadeth,Promises,The World Needs a Hero,"thrash metal,metal,hard rock",2001,2000s,False,True,False,1
+f0sChsLg6DBcxpE6,6GGA4fEbHJop37OOjK2kFR,36.0,2001,0.332,0.482,2.0,1.0,0.1669999999999999,148.986,250893,Rufus Wainwright,Poses,Poses,singer-songwriter,2001,2000s,False,True,False,1
+kESAtJ9VviRwJPxe,45ZjRrEFgHJhCQ72qKDeem,39.0,2001,0.319,0.948,5.0,1.0,0.599,119.213,191840,Rufio,Above Me,"Perhaps, I Suppose","pop punk,punk,pop punk,punk",2001,2000s,False,True,False,1
+tNF36M2KvLq9ji0q,6eZgWxu8bikN6JDkH9wVBM,43.0,2001,0.907,0.831,9.0,1.0,0.977,133.01,252120,Kelly Key,Cachorrinho,Kelly Key,"pop,electropop",2001,2000s,False,True,False,1
+u4B2xy2M7dClyl82,2Y0Sb7do7pOAT9sYAPpCfU,28.0,2001,0.74,0.921,7.0,1.0,0.411,124.984,394670,Modjo,On Fire,Modjo (Remastered),"house,electronic",2001,2000s,False,True,False,1
+udNQ6amHMoYzrD2g,1d9FVl17Uq9LWHAFyrmIgO,49.0,2001,0.355,0.955,1.0,0.0,0.654,179.043,139400,CPM 22,Tarde de outubro,CPM22,"melodic hardcore,rock,hardcore",2001,2000s,False,True,False,1
+w4bOK5vPj1Kwiyib,3k8WOOIt8iHgfXzTXBonDC,44.0,2001,0.304,0.159,4.0,0.0,0.247,176.537,303573,Diana Krall,Cry Me A River,The Look Of Love,"jazz,smooth jazz,vocal jazz",2001,2000s,False,True,False,1
+w8FOMckljoEonrKl,2gcgPPB7qCglrSPUf4jlhW,27.0,2001,0.78,0.254,8.0,0.0,0.626,126.314,330000,The Other People Place,Eye Contact,Lifestyles Of The Laptop Café,"electro,techno",2001,2000s,False,True,False,1
+yEJQAJtJk0M9nqWF,5lAH3vLN4Gc3jDM25cMIgH,53.0,2001,0.772,0.925,2.0,1.0,0.7170000000000001,113.607,385573,Teena Marie,Square Biz,20th Century Masters: The Millennium Collection: Best of Teena Marie,"funk,soul",2001,2000s,False,True,False,1
+12SaUULMCYJRudhD,1L3HwcCbgJ6lJEX11uibIJ,51.0,2002,0.584,0.67,0.0,1.0,0.5429999999999999,86.691,223067,Mandy Moore,Cry,A Walk To Remember Music From The Motion Picture,"pop,soundtrack",2002,2000s,False,True,False,1
+1p9HxzAJaDBJWlWh,0moOkXr0fXPqaXdr54v4GC,24.0,2002,0.608,0.77,4.0,0.0,0.383,88.882,224027,Whitney Houston,Tell Me No,Just Whitney,"soul,pop,soul",2002,2000s,False,True,False,1
+29EF3jZao7V2TEgw,6zLXWVAskybBaM2L5rCxiG,42.0,2002,0.647,0.8140000000000001,11.0,1.0,0.784,117.979,187507,A*Teens,Can't Help Falling in Love,Lilo & Stitch,"bubblegum pop,pop",2002,2000s,False,True,False,1
+5dspolczce8WKdm0,1aDAaV3x32lHhnxQLlkwNt,25.0,2002,0.722,0.42,1.0,0.0,0.227,98.675,241307,The Breeders,The She,Title Tk,"rock,indie rock",2002,2000s,False,True,False,1
+CZb94OWNQrXR61c2,4peJJCmOVip9lFxRkeQhr8,19.0,2002,0.565,0.662,7.0,1.0,0.375,81.361,214467,Sandy e Junior,Words Are Not Enough,Ao Vivo No Maracanã,pop,2002,2000s,False,True,False,1
+EBtlR5fa86ZnKa7t,4UlY87efRQh2GwRjtzDRXU,32.0,2002,0.7390000000000001,0.369,4.0,0.0,0.313,89.083,141253,Mirah,The Garden,Advisory Committee,indie pop,2002,2000s,False,True,False,1
+EhaH9RALUrXIcW39,5UMsIIsvwkuIK3AeV7WhAW,31.0,2002,0.585,0.421,11.0,1.0,0.208,140.041,374893,Nine Inch Nails,And All That Could Have Been,Still,industrial,2002,2000s,False,True,False,1
+FLyKQkUjM1m5ZkTZ,6BEE3SzKTrULdE7H3OUN8r,43.0,2002,0.3670000000000001,0.914,2.0,0.0,0.6559999999999999,131.251,221760,CKY,Escape from Hellview,Infiltrate-Destory-Rebuild,"rock,metal,hard rock",2002,2000s,False,True,False,1
+KS4qAcR2kghosKSq,0Wo8AS78mXmVnfBNcvdxuO,45.0,2002,0.598,0.657,0.0,1.0,0.5489999999999999,104.044,284707,Badly Drawn Boy,Silent Sigh,About A Boy Soundtrack,soundtrack,2002,2000s,False,True,False,1
+U1p1W7N6y0JxWahb,0HyTGa3AIPNMKevxgUDA1V,37.0,2002,0.327,0.104,1.0,1.0,0.119,97.279,207520,John Williams,Dobby the House Elf,Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack,soundtrack,2002,2000s,False,True,False,1
+ZkL9ypiWw4QaXILO,0yXT8TYRajNOaQUiw0mGgs,47.0,2002,0.603,0.0903,2.0,1.0,0.377,114.133,218627,Norah Jones,Cold Cold Heart,Come Away With Me,"jazz,blues",2002,2000s,False,True,False,1
+cIumHIXk6DsErTuG,5hDWYX2jd9Ois1oUIybgT2,39.0,2002,0.6990000000000001,0.562,0.0,1.0,0.502,97.803,249480,Era,Mother - Remix,Era I 2002,new age,2002,2000s,False,True,False,1
+cQSqmYeXnwcPs8Qa,7i6rOSJbi4SwQZ4zxhuKUm,11.0,2002,0.6409999999999999,0.889,9.0,1.0,0.415,125.946,235729,Laura Pausini,Surrender - Ultamix,From the inside,"pop,italian pop",2002,2000s,False,True,False,1
+eQhZJqudAcujapjn,44FZ6TP6a75s7eU62nHBZ3,35.0,2002,0.867,0.695,1.0,1.0,0.882,103.877,331160,Justin Timberlake,(And She Said) Take Me Now,Justified,pop,2002,2000s,False,True,False,1
+hilW1lO8LjxrObhH,1K5rVNUCHQ3OY61BYbxlpz,35.0,2002,0.225,0.356,0.0,1.0,0.0631,122.997,302760,John Williams,Dueling the Basilisk,Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack,"soundtrack,soundtrack,classical",2002,2000s,False,True,False,1
+iOQGMV4ZsmeIhaaA,0OslLeWGdTjnceh4to6Mhm,19.0,2002,0.269,0.878,0.0,1.0,0.335,139.744,243392,The Bluetones,Bluetonic,The Singles,britpop,2002,2000s,False,True,False,1
+jjqIpL7EBcDaOt8a,1m4ZjbibTvvmYIJyXAIuxv,43.0,2002,0.106,0.181,2.0,1.0,0.0593,61.02,225667,John Williams,Fawkes the Phoenix,Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack,soundtrack,2002,2000s,False,True,False,1
+mvaUsjJkem58EzSP,0UREf6fp0r3upWFmLDzHFp,34.0,2002,0.337,0.556,4.0,0.0,0.152,114.027,621400,Opeth,A Fair Judgement,Deliverance,"progressive metal,progressive rock,death metal",2002,2000s,False,True,False,1
+qRmCEL827m2KIEVf,4ukUoXLuFzMixyZyabSGc4,36.0,2002,0.508,0.287,1.0,1.0,0.644,154.759,175987,Ella Fitzgerald,Sleigh Ride,Ella Wishes You A Swinging Christmas,"jazz,swing",2002,2000s,False,True,False,1
+rUmzItsBH8Bk7KDQ,4A11HoXH8oIUfWtJaTE34T,48.0,2002,0.55,0.368,0.0,0.0,0.16,136.983,225533,Solomon Burke,Don't Give Up on Me,Don't Give Up On Me,"soul,blues,rhythm and blues",2002,2000s,False,True,False,1
+wa6M216VTq2eqnGt,1HfVdg6TNKHtpsMPc07HTO,51.0,2002,0.456,0.7759999999999999,9.0,0.0,0.223,174.261,358600,Porcupine Tree,Trains,In Absentia,"progressive rock,rock,progressive rock,progressive metal,rock",2002,2000s,False,True,False,1
+xV29YakmRPsM4JcJ,2j2XkrTVjq7i9GViOQPROS,38.0,2002,0.529,0.946,7.0,1.0,0.1369999999999999,131.452,306520,Foo Fighters,Halo,One By One (Expanded Edition),"rock,alternative rock,grunge",2002,2000s,False,True,False,1
+zZh5wItWQ35YrS3K,54FAYoGATQPUBbxCIclHkG,35.0,2002,0.716,0.601,1.0,0.0,0.643,109.852,209560,Amerie,I Just Died,All I Have,pop,2002,2000s,False,True,False,1
+0fBbxxbcj9BK4S57,1lv17MSSDr1iBS2vp6UoRt,35.0,2003,0.493,0.204,0.0,0.0,0.365,96.998,221387,Keren Ann,Not Going Anywhere,Not Going Anywhere,"singer-songwriter,singer-songwriter",2003,2000s,False,True,False,1
+0tzxfSsxVXr4gcfz,3wY8GRMM7SuI2lbHfUdzu0,39.0,2003,0.612,0.957,11.0,0.0,0.845,120.959,156067,Electric Six,Dance Commander,Fire,"rock,indie rock,electronic,disco",2003,2000s,False,True,False,1
+9XF24hBgInsf33tX,2pSccP1kWvZcc9V9vWTfBW,48.0,2003,0.523,0.412,8.0,1.0,0.196,138.296,301000,Michael Jackson,Earth Song - Radio Edit,Number Ones,pop,2003,2000s,False,True,False,1
+ARh4ODBHu6l97fkt,77Al0O42PXCiU35JZoAyhz,24.0,2003,0.433,0.932,0.0,1.0,0.256,129.471,181627,Desert Sessions,Crawl Home,The Desert Sessions Volume 9 & 10,"stoner rock,rock",2003,2000s,False,True,False,1
+PTuY5quhkBJjWRny,6yH9BfZX4GPRVorvym30qe,17.0,2003,0.429,0.908,0.0,1.0,0.589,158.101,250467,Alanis Morissette,Unprodigal Daughter,Feast On Scraps,"rock,alternative rock,rock",2003,2000s,False,True,False,1
+Pqf9Dh8HHr3yqfPM,61Hd6XNqSpreYVEiMkaHvq,42.0,2003,0.5670000000000001,0.445,7.0,1.0,0.143,149.985,349747,Opeth,Death Whispered a Lullaby,Damnation,"progressive metal,progressive rock,metal",2003,2000s,False,True,False,1
+aPzKntp1I6KythdR,5rTgUJUnIbfvhbvcc22sUH,28.0,2003,0.652,0.88,7.0,0.0,0.401,108.996,291587,Delerium,After All,Chimera,"electronic,ambient,trance,vocal trance,ambient,electronic",2003,2000s,False,True,False,1
+hn8Jv73LcUsyQzCX,6wmzz9dCztW1zgNXrZIyw8,45.0,2003,0.742,0.677,2.0,1.0,0.887,98.13,271867,Grateful Dead,Franklin's Tower,The Very Best Of Grateful Dead,"classic rock,rock",2003,2000s,False,True,False,1
+orSz6xFL7usTN8SS,4Jp0AXdk9cOjibdQSfTgcl,32.0,2003,0.534,0.936,2.0,0.0,0.285,103.103,192493,Adema,Unstable,Unstable,"nu metal,alternative rock,hard rock,metal,rock",2003,2000s,False,True,False,1
+pIMSLZakGWownLqa,2Uij3NY3b8fbb1YYpijFqc,25.0,2003,0.501,0.236,7.0,1.0,0.266,101.33,181053,Joss Stone,I Had a Dream,The Soul Sessions,soul,2003,2000s,False,True,False,1
+rcexOm3TocgA5QNV,3P0ZKM0sJiwYl6LWAgU9YF,55.0,2003,0.5589999999999999,0.4920000000000001,1.0,0.0,0.143,95.073,262587,Detonautas Roque Clube,Olhos Certos,Detonautas (Nova Versão),rock,2003,2000s,False,True,False,1
+uqR6vILDkwWWvfdV,4z7thilYqFjCSVocKSdd2p,6.0,2003,0.201,0.838,0.0,1.0,0.13,105.171,320440,Draconian,The Amaranth,Where Lovers Mourn,"gothic metal,doom metal,doom metal,gothic metal",2003,2000s,False,True,False,1
+110BcQ3eTSRAi6Qq,2jdsSpnwnBM3GfjkmXWLno,30.0,2004,0.32,0.306,3.0,0.0,0.14,109.583,406453,Animal Collective,The Softest Voice,Sung Tongs,"experimental,freak folk,folk",2004,2000s,False,True,False,1
+3cxLehuwoLM9TKu5,69ZNzwrCGP6h5ewkJQWWaT,58.0,2004,0.511,0.333,7.0,1.0,0.59,122.873,142440,Brad Kane,One Jump Ahead,Aladdin Special Edition,"disney,soundtrack",2004,2000s,False,True,False,1
+7AqPKYtwolOnlIWI,6UkxJprYuyAx6NcxxipBe4,38.0,2004,0.807,0.384,4.0,0.0,0.777,129.702,274827,Iron & Wine,Free Until They Cut Me Down,Our Endless Numbered Days,"folk,singer-songwriter",2004,2000s,False,True,False,1
+9wuzYouedJJUw88h,0msVRH4IDBj1plo4XCjcfE,27.0,2004,0.838,0.948,10.0,0.0,0.3670000000000001,121.3,177840,The Roots,BOOM!,The Tipping Point,hip hop,2004,2000s,False,True,False,1
+Bc9kybJMfWqgnEEd,6Tv0aLcRRxgbK8ZNeSbFEw,47.0,2004,0.594,0.731,7.0,1.0,0.7120000000000001,137.887,215333,Alaska y Dinarama,Ni Tú Ni Nadie,Lucha Rock,"new wave,pop",2004,2000s,False,True,False,1
+D7AThBNwjgNbqSaH,0dEcR2lhQY2aBHSMbAKAWr,30.0,2004,0.764,0.642,2.0,0.0,0.769,96.693,230467,Blue,Fly By II,Best Of Blue,pop,2004,2000s,False,True,False,1
+EPz59IdnA2lpZhEC,65TsSPodEw6Q98WkJHdLsH,41.0,2004,0.423,0.949,4.0,0.0,0.482,159.037,243880,Nightwish,Wish I Had an Angel,Once,"symphonic metal,gothic metal,power metal,metal",2004,2000s,False,True,False,1
+Pq4vlzparHjna0iQ,7927IbXHiYrlZkAikPsi3X,41.0,2004,0.4270000000000001,0.06,5.0,0.0,0.0384,135.54,433293,Dustin O'Halloran,Opus 20,"Piano Solos, Vol 2","contemporary classical,neoclassical,ambient",2004,2000s,False,True,False,1
+VcClvN60veVWqD5M,7mMtLgGAqsXB84sf57UMUw,34.0,2004,0.294,0.911,0.0,1.0,0.759,178.614,280480,William Shatner,Common People,William Shatner Has Been,"spoken word,rock",2004,2000s,False,True,False,1
+WQeMR9NzO3mWwQds,2UXzCNvGSXfjeU5Iynwqhp,21.0,2004,0.34,0.933,5.0,1.0,0.1669999999999999,179.985,616520,The Cure,The Promise,The Cure,"rock,post-punk,new wave,post-punk",2004,2000s,False,True,False,1
+YJ9QQZ2yHjhAeP8J,3sckKKIx96cjPXtiqPHCTB,49.0,2004,0.601,0.621,1.0,0.0,0.29,94.553,186307,Ashanti,Only U,Concrete Rose,"pop,soul",2004,2000s,False,True,False,1
+aZjgEs442ieXqfDx,00O14PokKAgP9ZsQEFGLuY,27.0,2004,0.52,0.608,7.0,0.0,0.7659999999999999,116.804,265480,Nick Cave & The Bad Seeds,Spell,Abattoir Blues / The Lyre of Orpheus,singer-songwriter,2004,2000s,False,True,False,1
+cWh8YqCgpj38EZCn,7EDMV92M2BlV7JxgH3hpFf,40.0,2004,0.637,0.5579999999999999,1.0,0.0,0.762,87.51,245933,Fat Family,Fim De Tarde,Retratos,"brazilian soul,soul,pop",2004,2000s,False,True,False,1
+cxbSdOjgZoP8MvZr,5PKFb1r4oIuZwuQOrrnO7N,21.0,2004,0.609,0.738,0.0,1.0,0.89,88.99799999999998,199627,Lindsay Lohan,To Know Your Name,Speak,"pop,teen pop",2004,2000s,False,True,False,1
+efxx9HKqWfpwsGp9,7xkpC7hoP8P0gyAjdg6BFr,15.0,2004,0.759,0.8340000000000001,8.0,1.0,0.775,127.994,190707,Rouge,Pá Pá Lá Lá,Blá Blá Blá,pop,2004,2000s,False,True,False,1
+grToTlYighgBGcOX,5cmNjOISyMYIVjBsGIK44H,49.0,2004,0.593,0.914,9.0,1.0,0.737,151.255,145520,Kings of Leon,King Of The Rodeo,Aha Shake Heartbreak,"indie rock,rock,alternative rock",2004,2000s,False,True,False,1
+lH2pmim7V5NPbLb9,5RBUCbDoY0uWdgjLRdtbsq,40.0,2004,0.4970000000000001,0.45,5.0,0.0,0.136,99.924,239453,Lole Y Manuel,Tu Mira - Edit,Kill Bill Vol. 2 Original Soundtrack,"flamenco,flamenco,latin",2004,2000s,False,True,False,1
+lICAKvOjPLTdC3QT,3F7gAF5CPQHYUtLfzZ7xG4,28.0,2004,0.449,0.907,2.0,1.0,0.687,92.934,212333,Drowning Pool,Think,Desensitized,"metal,nu metal,hard rock",2004,2000s,False,True,False,1
+vJnTYyMnqfe4GE8Y,5Wo5LlVrAR2wlrqezSvW9j,24.0,2004,0.404,0.249,2.0,1.0,0.433,178.726,319400,Sara Bareilles,Inside Out,Careful Confessions,"pop,singer-songwriter",2004,2000s,False,True,False,1
+y1q68W8MpwlTGiWf,3naGoEwtENrX98Oow41yya,32.0,2004,0.58,0.98,7.0,1.0,0.48,128.065,209080,Lindsay Lohan,First,Speak,"pop,pop rock,rock,teen pop",2004,2000s,False,True,False,1
+0Td4Gx3US2WZcSPb,3Alb48NZVJUiDB84G6i0uv,18.0,2005,0.628,0.906,7.0,1.0,0.851,119.969,201733,Alexz Johnson,24 Hours,Instant Star TV Series Soundtrack,"pop rock,pop,soundtrack",2005,2000s,False,True,False,1
+0pGaFGrKEmb0uLEF,36yNx5ozBuPdD7YGI8XI89,23.0,2005,0.31,0.229,2.0,0.0,0.0384,85.46600000000002,249053,Antony and the Johnsons,Man Is the Baby,I Am A Bird Now,"singer-songwriter,chamber pop",2005,2000s,False,True,False,1
+53MP5Il3RlqoAq9K,7bxzTDCRxtMfU5tytej1N5,30.0,2005,0.337,0.7929999999999999,7.0,1.0,0.249,183.287,277280,McFly,Too Close for Comfort,Wonderland,"pop rock,britpop,pop",2005,2000s,False,True,False,1
+Ad8dc8kZVoaNLbwa,3hlWUNjAlbZ6nOjAbrivBv,62.0,2005,0.6829999999999999,0.846,7.0,1.0,0.706,131.884,217000,Pereza,Princesas,Animales,"rock,pop",2005,2000s,False,True,False,1
+B6gOCse6jP5X2qyw,5lmDm4mqqAPIHdGpuZpozQ,25.0,2005,0.263,0.148,7.0,1.0,0.0392,67.319,125467,Broadcast,I Found the End,Tender Buttons,"electronic,rock,experimental",2005,2000s,False,True,False,1
+BBFv9hjVNOI7XqVM,2P4MHjq018ktHw5ZKZXFxc,13.0,2005,0.0904,0.362,1.0,1.0,0.0334,173.037,218973,Deaf Center,Thread,Pale Ravine,"dark ambient,ambient,experimental",2005,2000s,False,True,False,1
+DDD5a8lAkl5gYP4y,7jURLmWehyAK8HGqq0v13p,39.0,2005,0.135,0.107,11.0,0.0,0.0375,143.27100000000004,116360,Patrick Doyle,Death of Cedric,Harry Potter And The Goblet Of Fire (Original Motion Picture Soundtrack),soundtrack,2005,2000s,False,True,False,1
+HQTPfYfrGS2taP1a,4Qm4AIJCJpf2o9qVttISdw,30.0,2005,0.731,0.6759999999999999,10.0,1.0,0.727,121.989,331640,Fiona Apple,Window,Extraordinary Machine,singer-songwriter,2005,2000s,False,True,False,1
+LDciqROoKiFXraJg,2j6MkqCq0rKJRsGnD4Q5vq,28.0,2005,0.551,0.308,6.0,1.0,0.132,115.855,278680,Athlete,Street Map,Tourist,"indie rock,rock",2005,2000s,False,True,False,1
+NKsKO1Bft0bQqwjU,50mJUXTFaqSTpqppyPPnvp,37.0,2005,0.6920000000000001,0.923,7.0,1.0,0.889,100.001,176640,Super Junior,Miracle,Super Junior 05,k-pop,2005,2000s,False,True,False,1
+OQ7jWPFEZfyvqoGO,73y6SGfXDfhEodrRSJ4OEC,27.0,2005,0.505,0.987,10.0,0.0,0.4270000000000001,127.013,305360,Nevermore,Born,This Godless Endeavor,"progressive metal,thrash metal,metal",2005,2000s,False,True,False,1
+TgVzpD9mck1oVBBc,6agsgqFW5Dj9nveTS7jUdY,23.0,2005,0.483,0.871,9.0,0.0,0.214,111.078,417453,Falkenbach,Havamal,Heralding - The Fireblade,"viking metal,folk metal,metal",2005,2000s,False,True,False,1
+TrWHWud1Jzs3ULFq,6U6mePgjVbIJuDz2HM3mXe,26.0,2005,0.397,0.942,2.0,1.0,0.565,202.164,179000,The Faders,No Sleep Tonight,No Sleep Tonight,"soundtrack,rock,rock",2005,2000s,False,True,False,1
+V1Jg1YWTDJHNC3XH,38yCyzY0DavpSAtdqqfslc,28.0,2005,0.535,0.743,4.0,1.0,0.439,114.017,209164,The Cardigans,Godspell,Super Extra Gravity (Remastered),"rock,pop,pop,rock",2005,2000s,False,True,False,1
+V5sDvlS2WhHlNZQB,5SfHPuKILAShAzYxth8WUN,0.0,2005,0.5710000000000001,0.8859999999999999,2.0,0.0,0.713,124.272,333773,Tool,jimmy,What It Is (Live @ Jimmy Seas),"progressive metal,progressive rock,metal,rock",2005,2000s,False,True,False,1
+W06XpgOEnQftvRkn,5KX3uj0E1TdvNfrognZhHJ,35.0,2005,0.436,0.953,11.0,0.0,0.599,166.06,215240,Bloc Party,The Pioneers,Silent Alarm (U.S. Version),indie rock,2005,2000s,False,True,False,1
+WAaVWD5ECrPtN872,2SusUbsUQnw8OJDq56ZMbE,49.0,2005,0.344,0.745,8.0,1.0,0.8320000000000001,172.12400000000005,169867,The Supremes,The Happening,Gold,"motown,soul",2005,2000s,False,True,False,1
+WV4khtVBlzhdAl25,2lU2cUaREdo5lS9GnFXVor,36.0,2005,0.547,0.236,9.0,1.0,0.159,113.004,257480,Kings of Convenience,Manhattan Skyline,"Winning A Battle, Losing The War",singer-songwriter,2005,2000s,False,True,False,1
+XN3ppP6QYe90Xoav,1ml5QVC4UXmAxrPyMUsAvO,21.0,2005,0.556,0.765,4.0,0.0,0.426,98.022,226187,Poets of the Fall,Seek You Out,Signs of Life,"alternative rock,rock",2005,2000s,False,True,False,1
+Yn6kdcIQn3CFDmfv,2qC9vloIMHF7ZTgOHhGrLI,30.0,2005,0.4320000000000001,0.7120000000000001,2.0,0.0,0.322,136.012,210440,Kent,Du var min armé,Du & jag döden,rock,2005,2000s,False,True,False,1
+ZH4E4pVnGZgcbhR5,2zS9DQ5hYnFmzjJGur4Mvo,30.0,2005,0.474,0.813,3.0,1.0,0.423,134.847,236000,My Morning Jacket,Anytime,Z,"rock,indie rock,indie rock,rock",2005,2000s,False,True,False,1
+e8Obs5ZfPFlTxzxC,0HQ6KHOBtpGdV7c40wwNSA,50.0,2005,0.468,0.7240000000000001,11.0,1.0,0.336,178.93900000000005,253267,El Canto del Loco,Tal como eres,Zapatillas,"pop,pop rock",2005,2000s,False,True,False,1
+lE7jSlnrKrROm9eO,0ZfZaT7NByalxa6bct5G67,43.0,2005,0.711,0.609,0.0,1.0,0.674,118.132,224733,The Human League,(Keep Feeling) Fascination,The Very Best Of The Human League,"new wave,pop,synthpop",2005,2000s,False,True,False,1
+nvHkzUfPCSu23zzg,28x1syDlcQU3QOFhYIG63K,42.0,2005,0.654,0.309,6.0,1.0,0.303,115.972,261867,Shakira,En Tus Pupilas,"Fijación Oral, Vol. 1","pop,latin,singer-songwriter",2005,2000s,False,True,False,1
+pWaiyQuOA5hlVJVn,4BnerzInwMXalx7XU4PtwA,15.0,2005,0.315,0.795,6.0,0.0,0.413,138.293,412000,Dark Tranquillity,Insanity's Crescendo,The Mind's I,"melodic death metal,metal",2005,2000s,False,True,False,1
+rWyiUknVxoaqeTcu,5uAz73ROhvn5XCcsnm8kbv,26.0,2005,0.291,0.966,2.0,1.0,0.0646,125.551,425307,Converge,The Saddest Day,Petitioning The Empty Sky,"hardcore,mathcore,metalcore,hardcore,mathcore,metalcore",2005,2000s,False,True,False,1
+w2kq9NHYeJ7bzL2V,2W520DBWwE5Iv2AS6yjCuu,37.0,2005,0.283,0.414,5.0,1.0,0.353,78.62100000000002,100760,Sufjan Stevens,"To the Workers of the Rock River Valley Region, I Have an Idea Concerning Your Predicament",Illinois,folk,2005,2000s,False,True,False,1
+xozBwJV2X16Wv6ui,6cNoWeLMgkTag5XD1jEjbd,5.0,2005,0.352,0.899,0.0,1.0,0.42,127.523,245053,Leaves' Eyes,The Thorn,Vinland Saga,"symphonic metal,gothic metal,metal",2005,2000s,False,True,False,1
+1iLYpkhntqglE8cu,7eivxjw6BUxwkgTcQqyYVW,45.0,2006,0.691,0.662,4.0,1.0,0.947,157.36700000000005,204533,Marcia Griffiths,Don't Let Me Down,Play Me Sweet and Nice,reggae,2006,2000s,False,True,False,1
+65ep4b8fx8QWVga8,0dpVALWt8AC4u8aYDo3evW,5.0,2006,0.302,0.759,2.0,0.0,0.269,85.059,386560,Jesu,Dead Eyes,Silver,"shoegaze,ambient,post-metal,post-rock,drone",2006,2000s,False,True,False,1
+979ieTqptXlb2U8H,5VBZc3LZYEz9QmuQK0HTRk,26.0,2006,0.5660000000000001,0.8440000000000001,1.0,0.0,0.682,109.023,364467,Dissection,Reinkaos,Reinkaos,"melodic death metal,black metal,death metal",2006,2000s,False,True,False,1
+9xMEFRokzcBoiq7h,2wZTnl0pPFr3HBcyXfOaVJ,54.0,2006,0.56,0.3720000000000001,2.0,1.0,0.473,119.189,322093,Justin Timberlake,Until the End of Time,FutureSex/LoveSounds Deluxe Edition,"pop,soul",2006,2000s,False,True,False,1
+BJSGv0wDsjmPBafC,4iwChnVkJz2STSniIn3QMR,52.0,2006,0.519,0.6659999999999999,1.0,1.0,0.274,146.467,141160,The Raconteurs,Level,Broken Boy Soldiers,"rock,alternative rock,garage rock,indie rock",2006,2000s,False,True,False,1
+CXW2Tu7c9dFsDIHH,0yyrQKVuWHdq064ij2ucMh,25.0,2006,0.516,0.486,9.0,1.0,0.184,147.795,273973,Laura Pausini,En Un Cuarto Casi Rosa,Yo canto,"latin,lounge",2006,2000s,False,True,False,1
+CvVUlQdA5Ci5jYAc,3pJwLuwMTAm3muARPQVlXm,32.0,2006,0.461,0.163,0.0,0.0,0.0399,84.92299999999999,253693,Devics,Salty Seas,Push the Heart,dream pop,2006,2000s,False,True,False,1
+DqjGSFNuJPQD9Zf0,1W5wQE8ViHS35u0rRGaNGY,23.0,2006,0.604,0.404,2.0,1.0,0.0775,119.965,207347,The Hush Sound,Out Through the Curtain,Like Vines,"indie rock,indie pop",2006,2000s,False,True,False,1
+HF4hbabBlwrRlImP,0D2nmjyqmjMuKbxM3WKLFu,26.0,2006,0.816,0.523,8.0,0.0,0.687,130.05,263067,Fergie,Voodoo Doll,The Dutchess,pop,2006,2000s,False,True,False,1
+NwneOB8yfqR0qkSL,2A0KADT0FSRrwRAZSACcwc,39.0,2006,0.564,0.7879999999999999,0.0,1.0,0.648,83.149,241440,Placebo,Blind,Meds,"alternative rock,rock,indie rock",2006,2000s,False,True,False,1
+OLuGKdxO58QG3ujt,1D6zH72Dc1SmJ5TAouves8,31.0,2006,0.247,0.982,1.0,1.0,0.0822,178.199,202600,In Flames,Dead End,Come Clarity,"melodic death metal,metal,death metal",2006,2000s,False,True,False,1
+TM2o3cTWxd9rZAYS,26TKnPNmeJK1XMXhAvaYJR,29.0,2006,0.274,0.955,7.0,1.0,0.682,161.785,158347,The Kooks,See the World,Inside In / Inside Out,"indie rock,rock",2006,2000s,False,True,False,1
+W7mQ7UEWJELpCEGA,0hd8VORxitXVDeiFR6nqwm,24.0,2006,0.0977,0.376,9.0,1.0,0.0687,74.541,215211,Lisa Kelly,May It Be,Lisa,celtic,2006,2000s,False,True,False,1
+X03tdbSvPbCDRmkJ,5VBZc3LZYEz9QmuQK0HTRk,26.0,2006,0.5660000000000001,0.8440000000000001,1.0,0.0,0.682,109.023,364467,Dissection,Maha Kali,Reinkaos,"melodic death metal,black metal,melodic black metal,death metal,black metal,melodic black metal,melodic death metal",2006,2000s,False,True,False,1
+XRMsIRXHGgBggdkZ,3ZLjTMaK0fVXb4ktBLekwk,25.0,2006,0.507,0.7440000000000001,9.0,1.0,0.445,147.97799999999995,221560,Sandy e Junior,Destinos,Sandy & Junior 2006,"pop,pop rock",2006,2000s,False,True,False,1
+bJZIhuLGOszqpjav,1AH74ooBLeL0Zug6p4PBig,32.0,2006,0.517,0.5760000000000001,8.0,1.0,0.431,88.03399999999998,261947,The Knife,Heartbeats (Live),Silent Shout (Audio/Visual Experience),"electronic,electronica,electro",2006,2000s,False,True,False,1
+f2PaNOn0OjzMWsM7,7utxcuAk0iigPblOAOxoog,24.0,2006,0.434,0.986,1.0,1.0,0.146,130.119,194720,In Flames,Vanishing Light,Come Clarity,"melodic death metal,metal,death metal",2006,2000s,False,True,False,1
+hDAS991c46FyMnsC,3O5PMkg9lucQ37t6RjRhP7,39.0,2006,0.773,0.424,7.0,1.0,0.503,100.062,234747,Jack Johnson,Broken,Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George,singer-songwriter,2006,2000s,False,True,False,1
+i0EAaH6EzVoQfJMx,63Kdr7jLTZxHr7MgjMiKmh,37.0,2006,0.506,0.89,2.0,1.0,0.557,156.62,250133,Yeah Yeah Yeahs,Phenomena,Show Your Bones,"indie rock,rock,alternative rock",2006,2000s,False,True,False,1
+n9uyxGohlIu6X0Zd,2ootZ2Z73dbeSjobrZh9Gz,9.0,2006,0.4370000000000001,0.27,1.0,1.0,0.508,98.841,297907,Tool,Prison Sex,"Electro-acoustic Tribute To Tool,the","progressive metal,progressive rock,rock,alternative metal",2006,2000s,False,True,False,1
+r9ZmFwb0QpHAPh1V,5nFgAqxLS7rjXZtMcCl3II,47.0,2006,0.5,0.38,7.0,1.0,0.0959,139.911,348500,Heloisa Rosa,Há Um Lugar,Andando na Luz,worship,2006,2000s,False,True,False,1
+tZk24vUZNJYjVHjL,2xbCQmXSxCkZAcBjBuHzfZ,53.0,2006,0.516,0.509,4.0,1.0,0.299,140.055,252160,Padre Marcelo Rossi,Noites Traiçoeiras,Minha Benção (Com Faixa Bonus),gospel,2006,2000s,False,True,False,1
+w07sN1MamLbfWaCQ,0c2pZSjutA49XcP7OK1ByA,27.0,2006,0.73,0.85,1.0,1.0,0.961,123.892,225000,Chris Isaak,Dancin',Best of Chris Isaak (Remastered),"rock,rockabilly,pop,singer-songwriter",2006,2000s,False,True,False,1
+0Up57ziOmctpdHIZ,1BLfQ6dPXmuDrFmbdfW7Jl,63.0,2007,0.486,0.8809999999999999,2.0,0.0,0.667,144.997,480707,Avenged Sevenfold,A Little Piece of Heaven,Avenged Sevenfold,"hard rock,metal,metalcore,rock",2007,2000s,False,True,False,1
+3d2ZmFEalIXyyIQY,0Oho1Elt6nNyiHZyZR8OaG,34.0,2007,0.249,0.284,1.0,0.0,0.0738,116.665,301320,Jane Monheit,A Time For Love,Surrender,"jazz,smooth jazz,easy listening",2007,2000s,False,True,False,1
+47jCw59VQkqmTcCo,1s2khOWzC99udpUaPICLJI,51.0,2007,0.325,0.532,8.0,1.0,0.162,129.02100000000002,220840,Faith Hill,There You'll Be,The Hits,"country,soundtrack,pop,country,pop",2007,2000s,False,True,False,1
+6Sm7L83KNnKfHVec,5VMFKym267icrEAu4cdHyy,32.0,2007,0.628,0.904,0.0,1.0,0.636,102.809,234427,The Fratellis,Everybody Knows You Cried Last Night,Costello Music (US Version),"indie rock,rock",2007,2000s,False,True,False,1
+7uvVYx6SqhV7XxkB,4itQ8GzGkz1Kf267tQwg4v,45.0,2007,0.5920000000000001,0.426,2.0,0.0,0.285,107.747,225667,Angus & Julia Stone,Mango Tree,A Book Like This,folk,2007,2000s,False,True,False,1
+Az7loyMjCD4ZjDHH,3oMZxyUvL8eIle5ELMHgDW,28.0,2007,0.457,0.589,0.0,1.0,0.763,167.174,266160,Wilco,Walken,Sky Blue Sky,rock,2007,2000s,False,True,False,1
+C5vLhtlZkDEM0j7A,6ve7iiVYeDjmrn4TqdSkeq,32.0,2007,0.484,0.6559999999999999,1.0,1.0,0.871,143.61700000000005,250280,Beirut,Le Moribond,Elephant Gun,"folk,singer-songwriter",2007,2000s,False,True,False,1
+Fm5KyNl82p5paCJp,3G0C3Z9H9CLejvrkWbGBb7,55.0,2007,0.632,0.944,1.0,1.0,0.934,166.925,260185,El Barrio,Pa' Madrid,La Voz de Mi Silencio,"rumba,latin,flamenco",2007,2000s,False,True,False,1
+KyaYI1pkSrmmjP4S,5heY76pKiQAt9ohzK2xDR0,26.0,2007,0.87,0.537,1.0,1.0,0.8240000000000001,121.949,217147,Róisín Murphy,Footprints,Overpowered,"electronic,pop",2007,2000s,False,True,False,1
+MHXn2MBuE8TQQGKs,53j1GPPE4FYs3dubVolySo,17.0,2007,0.499,0.942,11.0,0.0,0.59,119.977,203173,Kaiser Chiefs,I Can Do It Without You,"Yours Truly, Angry Mob (Deluxe)","indie rock,rock,britpop",2007,2000s,False,True,False,1
+OSUy3eTz4WckEy8t,5F7zL7ICE5PCVosxzkcxeG,30.0,2007,0.487,0.848,6.0,0.0,0.112,99.981,430400,Naglfar,Harvest,Harvest,"melodic black metal,black metal",2007,2000s,False,True,False,1
+TiY3mf7XSgk1YVto,1aaIYTqoRDzRUilU2Q6vTe,41.0,2007,0.624,0.852,1.0,1.0,0.512,135.22299999999998,238427,Burial,Archangel,Untrue,"dubstep,electronic,ambient",2007,2000s,False,True,False,1
+XaqE6aNKP1GhQsc7,6KOWXzl69YXhD7QwcQQFla,23.0,2007,0.392,0.961,9.0,1.0,0.119,152.062,255067,Devin Townsend,The Greys,Ziltoid the Omniscient,"progressive metal,progressive rock",2007,2000s,False,True,False,1
+Z9jnv9PBeNA0saNm,0Of7QOxHibUJW7q0YFBJVC,40.0,2007,0.286,0.867,1.0,1.0,0.429,175.928,218493,The Killers,Leave the Bourbon on the Shelf,Sawdust,"rock,indie rock,alternative rock",2007,2000s,False,True,False,1
+beNwbH6evTpty8Ae,4ngkoOK7aDLvbXaGKWU71Y,26.0,2007,0.47,0.976,1.0,1.0,0.248,104.972,243507,Kamelot,Blücher,Ghost Opera: The Second Coming,"power metal,symphonic metal,progressive metal",2007,2000s,False,True,False,1
+cTi1R9dcotKX043z,6geYAL5LpKVrmC79qQem8Z,14.0,2007,0.382,0.7509999999999999,5.0,0.0,0.8029999999999999,145.513,300120,Magazine,The Great Beautician in the Sky,Real Life,"post-punk,new wave",2007,2000s,False,True,False,1
+hXkq9Od7OZZDm4A0,3i5PT12Fp8I6UNqfsEyAWg,42.0,2007,0.764,0.469,2.0,1.0,0.467,103.969,233040,Casuarina,Certidão,Certidão,samba,2007,2000s,False,True,False,1
+innTC75krRMqyE9z,7MpTAgJdkjCNPUWK3PkYpf,42.0,2007,0.6990000000000001,0.866,1.0,1.0,0.708,109.996,208160,The Cheetah Girls,Fuego,TCG,"disney,pop,pop,disney",2007,2000s,False,True,False,1
+nwl83FsxG7G1N3gE,4jR2ezb3YZ9HGlAQZJl6IL,24.0,2007,0.464,0.911,7.0,1.0,0.3,139.833,257560,The Academy Is...,Seed,Santi,indie rock,2007,2000s,False,True,False,1
+pCqh2iuDiBK6F7Xv,3SizB9Beb0HZHww3PjoXbQ,49.0,2007,0.374,0.7390000000000001,7.0,0.0,0.359,148.078,257693,Circa Survive,On Letting Go,On Letting Go,"indie rock,experimental,emo",2007,2000s,False,True,False,1
+v0wowWpwxCXd4XR3,7gmLydEZS9b8F0dNGZ6d8h,28.0,2007,0.614,0.929,11.0,0.0,0.469,130.039,275093,Bajofondo,El Mareo,Mar Dulce,tango,2007,2000s,False,True,False,1
+2CiI1LznQ7qKhg4s,30dn9JpKV0mxoIrENuDszw,37.0,2008,0.809,0.913,1.0,1.0,0.648,110.035,211027,The Cheetah Girls,Dance Me If You Can,The Cheetah Girls: One World,"pop,disney",2008,2000s,False,True,False,1
+40vasktAzlqPfoo7,2dDVzdnFiH0KfSMMuocfyW,17.0,2008,0.279,0.305,0.0,1.0,0.0777,198.151,176893,Ra Ra Riot,Winter '05,The Rhumb Line (10th Anniversary Edition),"violin,indie rock",2008,2000s,False,True,False,1
+9onrrBIwS7VN3AAA,42nAI2FQjth7JnjEcu1FaQ,28.0,2008,0.5,0.522,11.0,0.0,0.156,123.006,398467,Lydia,Now The One You Once Loved Is Leaving,Illuminate,rock,2008,2000s,False,True,False,1
+B5kLL5c4tqgdo68W,4cLsvYLkc3FcJsqvIOj3qG,24.0,2008,0.527,0.969,1.0,1.0,0.19,105.049,209760,In Flames,Drenched in Fear,A Sense Of Purpose,"melodic death metal,metal,death metal",2008,2000s,False,True,False,1
+FFVQbO4rkmvEwOnV,2qbQLga60JnISUYwAG9aDx,32.0,2008,0.255,0.996,5.0,1.0,0.142,93.633,576067,Meshuggah,Dancers to a Discordant System,ObZen,"progressive metal,death metal",2008,2000s,False,True,False,1
+GP7FRok7N4gPhyO2,1xu91y5jf13yxAssdfsbPt,46.0,2008,0.445,0.34,0.0,0.0,0.177,116.826,250093,Jazmine Sullivan,In Love With Another Man,Fearless,soul,2008,2000s,False,True,False,1
+GUdnMKBmaRhZ1QW3,24M9uvzV2pvvggVx3FY9XN,48.0,2008,0.693,0.964,0.0,1.0,0.536,140.04399999999998,200560,Basshunter,Dota,Now You're Gone,"techno,electronic",2008,2000s,False,True,False,1
+HFMKvw3ZJrnrhxhe,6z9r12PJfgnCz9BWtqdNwb,32.0,2008,0.595,0.866,0.0,1.0,0.7070000000000001,88.73100000000002,220387,Natasha Bedingfield,Happy,Pocketful Of Sunshine,pop,2008,2000s,False,True,False,1
+HGfot9vNUflYdGsR,3UajbLEQ0rVhwVsuVl0voF,26.0,2008,0.672,0.3720000000000001,8.0,1.0,0.346,113.336,193747,Chad VanGaalen,Willow Tree,Soft Airplane,"banjo,indie pop,folk",2008,2000s,False,True,False,1
+Xx4d37jOawZc2qmN,1AGvImjxJkEXNT5Nt8kAs3,35.0,2008,0.471,0.584,2.0,1.0,0.359,123.083,382653,The Kinks,Celluloid Heroes,Picture Book,"classic rock,rock,british invasion",2008,2000s,False,True,False,1
+d5Z0zkgk4RAaC9MG,3dF1vq08QG7ZliVeryUrRq,26.0,2008,0.294,0.131,5.0,0.0,0.0352,167.93400000000003,415307,Goldmund,Evelyn,The Malady Of Elegance,experimental,2008,2000s,False,True,False,1
+fvL9G4SwuWCh2KhW,27Hgu2DueRGv2PL3NAYQnl,28.0,2008,0.458,0.695,9.0,0.0,0.486,94.261,350920,Nick Cave & The Bad Seeds,Hold on to Yourself,"Dig, Lazarus, Dig!!!","alternative rock,rock",2008,2000s,False,True,False,1
+hl23ScYhST7fQnT9,5r6b8bgDrG6nUzFq2q2GGW,9.0,2008,0.6809999999999999,0.403,4.0,0.0,0.326,62.83600000000001,176227,Autechre,Steels,Quaristice,"electronic,glitch",2008,2000s,False,True,False,1
+mg64kvNkthr7LzrB,4va645L73FmWWMpMGSHcyw,29.0,2008,0.5720000000000001,0.909,5.0,1.0,0.954,133.5,201853,Port O'Brien,I Woke Up Today,All We Could Do Was Sing,"folk,indie folk",2008,2000s,False,True,False,1
+myxakhxslzZkyvH4,6deUL4pIy75bpLl6gWlr5R,28.0,2008,0.296,0.466,0.0,1.0,0.0758,171.74400000000003,137201,Nine Inch Nails,12 Ghosts II,Ghosts I-IV,"industrial,electronic,industrial rock",2008,2000s,False,True,False,1
+qBMYnNpbZmSq94l7,7LhbOymcjQxO8W37E1U6TM,41.0,2008,0.464,0.913,8.0,1.0,0.309,164.915,224787,Mötley Crüe,Face Down In The Dirt,Saints of Los Angeles,"hard rock,glam metal,metal",2008,2000s,False,True,False,1
+tcqPb7craAqKhokd,2YyxVkIHIFAGqanmUgCLSX,28.0,2008,0.637,0.6859999999999999,7.0,1.0,0.166,99.899,421827,Ulrich Schnauss,Knuddelmaus,Far Away Trains Passing By,"ambient,electronic,downtempo",2008,2000s,False,True,False,1
+u2ry9tlQssF8l3F4,7isniSyP8VgbXWpv5pZYef,42.0,2008,0.498,0.943,9.0,0.0,0.246,122.212,212347,Sabaton,Talvisota,Art Of War,"power metal,metal",2008,2000s,False,True,False,1
+vR9p8FCGDyUxqaho,7f83qAZE72r5V8a16YBJuX,41.0,2008,0.42,0.8640000000000001,7.0,0.0,0.387,151.954,229427,Shinedown,Breaking Inside,The Sound of Madness,"alternative rock,rock,post-grunge,hard rock",2008,2000s,False,True,False,1
+41C1oKJEK9kmOJTa,6ntkwU1MhehTKgx4BWxX3f,54.0,2009,0.738,0.804,10.0,0.0,0.7909999999999999,109.045,181013,Miley Cyrus,Hoedown Throwdown,Hannah Montana The Movie,"pop,country,soundtrack",2009,2000s,False,True,False,1
+72ZLosjY0lBUQKit,3VrqD60Y6f5yIvVPsD1Kp1,23.0,2009,0.235,0.417,11.0,1.0,0.0493,177.69,463733,Earth,Hung from the Moon,The Bees Made Honey In The Lion's Skull,"drone,doom metal,drone,doom metal",2009,2000s,False,True,False,1
+8Uz7tAefbcTa1lTN,3alDadHRRhdnpiXM9Zy6nB,22.0,2009,0.451,0.947,7.0,1.0,0.496,84.01,251640,Children of Bodom,Rebel Yell,Skeletons in the Closet (US Edition),"melodic death metal,metal,death metal",2009,2000s,False,True,False,1
+BFhGeiIVr7lA4cCY,5edW1zAmH1bt042sIebo3T,32.0,2009,0.588,0.731,7.0,1.0,0.157,99.966,308280,Moderat,Slow Match,Moderat,"electronic,dubstep",2009,2000s,False,True,False,1
+BGom7B1K2Iy8jkjz,3CSOtoHPShA4janfXFTuVb,34.0,2009,0.5760000000000001,0.8809999999999999,2.0,0.0,0.449,97.009,183187,Flyleaf,Beautiful Bride,Memento Mori (Expanded),"alternative rock,alternative metal,rock,metal,christian rock",2009,2000s,False,True,False,1
+CYJbZvLywxFNF7eC,0Yjct5O2h39MlWC1id5WcU,5.0,2009,0.442,0.152,2.0,1.0,0.276,87.696,267693,Rogério Skylab,Naquela Noite,SKYLAB IX - Ao Vivo,"rock,experimental,mpb",2009,2000s,False,True,False,1
+Dw154dPadM2tWib9,4rhVQGBr5Hb9lSBxTnKge4,22.0,2009,0.52,0.6940000000000001,7.0,0.0,0.893,109.233,265267,The Clientele,I Wonder Who We Are,Bonfires on the Heath,indie pop,2009,2000s,False,True,False,1
+FSuzMblNhk07FPoi,39jRk51dDEqMlAftZFSUyI,14.0,2009,0.669,0.8759999999999999,3.0,0.0,0.847,127.988,217240,Cascada,Why You Had to Leave,Evacuate The Dancefloor,"pop,electronic,dance pop",2009,2000s,False,True,False,1
+K1G1ofIk4PvGajEv,69VSKX9fI105x4WrTE140L,43.0,2009,0.454,0.39,11.0,0.0,0.253,93.932,347840,Eliana Ribeiro,Força e Vitória (ao vivo),Barco a Vela (Ao Vivo),christian rock,2009,2000s,False,True,False,1
+MvQa37GbG2WYjoss,1gIYGuxJpSH5lHIRRWmsg2,31.0,2009,0.451,0.736,8.0,1.0,0.375,137.118,241893,Him,Disarm Me (With Your Loneliness),Screamworks: Love in Theory and Practice (Deluxe Version),rock,2009,2000s,False,True,False,1
+NflGILfw6PdXFc1F,2ly0rpPCtErcfnL03fQfeQ,29.0,2009,0.467,0.682,10.0,0.0,0.485,139.989,246880,Katatonia,Day,Night Is the New Day,doom metal,2009,2000s,False,True,False,1
+RCX35CrDHWgyjVzm,79oCI2cgWQVUwV0gC7qcP4,15.0,2009,0.7929999999999999,0.887,10.0,0.0,0.775,111.977,189051,Anahí,Él Me Mintió,Mi Delirio,"pop,latin",2009,2000s,False,True,False,1
+RFUhTn0iDaY4Rd89,6rLT44nWyFMmTBN4JUMwSf,26.0,2009,0.458,0.87,2.0,1.0,0.359,90.006,228933,Hot Chelle Rae,The Distance,Lovesick Electric,"pop rock,pop",2009,2000s,False,True,False,1
+UJyJXfj8eNRbgBBX,6Dy986jkHvsBP3LqgoH3Dc,13.0,2009,0.55,0.905,0.0,1.0,0.228,125.45,215667,Lifelover,Besatt,Erotik,"black metal,depressive black metal,post-punk",2009,2000s,False,True,False,1
+VmXAkiDO55pYjn2O,1vJMwHLegksOTtRyWFsjTQ,25.0,2009,0.706,0.778,2.0,1.0,0.342,110.991,211933,Peaches,Lose You,I Feel Cream,"electronic,synthpop",2009,2000s,False,True,False,1
+WPV7KSSeGI4MrAsv,5OzH78l5I2ztipL0r8NaOK,36.0,2009,0.583,0.987,7.0,1.0,0.11,134.029,239200,Otep,"Rise, Rebel, Resist",Smash The Control Machine,"metal,nu metal",2009,2000s,False,True,False,1
+Ya77ppnV3GlYV4bN,3DITsgogL4h6XqPf0Ex5dR,32.0,2009,0.5760000000000001,0.904,7.0,0.0,0.584,142.987,216773,Cobra Starship,Nice Guys Finish Last,Hot Mess,"pop punk,pop",2009,2000s,False,True,False,1
+ZuXZeVrNi4BTEdKD,2Rc5i1prwcSG7XV844zrWx,38.0,2009,0.224,0.753,0.0,1.0,0.482,110.805,322027,Animal Collective,In the Flowers,Merriweather Post Pavilion,"experimental,noise",2009,2000s,False,True,False,1
+lRS1aHEANMN5PxP6,4soE6F9djLRl3OwQyKd3p2,38.0,2009,0.3670000000000001,0.979,1.0,1.0,0.176,170.037,212467,Architects,Hollow Crown,Hollow Crown,"metalcore,hardcore,mathcore",2009,2000s,False,True,False,1
+rB476FRMAdVZJyTn,2IsSkZ2ZLHdPR1SkmqSX2k,28.0,2009,0.404,0.499,2.0,1.0,0.644,131.484,305213,Dirty Projectors,Temecula Sunrise,Bitte Orca,"experimental,freak folk,folk,indie rock",2009,2000s,False,True,False,1
+rvPeycEq5f5W6gKf,66Qdzo8KjGq4D1UArEUksU,14.0,2009,0.516,0.967,11.0,0.0,0.305,120.01,194667,the GazettE,OGRE,Dim,"metal,visual kei,j-rock,j-rock,visual kei",2009,2000s,False,True,False,1
+s13RCALtBOmQzdDE,2XvLhlHXJID2ORTL4EBlsW,28.0,2009,0.385,0.962,6.0,1.0,0.265,175.049,186853,Architects,Dethroned,Hollow Crown,"metalcore,hardcore,mathcore,metal",2009,2000s,False,True,False,1
+yWmBY174xl0EhtZj,5QTKgUArMLt1JzM2JXlYCN,35.0,2009,0.677,0.871,11.0,0.0,0.518,115.138,195947,The Decemberists,The Rake's Song,Hazards Of Love,"indie rock,folk,indie rock",2009,2000s,False,True,False,1
+0eOb3k7yahwia5f5,17rwlHKv5EvCqHIWsH4cRr,9.0,2010,0.156,0.53,8.0,0.0,0.152,94.855,317147,Anathema,Angels Walk Among Us,We're Here Because We're Here (Deluxe),"progressive rock,progressive rock,doom metal,progressive metal",2010,2010s,False,True,False,1
+5yQxczcfQWE0ZQft,4M1l75v7WJI6NfOo2rdznj,33.0,2010,0.199,0.992,7.0,1.0,0.136,194.838,187347,Four Year Strong,What The Hell Is A Gigawatt,Enemy Of The World,"pop punk,melodic hardcore",2010,2010s,False,True,False,1
+720rRgMDLXbKYQR2,3y8dxBoOLWB0yEoVAAMjmZ,30.0,2010,0.236,0.968,4.0,1.0,0.17,195.95,148667,Wavves,Super Soaker,King of the Beach,"lo-fi,rock,indie rock",2010,2010s,False,True,False,1
+7wxWqSDZJFfT8lQg,7fWhkCzm5g2EYZgjrrGJKT,34.0,2010,0.315,0.984,5.0,0.0,0.308,179.981,271613,Finntroll,Solsagan,Nifelvind,"folk metal,black metal,metal",2010,2010s,False,True,False,1
+8dCAJh15dygwLD3C,0FgIVIBrwjaFznwmN6dFVE,8.0,2010,0.113,0.609,9.0,1.0,0.039,58.098,942773,Paysage d'Hiver,Einsamkeit,Einsamkeit,"dark ambient,ambient,black metal",2010,2010s,False,True,False,1
+BE7SHa7dP0VuEQuT,4yDMdRHPvEn4TLQhr43KDf,48.0,2010,0.7759999999999999,0.493,11.0,0.0,0.523,111.989,238720,Iyeoka,Simply Falling,Say Yes,soul,2010,2010s,False,True,False,1
+BIyUqECUhND02Mw7,7MCMw5xEvVI9mVoc9Eoy20,7.0,2010,0.612,0.868,8.0,1.0,0.617,135.966,198833,Anahí,Pobre Tu Alma,Alérgico (The Fan Edition),"pop,latin,pop,latin",2010,2010s,False,True,False,1
+Bl0vQsDLX18QHXuZ,3gyFquLGJ4rkPp1c5QxDhg,18.0,2010,0.0865,0.3670000000000001,10.0,0.0,0.299,177.825,342840,Oneohtrix Point Never,Stress Waves,Returnal,"ambient,electronic,downtempo,ambient,drone,experimental",2010,2010s,False,True,False,1
+JQxaccftITEoPOjN,3sqUOujROom85ggcQKIow1,39.0,2010,0.439,0.75,7.0,0.0,0.357,119.02,435053,Tame Impala,"Runway, Houses, City, Clouds",InnerSpeaker,"psychedelic rock,experimental,psychedelic rock,indie rock",2010,2010s,False,True,False,1
+LheqYI4RIc0K7wj4,29tIH81yDrPA9N7QdcOPJV,54.0,2010,0.55,0.928,0.0,1.0,0.515,130.02100000000002,211187,A Day to Remember,Over My Head (Cable Car),Attack of the Killer B-Sides,post-hardcore,2010,2010s,False,True,False,1
+Qs5sSN77ROqiYM3x,0hMYmjPGASKLRaTJkKAgku,0.0,2010,0.6920000000000001,0.599,3.0,1.0,0.961,106.278,190013,The Hues Corporation,Rock the Boat,Drew's Famous # 1 Karaoke Hits: R&B Hits Vol. 4,"disco,pop",2010,2010s,False,True,False,1
+VIMThDALaadZVLZh,4gPCrqNLbJROyB7lCGKBrd,17.0,2010,0.718,0.109,10.0,1.0,0.351,106.99,208507,Morcheeba,I Am The Spring,Blood Like Lemonade,electronic,2010,2010s,False,True,False,1
+X4h1oJPatak89qrS,3S62DJdt3MSgIyc9BcIWVP,7.0,2010,0.433,0.557,4.0,1.0,0.5870000000000001,187.826,232293,Cyndi Lauper,Shattered Dreams,Memphis Blues,"blues,memphis blues",2010,2010s,False,True,False,1
+XaJ7KyszhjcxBWOv,1UJNbgfTzG1gZZTWFJdMf1,54.0,2010,0.705,0.7509999999999999,7.0,1.0,0.8190000000000001,80.727,174867,Gorillaz,Superfast Jellyfish (feat. Gruff Rhys and De La Soul),Plastic Beach,electronic,2010,2010s,False,True,False,1
+iuceu3Shi4yJgfWd,4QtMKWVE0O55i9BFLPlSYQ,27.0,2010,0.716,0.8340000000000001,7.0,1.0,0.7290000000000001,97.043,203759,Professor Green,Just Be Good To Green,Just Be Good To Green,"rap,grime,rap",2010,2010s,False,True,False,1
+jMv9RpwJ6ThJqsEN,79OPqYKyZLGNY0x06smsmH,32.0,2010,0.725,0.7340000000000001,5.0,1.0,0.755,102.069,258920,Spoon,Written In Reverse,Transference,"indie rock,rock",2010,2010s,False,True,False,1
+kI4Ixc35OlnqWmuZ,5FHk1bL8pMrRaozgHm9Qbv,35.0,2010,0.34,0.979,10.0,0.0,0.259,120.082,211773,The Ghost Inside,Chrono,Returners,"hardcore,metalcore,melodic hardcore",2010,2010s,False,True,False,1
+p6tebQduaf8DJOjX,5SM5amC17V4itA5jxIICjS,45.0,2010,0.7240000000000001,0.8029999999999999,5.0,0.0,0.565,138.17,320467,Gorillaz,Sweepstakes,Plastic Beach,electronic,2010,2010s,False,True,False,1
+pHiwLJylrHnaxfaH,0WqL7PB2Zt82xWsSGWaqUn,24.0,2010,0.267,0.7959999999999999,7.0,1.0,0.4920000000000001,161.967,363267,Popa Chubby,Hey Joe,The Essential Popa Chubby,blues,2010,2010s,False,True,False,1
+vC8ZIGa4RJitBIkt,10Fl2658AEb8vdEmGroghI,34.0,2010,0.473,0.456,3.0,1.0,0.182,123.243,173413,The Tallest Man on Earth,Thousand Ways,The Wild Hunt,"folk,folk,singer-songwriter",2010,2010s,False,True,False,1
+vCEHB8m68c8vrX8p,1W2ox3KxfTEQfO5NdOaK7E,48.0,2010,0.785,0.6920000000000001,9.0,1.0,0.944,102.019,178667,Vampire Weekend,White Sky,Contra,"indie rock,rock",2010,2010s,False,True,False,1
+vPXjhADxByVzvaDJ,2p77uME3lMujc6RVyZGSy7,33.0,2010,0.816,0.257,7.0,1.0,0.78,120.414,168840,Billie Holiday,A Sailboat in the Moonlight,The Essential Billie Holiday,jazz,2010,2010s,False,True,False,1
+vgF5BXXIrpiWYKUF,5JGzZmfNradrWaWW89yQs6,31.0,2010,0.268,0.071,0.0,0.0,0.0861,68.211,284600,Ólafur Arnalds,Kjurrt,…And They Have Escaped the Weight of Darkness,"contemporary classical,neoclassical,neo-classical",2010,2010s,False,True,False,1
+wvJXw1NOc8fXs1bK,78zDpw0UHccdcBpRk1veuz,21.0,2010,0.504,0.608,8.0,1.0,0.58,105.79,274120,Belle and Sebastian,The Ghost of Rockschool,Write About Love,indie pop,2010,2010s,False,True,False,1
+8XRNX71c82VJJbVE,61LtVmmkGr8P9I2tSPvdpf,60.0,2011,0.846,0.438,11.0,1.0,0.512,85.01299999999998,237480,Cali Swag District,Teach Me How To Dougie,The Kickback,hip hop,2011,2010s,False,True,False,1
+8rMEgyOEHM7V2hSX,2I15NF3LrAe7f5PItdJDPS,12.0,2011,0.375,0.967,1.0,1.0,0.423,194.99400000000003,260587,Myrath,Braving the Seas,Tales of the Sands,"progressive metal,power metal,oriental metal,progressive metal,oriental metal",2011,2010s,False,True,False,1
+A8vmaTzXYRwUSrco,3nGaoL3hDNYue4yMU8LEx9,19.0,2011,0.449,0.664,10.0,0.0,0.1689999999999999,111.981,261040,the GazettE,UNTITLED,Toxic,"j-rock,visual kei,j-rock,visual kei",2011,2010s,False,True,False,1
+B5mEAW5Ss90d98gP,5Tyi10wvVbd3pu65GCHD8y,38.0,2011,0.835,0.7929999999999999,11.0,0.0,0.325,122.011,461399,Massive Attack,Paradise Circus (Gui Boratto Remix),Madrid Fashion Week,"downtempo,tech house,techno",2011,2010s,False,True,False,1
+B7NAxj7hoQRqTNcw,40gZAlqBJbZ9gZFyAo53Cj,38.0,2011,0.511,0.983,4.0,0.0,0.356,108.968,208840,The Black Dahlia Murder,Moonlight Equilibrium,Ritual,"melodic death metal,death metal",2011,2010s,False,True,False,1
+B8VpP6eXuvVH00zO,2bUX1i2Vucp5W0zclHC1Qb,31.0,2011,0.7020000000000001,0.892,10.0,1.0,0.665,128.02700000000002,187947,Dulce María,Extranjera,Extranjera Segunda Parte,"pop,latin",2011,2010s,False,True,False,1
+Cv4gghPIQo1FuZZw,3q1zyWHnoJOWf46lodiJYb,9.0,2011,0.493,0.94,4.0,1.0,0.898,140.0,136360,Beady Eye,For Anyone,"Different Gear, Still Speeding","rock,britpop",2011,2010s,False,True,False,1
+DmoNempu05Jn2zy0,33A5dqixtCVbDqa3CkF5XU,19.0,2011,0.632,0.922,0.0,0.0,0.861,121.978,273893,Duran Duran,All You Need Is Now,All You Need Is Now,"pop,new wave,rock,synthpop",2011,2010s,False,True,False,1
+FGawwt6I2MBY6ZeT,3if6auLeZwrdbblFXxhtkK,1.0,2011,0.174,0.748,3.0,0.0,0.259,105.544,271413,Clair Cassis,The Feathered Fog,Clair Cassis,"atmospheric black metal,black metal,blackgaze",2011,2010s,False,True,False,1
+Fwt7m9iYhgn1gdVI,4H8Z0npsgVOADyp1B0foVD,27.0,2011,0.319,0.7979999999999999,0.0,0.0,0.5379999999999999,179.93200000000004,262933,Theatres Des Vampires,Moonlight Waltz,Moonlight Waltz,gothic metal,2011,2010s,False,True,False,1
+HLizoQqVFeMUAGKw,4w5uAeww7Mwm2nn2c6hdWe,19.0,2011,0.4970000000000001,0.561,7.0,0.0,0.339,167.077,305373,Defeater,Brothers,Empty Days & Sleepless Nights,"melodic hardcore,post-hardcore,hardcore,melodic hardcore,hardcore punk",2011,2010s,False,True,False,1
+HvPaksPhL8LadSs5,4UDcskqmXuyaMuLgYNssbi,30.0,2011,0.659,0.73,8.0,1.0,0.458,131.761,223733,Part Time,I Wanna Take You Out,What Would You Say?,shoegaze,2011,2010s,False,True,False,1
+LCd77Z9Lky360TUr,440xG6NJUNhha53kmvOL1U,39.0,2011,0.357,0.8320000000000001,9.0,1.0,0.382,177.82,207907,Mayday Parade,Everything's an Illusion,Mayday Parade (Deluxe Edition),pop,2011,2010s,False,True,False,1
+LY3G2pNmobvyXHQ5,4b1fNUbUnOXdtlwZzETWhF,23.0,2011,0.6579999999999999,0.682,1.0,0.0,0.382,130.085,270183,Christina Grimmie,King of Thieves,Find Me,pop,2011,2010s,False,True,False,1
+MxkJP89lZ7m0SwpT,7Ly4vpc0e0JaqKIbCHtSHX,51.0,2011,0.0945,0.057,5.0,1.0,0.0375,67.598,233947,Dario Marianelli,My Edward and I,Jane Eyre - Original Motion Picture Soundtrack,"soundtrack,classical",2011,2010s,False,True,False,1
+N9D48Nu8GDtis1zY,57WyFtg2O7OKq7pbfjPcee,37.0,2011,0.22,0.966,3.0,1.0,0.484,170.907,220800,Steel Panther,Just Like Tiger Woods,Balls Out,hard rock,2011,2010s,False,True,False,1
+NIEpowQKI6YM3Tbl,6yMlHBgwnIhrF2Qvnt2Yyn,42.0,2011,0.491,0.377,0.0,1.0,0.1,101.071,377133,God Is An Astronaut,A Moment Of Stillness,A Moment Of Stillness (2011 Remastered Edition),"post-rock,ambient",2011,2010s,False,True,False,1
+NoPLHfSoSM7dg1pg,6mXHxE2BEafOgdWoFvc6mF,51.0,2011,0.615,0.6759999999999999,8.0,1.0,0.259,121.026,301933,Alejandro Sanz,A la primera persona,Coleccion definitiva,"latin,latin pop,latin,pop",2011,2010s,False,True,False,1
+PfSPvjYcAXDaWg0Q,3nHPyKEYWPDCMkgJyh2ec5,24.0,2011,0.652,0.41,7.0,0.0,0.0776,94.922,182693,Maria Gadú,Reis,Mais Uma Página,mpb,2011,2010s,False,True,False,1
+QlH0p02tK2sTcnW1,4hiNy91KKAkR3RJQMrD2Iv,8.0,2011,0.562,0.777,1.0,0.0,0.562,161.93200000000004,184964,The Radio Dept.,The One,Passive Aggressive: Singles 2002-2010,"pop,shoegaze",2011,2010s,False,True,False,1
+UeDZyTqfs935kkxf,4fVbzqBB2X2XQfFpnaoxY9,16.0,2011,0.145,0.916,0.0,1.0,0.0573,149.286,616427,Wolves in the Throne Room,Astral Blood,Celestial Lineage,"atmospheric black metal,black metal",2011,2010s,False,True,False,1
+UnYWcBBAMVPizlua,7cOjZKdxgshxWgeGfE4m01,23.0,2011,0.7509999999999999,0.939,0.0,0.0,0.916,117.994,299293,Jessica 6,White Horse,See The Light,electronic,2011,2010s,False,True,False,1
+YLbFNe07fvFqitdR,58su4eMhL93HP3Uh4NCDml,46.0,2011,0.462,0.249,7.0,1.0,0.0481,106.039,112720,Codes In The Clouds,If I'd Have Known It Was The Last (second position),As the Spirit Wanes,"post-rock,ambient,post-rock,ambient",2011,2010s,False,True,False,1
+Zl1vsVHE579YnEas,0OLyp6n6yMwIzzlubXDrsK,36.0,2011,0.374,0.937,9.0,1.0,0.342,149.812,172960,Cults,Abducted,Cults,"indie pop,lo-fi,psychedelic rock",2011,2010s,False,True,False,1
+azDCYhzhj8NPLotz,1dEjgBPAUTWkZTDoR6gOXv,39.0,2011,0.51,0.952,6.0,1.0,0.289,130.019,270162,In Flames,All For Me,Sounds of a Playground Fading,"melodic death metal,metal,melodic death metal,metal,death metal",2011,2010s,False,True,False,1
+gIOYI6BXUy4xcGms,4AwTxSZnJslsg1Rjjwg74z,34.0,2011,0.679,0.735,9.0,0.0,0.557,142.04,304382,La Dispute,All Our Bruised Bodies and the Whole Heart Shrinks,Wildlife,post-hardcore,2011,2010s,False,True,False,1
+hRVJVdoemRbwG8VQ,1moK0N5GaJKO2XHsm4snkU,46.0,2011,0.606,0.95,10.0,0.0,0.8440000000000001,81.006,221680,Nickelback,Gotta Get Me Some,Here and Now (Audio Only Version),"hard rock,rock,alternative rock",2011,2010s,False,True,False,1
+lmEH67gkXKiq7igv,6P7DStTNQ30weKZBhVi9n0,39.0,2011,0.782,0.329,10.0,1.0,0.434,91.523,228347,Defeater,I Don't Mind,Empty Days & Sleepless Nights,"melodic hardcore,hardcore,melodic hardcore,hardcore punk",2011,2010s,False,True,False,1
+m9r0Z206JfgnNfsw,2SWmfd8iv4CiBOztWJebux,40.0,2011,0.708,0.693,11.0,1.0,0.892,108.319,185733,Eruption,I Can't Stand the Rain,4 Hits: Eruption,"disco,pop",2011,2010s,False,True,False,1
+nH9GzDD7dnLRO3BR,7r171hqXMKmoa17MYmCiNz,14.0,2011,0.478,0.833,6.0,0.0,0.639,140.063,192187,Hard-Fi,Love Song,Killer Sounds,indie rock,2011,2010s,False,True,False,1
+q8nA6qdCY3QM1gaS,28uy5DucL8FGCxkRnA6bRu,20.0,2011,0.664,0.8220000000000001,10.0,0.0,0.38,98.985,229800,Patrick Stump,When I Made You Cry,Soul Punk (Deluxe Edition),pop,2011,2010s,False,True,False,1
+qUcUkJzc6G7J1gIo,41VTcYnDrvfQq4nctWCHVH,24.0,2011,0.8009999999999999,0.6679999999999999,2.0,1.0,0.43,96.392,434133,Einstürzende Neubauten,Yü-Gung - Fütter Mein Ego,Halber Mensch,"industrial,experimental,noise",2011,2010s,False,True,False,1
+qhJyyTjLdi6sGwtv,5SH5u8pZsFxB9cThTnySJV,26.0,2011,0.76,0.768,2.0,1.0,0.584,138.859,142187,Lizzy Mercier Descloux,Wawa,From Heaven with Love,"post-punk,no wave",2011,2010s,False,True,False,1
+sBvEJ4fbVfm98Flu,6HhKimJcPdQISrhuIWpkxQ,25.0,2011,0.461,0.884,7.0,0.0,0.286,172.02700000000004,236013,The Birthday Massacre,Forever,Imaginary Monsters,"industrial,gothic rock",2011,2010s,False,True,False,1
+uDB5jip43r9Z9e18,5QT0hwKwPjw2txni0gvggn,5.0,2011,0.507,0.949,7.0,1.0,0.114,120.031,389120,Shining,"Förtvivlan, min arvedel",VII - Född Förlorare,"depressive black metal,black metal,swedish black metal",2011,2010s,False,True,False,1
+usFsg51cRW8XGulk,1F6BAyY4iIzHiZCnUIZDbn,65.0,2011,0.594,0.562,0.0,1.0,0.914,144.031,207000,Banda El Recodo,La Mejor De Todas,La Mejor De Todas,banda,2011,2010s,False,True,False,1
+0beoHjIkhTXyJQzp,6jAAYLKxXPyeEoddXu6Gf7,49.0,2012,0.51,0.42,6.0,1.0,0.19,125.898,244120,Tenth Avenue North,Worn,The Struggle,christian rock,2012,2010s,False,True,False,1
+1LXzq4JEYjTGVAu3,1iWgFnhR0oW5Mup8yXDAPW,59.0,2012,0.5920000000000001,0.877,2.0,0.0,0.7120000000000001,117.106,241849,Otherwise,Soldiers,Soldiers,"rock,hard rock",2012,2010s,False,True,False,1
+3gj14fT5ys68hKGJ,5aZs9CepW7eVKORVARLhmN,43.0,2012,0.263,0.945,0.0,1.0,0.564,147.81799999999996,126840,Elvis Presley,You Don't Have To Say You Love Me,Prince From Another Planet (Live),"rock,classic rock,pop",2012,2010s,False,True,False,1
+5kLNPWBeWwQOeE4w,59AtAEg6zGvLOp2oa1NtZq,31.0,2012,0.293,0.386,1.0,0.0,0.0645,76.171,169074,Linkin Park,CASTLE OF GLASS - Acapella,LIVING THINGS: Acapellas and Instrumentals,"nu metal,rock,alternative rock,metal,rock,nu metal,alternative rock",2012,2010s,False,True,False,1
+6dm6W1zxCPkp6IE2,0yTbImzG8hlOJEzpAWkhGC,54.0,2012,0.7340000000000001,0.616,7.0,1.0,0.8740000000000001,89.992,200680,Jenny And The Mexicats,Me Voy a Ir,Jenny And The Mexicats,"latin pop,mexican pop",2012,2010s,False,True,False,1
+6epWj7isi07K31lB,3gVRILe7XCyNakb6sy5umX,58.0,2012,0.6729999999999999,0.76,0.0,1.0,0.807,113.063,171120,Jason Aldean,When She Says Baby,Night Train,country,2012,2010s,False,True,False,1
+81cQCNFt4tbt3rlR,77GcYr9JP6uvJM0kPa6Nzk,38.0,2012,0.623,0.738,3.0,1.0,0.8740000000000001,152.066,152947,Glee Cast,Jingle Bell Rock,"Glee: The Music, The Christmas Album Vol. 3",pop,2012,2010s,False,True,False,1
+C9T8vRQrEQ4BnFd3,2xD1JpfWQR0fBtucbDnZqp,41.0,2012,0.789,0.945,4.0,0.0,0.154,128.025,360000,Silva,2012,Miami 2012 (Mixed by MYNC & Nicky Romero),pop,2012,2010s,False,True,False,1
+CCGl1A8cyb7gSjBF,39KVMeXMLYpHki96V0Lwrd,25.0,2012,0.564,0.604,10.0,1.0,0.635,148.024,204155,Black Moth Super Rainbow,Windshield Smasher,Cobra Juicy,"experimental,rock",2012,2010s,False,True,False,1
+JEstad4ldQ2Q6gVA,5VWvfCnfRyPlTxG3HTG1jt,26.0,2012,0.513,0.915,7.0,0.0,0.3670000000000001,93.704,246200,The Sword,Arcane Montane,Apocryphon,"doom metal,stoner metal",2012,2010s,False,True,False,1
+RKVzdeRKRTokCopo,6siwIUzMZ0yNX2vGm2XwZz,42.0,2012,0.8540000000000001,0.441,2.0,1.0,0.733,149.029,410373,Max Romeo,I Chase The Devil,Lee 'Scratch' Perry & The Upsetters: Super Ape & Return of the Super Ape,"reggae,roots reggae,dub",2012,2010s,False,True,False,1
+T5UteviI8x7MV9wc,58MZCECkYGPvrcU4IGjqPA,33.0,2012,0.6409999999999999,0.755,0.0,1.0,0.804,128.131,218625,Work Drugs,License to Drive,Absolute Bearing,"dream pop,electronic,lo-fi",2012,2010s,False,True,False,1
+UgQ0si90jnB8BYyh,53fceVpzxQgvap1huZYdLC,8.0,2012,0.49,0.6729999999999999,10.0,0.0,0.8490000000000001,110.447,237800,Lust for Youth,Champagne,Growing Seeds,"noise,experimental",2012,2010s,False,True,False,1
+WyrUg1ZuvndCnjzG,4iw77gDbUH4IarjSOBu4WY,26.0,2012,0.583,0.8390000000000001,2.0,1.0,0.882,110.043,211600,The Birthday Massacre,Calling,Hide and Seek,gothic rock,2012,2010s,False,True,False,1
+You5dguGC7VTJZoJ,1KpvthHIZtvGSmpqE5SLlf,13.0,2012,0.4270000000000001,0.483,6.0,0.0,0.312,188.797,238680,The Rasmus,Sky,The Rasmus,pop rock,2012,2010s,False,True,False,1
+ZbDf2lC1zYHMiUcK,7eQgXWnI4sn58whq689K6s,29.0,2012,0.406,0.919,0.0,0.0,0.779,128.638,186085,Banda Calypso,Isso é Calypso,Calypso Ao Vivo Pelo Brasil,"calypso,brega,forro,merengue,zouk",2012,2010s,False,True,False,1
+bWqTbEwGGF4NPOtY,285prZkUr5NulKkAZb9hlN,34.0,2012,0.211,0.8590000000000001,10.0,1.0,0.28,124.747,472453,High on Fire,"10,000 Years",The Art of Self Defense,stoner rock,2012,2010s,False,True,False,1
+do9dG4SIbAtZNUbV,1LSY3MJNkiHpw4fcE7kzAV,10.0,2012,0.562,0.487,4.0,0.0,0.119,93.991,215133,Delilah,Never Be Another,From The Roots Up (Deluxe Edition),"pop,electronic,experimental",2012,2010s,False,True,False,1
+gDZiWh84YTcLmbsP,7yu8AMzJIp4HHBXEnP2u6Z,44.0,2012,0.379,0.279,2.0,0.0,0.139,150.761,433200,Beth Hart,Caught Out In The Rain,Bang Bang Boom Boom,blues,2012,2010s,False,True,False,1
+gDgHsCNffKQKN9xO,1Ir2Jvx1GEXjUVYPcR6Ldj,33.0,2012,0.718,0.767,2.0,1.0,0.502,126.018,500552,Four Tet,Pinnacles,Pink,"electronic,nu jazz",2012,2010s,False,True,False,1
+hY5It27qH4wBShPJ,12DE4ela8kEMRNIEYEhKy2,44.0,2012,0.7140000000000001,0.212,9.0,0.0,0.356,99.033,181000,The xx,Tides,Coexist,indietronica,2012,2010s,False,True,False,1
+hYlmcniFu4AYNTsN,1aZjGHxPUGavCeE6Fp1cv3,18.0,2012,0.713,0.474,3.0,0.0,0.234,125.15,173567,Soap&Skin,Big Hand Nails Down,Narrow,experimental,2012,2010s,False,True,False,1
+j50yzHvkuZRhDDKV,1OwJLABgqyipl2dQS0UhKD,18.0,2012,0.296,0.98,1.0,1.0,0.257,110.926,251453,Napalm Death,If the Truth Be Known,Harmony Corruption (Full Dynamic Range Edition),"death metal,grindcore",2012,2010s,False,True,False,1
+mgrJGqXdnSEV6gmI,3sg998tTsFWj5IIYndyirp,33.0,2012,0.536,0.835,2.0,1.0,0.465,145.945,222147,Boys Like Girls,Cheated,Crazy World,pop punk,2012,2010s,False,True,False,1
+nCQkvg3bzlkJ30x0,7yk5D0dL772D2gWePica6W,40.0,2012,0.411,0.272,11.0,1.0,0.118,87.853,228499,Blithe Field,Clasped Hands,Warm Blood,"electronic,experimental,folktronica,electronica",2012,2010s,False,True,False,1
+nOGmfuSWHGpM9kHp,6artWTNA47OcLZrAPVDmtT,21.0,2012,0.431,0.7759999999999999,9.0,0.0,0.544,140.025,237333,Lebanon Hanover,A Very Good Life,Why Not Just Be Solo,post-punk,2012,2010s,False,True,False,1
+q56qxAOpazH91sV7,2xrK7AOAWok7NY4WuqeApq,37.0,2012,0.7490000000000001,0.8640000000000001,4.0,1.0,0.685,124.037,213120,Carly Rae Jepsen,Curiosity,Kiss (Deluxe),pop,2012,2010s,False,True,False,1
+qfW2bFmWoiFml5y9,42mg4lzcBQXQQewioiYEGG,35.0,2012,0.774,0.868,5.0,1.0,0.821,111.987,230800,Ed Motta,Manuel,Dose Dupla Ed Motta,funk,2012,2010s,False,True,False,1
+rfdRkiK0WVo6VgHm,3fQLTeJcZHO3uXf5CslPSV,38.0,2012,0.7390000000000001,0.825,5.0,1.0,0.76,98.029,148594,DJ Mitsu the Beats,A Little Piano,Beat Installments,nu jazz,2012,2010s,False,True,False,1
+sEsaVHEtm3Lb4Zzr,1JKw5a6SRvAP8YTJRJaTXJ,10.0,2012,0.602,0.8190000000000001,0.0,1.0,0.877,157.093,207122,Banda Calypso,"Não, Não",Calypso Volume 14 - Vem Balançar,"calypso,brega,forro,merengue,zouk",2012,2010s,False,True,False,1
+u96qyO3SGPLSuUGT,74u2Dsru4la46NU05YdSbO,26.0,2012,0.6,0.68,5.0,1.0,0.6759999999999999,127.292,196173,The Men,Candy,Open Your Heart,"indie rock,rock,folk,noise rock,post-punk,noise",2012,2010s,False,True,False,1
+weL0RKw9giWPl9Tv,6kXGwdMOH9bXpkGLO4rPyS,7.0,2012,0.509,0.741,8.0,1.0,0.47,99.957,248307,2:54,You're Early,2: 54,post-punk,2012,2010s,False,True,False,1
+wmGD7smSkjIYcQQU,31xN64tvrmaGBUKDkdiPy1,12.0,2012,0.799,0.679,3.0,0.0,0.7340000000000001,127.995,300013,Maria Daniela Y Su Sonido Lasser,Pobre Estúpida,Pandora Rock's Vol. 07,"electropop,electro,electronic",2012,2010s,False,True,False,1
+ygWYDbLQByEKU7Lg,05l0hJhTFyM89gLEFsNu6y,19.0,2012,0.52,0.911,11.0,0.0,0.775,136.043,234453,Garbage,I Hate Love,Not Your Kind of People,"alternative rock,rock",2012,2010s,False,True,False,1
+0ClyIUXXdfGVIvX8,6uslSzMm1xIuCf5p9ECEtz,51.0,2013,0.475,0.757,2.0,1.0,0.0707,187.929,314493,J. Cole,Runaway,Born Sinner,hip hop,2013,2010s,False,True,False,1
+0ca47vm2RLoaVQqA,549BFnbUcOH0jT5RTljC2J,26.0,2013,0.6559999999999999,0.328,7.0,0.0,0.599,126.074,191253,Vanessa Paradis,Le Rempart,Love Songs,"french pop,chanson",2013,2010s,False,True,False,1
+3bM5ytohzkAo5m6H,7tQD9L3uURVDPF9XhOYczl,30.0,2013,0.428,0.316,7.0,1.0,0.106,93.917,224853,Gabrielle Aplin,How Do You Feel Today?,English Rain,"world,indie pop",2013,2010s,False,True,False,1
+4jiO87nRO4VQXF4Q,6FamQHd8a23CEuTSCkQLli,27.0,2013,0.569,0.88,6.0,0.0,0.602,112.976,197184,Pity Sex,Drown Me Out,Feast Of Love,"shoegaze,indie rock,rock,indie pop",2013,2010s,False,True,False,1
+5HhO6vwiVnFglPp1,3KdXuOPinRZKN0MZuYz9rX,22.0,2013,0.501,0.0949,0.0,1.0,0.295,125.605,275133,Leo Fressato,Canção Pra Não Voltar,Canções para o Inverno Passar Depressa,"folk,mpb",2013,2010s,False,True,False,1
+6UInX2fJN2sTJXfI,6C7JkAfkhtkkCmKdpov8Ix,16.0,2013,0.412,0.958,0.0,1.0,0.334,159.965,282947,Shade Empire,Until No Life Breeds,Omega Arcane,"symphonic black metal,melodic death metal,melodic black metal,black metal",2013,2010s,False,True,False,1
+71atnozVRJhnpMug,3tAGjxfYmdGVlllvJro3Y9,14.0,2013,0.412,0.504,7.0,1.0,0.6629999999999999,149.935,161400,Júpiter Maçã,As Outras Que Me Querem,A Sétima Efervescência,psychedelic rock,2013,2010s,False,True,False,1
+8sW4WTNk3WldRGlg,2gywMK0AQvj8QZJFcEO4R3,47.0,2013,0.795,0.853,7.0,1.0,0.966,130.025,180267,Pikeno & Menor,Toda toda,Toda Toda,funk,2013,2010s,False,True,False,1
+AU6YLf0mrKERWSZ3,1AOgtzDke3CphmxVKqUQbO,45.0,2013,0.708,0.8,7.0,1.0,0.453,125.994,339999,Le Matos,Montrose,Join Us,"electronic,synthpop",2013,2010s,False,True,False,1
+BNawPCjkTCTYa59O,0fBrOyJj7gEAyXevVq69xv,41.0,2013,0.407,0.915,7.0,0.0,0.741,170.084,191133,Tonight Alive,The Other Side,The Other Side,"alternative rock,pop punk,pop rock",2013,2010s,False,True,False,1
+CrInCIF9BGKdAf8I,6SHM8INghZAG42qLOpqPj3,30.0,2013,0.239,0.251,0.0,0.0,0.0933,109.247,367653,Loreena McKennitt,Skellig,The Book Of Secrets,"celtic,new age,folk",2013,2010s,False,True,False,1
+CtGNMvluR4JxE0Ll,256oF2VD6j38sCcDuDuw6x,25.0,2013,0.107,0.291,11.0,0.0,0.0379,46.553,264106,Russian Circles,Cheyenne,Memorial,post-rock,2013,2010s,False,True,False,1
+EDzpoZMrz6cGaRtT,0tsiZxE0FnaganbRLQx5Ru,43.0,2013,0.57,0.7070000000000001,1.0,1.0,0.433,107.034,307560,Justin Timberlake,Murder,The 20/20 Experience - 2 of 2 (Deluxe),"pop,pop",2013,2010s,False,True,False,1
+FALLf8ghf7PHhO4W,6Hi9KSWBWg8SDgKQELzlFX,18.0,2013,0.618,0.46,5.0,1.0,0.273,116.304,168133,Speedy Ortiz,Casper (1995),Major Arcana,"rock,indie rock",2013,2010s,False,True,False,1
+G1dRNETQLTDMgRdO,0A4nmNFa3HNGiyJLGoHJUg,39.0,2013,0.564,0.778,9.0,1.0,0.616,120.012,187053,The Little Ones,Argonauts,The Dawn Sang Along,indie rock,2013,2010s,False,True,False,1
+HLZMGbTYMi2DQQTQ,666Gq86pwKtAJcLB9Jg9aF,24.0,2013,0.514,0.5870000000000001,0.0,1.0,0.919,97.027,59114,Anamanaguchi,Interlude (Total Tea Time),Endless Fantasy,"chiptune,electronic",2013,2010s,False,True,False,1
+HYmwEBG9tS2CfeTu,7sQkeztZAGR3haZL71wvZe,44.0,2013,0.918,0.764,11.0,0.0,0.752,122.351,252480,The Clash,This is Radio Clash,Hits Back,"punk,rock",2013,2010s,False,True,False,1
+HmhlTk8FgNDIZIGM,7xDsu5F9hLL8HlfEJOdhrd,32.0,2013,0.659,0.556,6.0,1.0,0.757,167.873,104840,Habibi,I Got The Moves,Habibi,"rock,indie pop",2013,2010s,False,True,False,1
+NH53feoA0Zh0trUO,3HczSgSFziyzImyHNoPPGe,44.0,2013,0.524,0.556,3.0,0.0,0.274,133.822,175987,Grouplove,Hippy Hill,Spreading Rumours,indie rock,2013,2010s,False,True,False,1
+OLQ56K5AOHtBpj41,24C9Klv9ddyg0TMs0DcCV3,17.0,2013,0.3,0.952,11.0,0.0,0.392,192.179,182573,Margaret Berger,I Feed You My Love,I Feed You My Love,"eurovision,pop,electronic",2013,2010s,False,True,False,1
+OSvXbaRt5ynGKOME,4znKS2JCN0XPczgBOIwBPu,30.0,2013,0.493,0.878,4.0,1.0,0.31,97.891,235800,Jimmy Eat World,Book of Love,Damage,alternative rock,2013,2010s,False,True,False,1
+Oe06cw1kRV0Pnrwe,1nfR7zBoRrZuN7w3SMsCg1,22.0,2013,0.38,0.598,6.0,0.0,0.754,139.30700000000002,226133,tricot,CGPP,T H E,math rock,2013,2010s,False,True,False,1
+PAPxrPDEnERjAXoI,6SctHYL0HaQ5hFpUxXULYa,52.0,2013,0.23,0.0969,0.0,1.0,0.129,134.774,202594,Agnes Obel,September Song,Aventine (Deluxe),soundtrack,2013,2010s,False,True,False,1
+Rr7PNTK7JVc0DmW5,3t6ZBxc31JExypHRwovrCB,28.0,2013,0.521,0.965,10.0,0.0,0.648,179.959,299680,Son Lux,No Crimes,Lanterns,electronic,2013,2010s,False,True,False,1
+RwkDigqH8U7R31Qd,1JVf7tzhspVTRrRHxiJhD5,53.0,2013,0.525,0.555,6.0,1.0,0.593,90.554,195360,Michael Bublé,To Love Somebody,To Be Loved,jazz,2013,2010s,False,True,False,1
+SZyYXKq8XoSz3Awi,0ANSAlRCBiomubv5ho81Tt,19.0,2013,0.305,0.7090000000000001,8.0,1.0,0.326,139.954,332571,Car Seat Headrest,Burning Man,Nervous Young Man,"indietronica,synthpop,indie pop,indie rock,alternative dance",2013,2010s,False,True,False,1
+U9YovQGJmQgXl5dF,426iqvsLVSgvInJiS9zQv4,38.0,2013,0.524,0.38,5.0,1.0,0.3,116.147,212315,The Dubliners,Dirty Old Town,Definitive Pub Songs Collection,"folk,irish folk,celtic",2013,2010s,False,True,False,1
+V3ylIM3c7VMO96VW,5pSSCTDlxS86dH1skgsmNg,44.0,2013,0.6609999999999999,0.72,1.0,1.0,0.366,114.92,253147,MS MR,Bones,Secondhand Rapture,"post-punk,art rock",2013,2010s,False,True,False,1
+WTJK6HRcRR6UaELI,0Av0WEwYQ1tsXOCjCIRAhs,31.0,2013,0.631,0.648,2.0,1.0,0.313,109.992,171174,Nina Nesbitt,The Apple Tree,Peroxide (Deluxe),"folk,pop",2013,2010s,False,True,False,1
+cESIjDKWLAd0qmv1,01VnXWSXxA66n6xRu9wXjE,23.0,2013,0.495,0.967,8.0,1.0,0.456,105.006,245293,the GazettE,FADELESS,BEAUTIFUL DEFORMITY,"j-rock,visual kei,hard rock",2013,2010s,False,True,False,1
+dOAWnzr7zMnkm4V6,2RhaYL0MaS4i2ZuoEp97tC,4.0,2013,0.919,0.757,11.0,0.0,0.8440000000000001,133.012,161587,Anitta,Achei,Anitta,"pop,funk carioca",2013,2010s,False,True,False,1
+dSOV2435ZrK1PAON,7Mxnz6wHR9uS4uvPD7VKu1,23.0,2013,0.56,0.644,11.0,0.0,0.8029999999999999,139.953,257853,Sharon Needles,This Club is a Haunted House,PG-13,"pop,electropop,dark wave",2013,2010s,False,True,False,1
+fOUKQKIIP9qY9rAk,72I7ANZdudmL9Ko60e6eVg,30.0,2013,0.591,0.938,2.0,0.0,0.742,93.998,244454,Gülşen,Kardan Adam,Beni Durdursan Mı ?,pop,2013,2010s,False,True,False,1
+hXkLqPnNAUZuMnqm,3EsnrEOCRTAfyQ2grBas6c,26.0,2013,0.727,0.743,1.0,1.0,0.611,125.004,219084,SHINee,다이너마이트 (Dynamite),The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions of You',k-pop,2013,2010s,False,True,False,1
+ihwDrqBiid3i0Qff,1sTpHhfpZlphsrQEtYEnT8,22.0,2013,0.594,0.5329999999999999,10.0,0.0,0.224,106.261,319781,Part Time,Million Things to Say,PDA,"pop,lo-fi",2013,2010s,False,True,False,1
+j3DXUK0FvKLk3tvV,585sRghHY4SDlhZ4UksEcF,7.0,2013,0.454,0.965,6.0,1.0,0.0973,128.016,297773,Hate,Alchemy ov Blood,Solarflesh,"death metal,technical death metal",2013,2010s,False,True,False,1
+kfexqat9dpZ5xjdV,2OiQ5VF4J5UuaRdOcWnCK4,21.0,2013,0.439,0.7809999999999999,0.0,1.0,0.278,219.824,245484,Part Time,Staring at a Gun,PDA,"pop,lo-fi",2013,2010s,False,True,False,1
+ktjio2UsOGS91idK,1K68dHzsB7HLqRYBEq00pw,46.0,2013,0.491,0.991,5.0,0.0,0.422,143.049,215507,Scooter,Weekend!,20 Years of Hardcore (Remastered),"techno,happy hardcore,trance",2013,2010s,False,True,False,1
+kzFEflrarHGJd7Yr,3nhKEhUjoEdnzFrqdhBQOL,2.0,2013,0.462,0.7,4.0,0.0,0.069,141.009,236147,Diana Vickers,Smoke,Music to Make Boys Cry,"pop,synthpop",2013,2010s,False,True,False,1
+p8kLvgdh1VSGwoe8,0pJ535XTPiOaVnedNJzj8U,24.0,2013,0.319,0.8290000000000001,1.0,0.0,0.133,114.999,313707,Autre Ne Veut,Play by Play,Anxiety,electronic,2013,2010s,False,True,False,1
+p8ofkt9GTkP8CPr7,7jJH8F3PHlNvxfqEAAfFDl,63.0,2013,0.731,0.5720000000000001,6.0,0.0,0.947,154.03799999999995,218573,Sara Bareilles,I Choose You,The Blessed Unrest,pop,2013,2010s,False,True,False,1
+pc81GkXiC4qjRE8i,6rlgy1boD69A3mcV7VzPRL,50.0,2013,0.417,0.926,6.0,0.0,0.596,155.741,201373,James Arthur,You're Nobody 'Til Somebody Loves You,James Arthur (Deluxe),"pop,rock,soul",2013,2010s,False,True,False,1
+qFaUN9LpZkPjjUud,1Nus43EtDWlKRkmkBmKbkn,26.0,2013,0.443,0.816,11.0,1.0,0.348,92.627,125968,Danny Brown,Gremlins,Old,rap,2013,2010s,False,True,False,1
+rDitE7LEVvfmApVI,0fox2VhHsMqoSHBOzzLGnC,10.0,2013,0.38,0.701,9.0,0.0,0.155,132.7,168987,The House of Love,A Baby Got Back On Its Feet,She Paints Words In Red,new wave,2013,2010s,False,True,False,1
+rKDLDxEmeU6Yx1o8,0F2iFLGQGIQAiCEkijaNpp,45.0,2013,0.487,0.799,7.0,1.0,0.8420000000000001,123.119,207547,Shannon and the Clams,Ozma,Dreams in the Rat House,"garage rock,indie rock",2013,2010s,False,True,False,1
+t8amz1YaIzB1kLVK,4gKB8Rib0kMYLYlLAuyNqJ,34.0,2013,0.594,0.7809999999999999,5.0,1.0,0.657,109.015,291107,Youngblood Hawke,Say Say,Wake Up,"indie pop,electronic,pop",2013,2010s,False,True,False,1
+tvDIxjYPMWI0AMdD,6zFGUtz32LeyyUyLyzimHT,28.0,2013,0.7140000000000001,0.698,11.0,1.0,0.924,167.998,154427,Generationals,Say When,Heza,"rock,indie pop,indie rock",2013,2010s,False,True,False,1
+xlrcUvMj5oWeTepS,3zW9Ta60tya4F8e3iVyIh9,23.0,2013,0.619,0.925,10.0,1.0,0.7120000000000001,84.977,176560,Emblem3,Spaghetti,Nothing To Lose (Deluxe Version),pop,2013,2010s,False,True,False,1
+069ypVgJl2FDc1F1,5m2xn5tIDC796JK1j8lLjl,48.0,2014,0.5870000000000001,0.3670000000000001,11.0,0.0,0.37,76.946,228449,Austin Mahone,Shadow,The Secret,pop,2014,2010s,False,True,False,1
+3twFZx5faXWWU22K,5eca93cwCmrP45ORIdjMf5,31.0,2014,0.5,0.0993,6.0,1.0,0.394,120.759,212213,Diana Krall,Desperado,Wallflower (Deluxe Edition),vocal jazz,2014,2010s,False,True,False,1
+4ohrTTaMLX8sLvpp,6d15UEB74JSsEL9frcH3UU,32.0,2014,0.733,0.72,7.0,0.0,0.816,152.996,204040,Little Dragon,Paris,Nabuma Rubberband,"electronic,synthpop,electropop,art pop,electronic",2014,2010s,False,True,False,1
+5reuPhm4rrMMDiwc,5tyXrJjYWamtQUCdWhTePA,25.0,2014,0.512,0.883,10.0,0.0,0.424,144.04399999999995,221667,Him,Lose You Tonight,Deep Shadows And Brilliant Highlights (Deluxe Re-Mastered),"rock,gothic rock,gothic metal",2014,2010s,False,True,False,1
+68qi46LroaX4AkcI,62rMSY7UlA9fmm3ZfRh4vi,35.0,2014,0.725,0.7879999999999999,11.0,1.0,0.858,135.012,264947,Tayrone Cigano,Volte Amor,20 Super Sucessos: Tayrone Cigano,brega,2014,2010s,False,True,False,1
+6YaM6CRpWUwjNCaK,5n4FL8FgHZQaJ2GuwMN9F8,47.0,2014,0.5539999999999999,0.7490000000000001,10.0,1.0,0.823,168.045,252140,Cherry Glazerr,Had Ten Dollaz,Had Ten Dollaz,indie rock,2014,2010s,False,True,False,1
+827guiK6vJJbTBTi,3Om06JSiuGLPeGd9DZmEs1,26.0,2014,0.59,0.851,7.0,0.0,0.317,120.034,179307,Stick to Your Guns,Ring Loud (Last Hope),Diamond: Decade Edition,"hardcore,metalcore,metal",2014,2010s,False,True,False,1
+8IkHzvC4HivQDHs6,1VwVBoAHTtKYAqv4Qw1sWN,32.0,2014,0.74,0.932,8.0,1.0,0.0322,129.999,372925,Claro Intelecto,Peace of Mind (Electrosoul),Peace of Mind,"electro,techno,electronic",2014,2010s,False,True,False,1
+8RzroagmF8QEufJV,5ueYqqYekquywt6HeZHlnL,4.0,2014,0.5920000000000001,0.746,2.0,0.0,0.3229999999999999,134.99,260243,Tying Tiffany,A Lone Boy,Drop,"electronic,new wave,electro,post-punk",2014,2010s,False,True,False,1
+9B4DNYJDdPDclMCQ,6YdIrhChsL7g8BpUuciTSI,34.0,2014,0.7040000000000001,0.499,7.0,1.0,0.374,98.911,215905,Mapei,Don't Wait - Chance the Rapper & The Social Experiment Remix,Don't Wait,"rap,hip hop",2014,2010s,False,True,False,1
+9CRz7IAJrXOWeWEi,4JynkH6Oa9cJ0zUTzYA2UP,45.0,2014,0.173,0.938,6.0,1.0,0.176,118.064,265440,Behemoth,Blow Your Trumpets Gabriel,The Satanist,"death metal,black metal",2014,2010s,False,True,False,1
+Ehkm5koSCUzHbZt0,2D4OetG4QjMjTkHrCHTF4e,15.0,2014,0.336,0.8809999999999999,1.0,0.0,0.653,177.588,110400,Drowners,You've Got It Wrong,Drowners,"indie rock,indie rock",2014,2010s,False,True,False,1
+KZxapbaEiPHivoFv,0wryh0qJbYYvGXLDH4XV3H,28.0,2014,0.32,0.96,6.0,0.0,0.109,103.569,433127,Beyond Creation,Fundamental Process,Earthborn Evolution,"technical death metal,death metal,technical death metal,death metal",2014,2010s,False,True,False,1
+L8athKwPLt7JW74u,1bpjqF4mFCOcxs5xNzrchH,32.0,2014,0.5479999999999999,0.8059999999999999,1.0,1.0,0.375,139.81,167682,Kylie Minogue,Sexercize,Kiss Me Once (Special Edition),"dubstep,pop,electronic",2014,2010s,False,True,False,1
+NaUA9VJIUezhYhGo,7G5iYJhJ0tGEOnBPL5iXIc,31.0,2014,0.598,0.93,7.0,1.0,0.807,120.104,262827,Skank,Rio Beautiful,Velocia,rock nacional,2014,2010s,False,True,False,1
+QeQCit8yf55Ie0SZ,0O51PY8YPOewa9eKxMPYk6,20.0,2014,0.684,0.7659999999999999,8.0,0.0,0.596,106.974,256173,Lena Katina,Wish on a Star,This Is Who I Am,"pop,electronic",2014,2010s,False,True,False,1
+VP0eiQH6k1BzJapb,3PSfMFmcGw51MXtXDhMAk6,34.0,2014,0.6,0.8109999999999999,8.0,0.0,0.38,100.894,588520,LCD Soundsystem,dance yrself clean - live at madison square garden,the long goodbye (lcd soundsystem live at madison square garden),"electronic,electronica",2014,2010s,False,True,False,1
+Vcw7TXX5PkMtsj7k,2VfEcR59Czu8ii3u6kKeP8,34.0,2014,0.828,0.61,1.0,1.0,0.564,130.064,191467,Aphex Twin,180db_ [130],Syro,"techno,electronic,experimental",2014,2010s,False,True,False,1
+YlSU1W82sGLOclo0,4SvPlJjZKXYO3ixXd0Sqlf,27.0,2014,0.255,0.202,9.0,0.0,0.188,75.3,321093,Kimbra,As You Are,The Golden Echo,soul,2014,2010s,False,True,False,1
+ZOkWNWe1IALrxCSl,4T2m7LXUXw4KfzCfCQj8YV,31.0,2014,0.5379999999999999,0.7659999999999999,5.0,0.0,0.652,102.107,252889,Plutão Já Foi Planeta,Daqui Pra Lá,Daqui pra Lá,"indie rock,indie pop,indie pop",2014,2010s,False,True,False,1
+cKdPqkeYqRLKr2Er,2SQrg7WIPRKMKrlILjGdQH,47.0,2014,0.563,0.931,5.0,0.0,0.274,128.019,225494,VIXX,Error,Error,k-pop,2014,2010s,False,True,False,1
+dHiiSeBOHdnW9lGd,1QqhHn0jUEowzwAygWKPhr,30.0,2014,0.305,0.877,11.0,1.0,0.595,171.98,201637,The Chameleons,The Fan and the Bellows,John Peel Sessions (2014 Remaster),post-punk,2014,2010s,False,True,False,1
+dT3yPgR7lxqZFwXz,3Rj5zzDNkbjKZuJJ1lbRf6,26.0,2014,0.5329999999999999,0.581,9.0,0.0,0.228,166.03799999999995,244773,Little Dragon,Let Go,Nabuma Rubberband,"electronic,synthpop,soul",2014,2010s,False,True,False,1
+ddvQug9TCOx4rnSg,4AEX3oWCqLrclYTjLyRW3n,31.0,2014,0.5529999999999999,0.82,5.0,1.0,0.348,150.06799999999996,258893,Phantogram,Bad Dreams,Voices,"electronic,rock,indietronica",2014,2010s,False,True,False,1
+gA11U9v8vu3fvKkp,7DciyLZWipMv860LBeupmK,46.0,2014,0.608,0.4270000000000001,7.0,0.0,0.58,120.435,199947,Michael Jackson,Xscape (original version),XSCAPE,"pop,soul,funk",2014,2010s,False,True,False,1
+hIQCxlKq4P99NYYh,06Md8882cWEMzas5VD9UgE,16.0,2014,0.313,0.855,4.0,0.0,0.185,180.03900000000004,451173,Tropic of Cancer,Children of a Lesser God,Restless Idylls,post-punk,2014,2010s,False,True,False,1
+hlj5DXo650oonvup,4sKFW8oeNOFDC5asHYF2wh,5.0,2014,0.125,0.311,7.0,0.0,0.0536,169.14,139111,Laurel Halo,Melt,Chance Of Rain,"ambient,electronic,experimental,witch house",2014,2010s,False,True,False,1
+hpQYV3rzGCbOaY8x,2YVFtTLJesQHH1NZRLspdJ,11.0,2014,0.516,0.197,9.0,1.0,0.445,181.033,266187,Letuce,Tuna Fish,Plano de Fuga pra Cima dos Outros e de Mim,"mpb,lounge",2014,2010s,False,True,False,1
+jrlBodAJFN0u7MbA,6Ktu68zc2vyljB6nYyqsQS,24.0,2014,0.667,0.7979999999999999,4.0,0.0,0.779,157.015,186497,VAPERROR,Krystal GB,Mana Pool,"vaporwave,electronic,vaporwave,electronic",2014,2010s,False,True,False,1
+kGAQgGeucm9e2H8O,59S5BGYP3tzYd7dccspVdx,39.0,2014,0.589,0.488,10.0,0.0,0.611,72.723,199333,Champaign,How 'Bout Us,How 'Bout Us (Expanded Edition),"soul,pop",2014,2010s,False,True,False,1
+kqaFOX88widjvYVK,4nAHQzkGHGVLDmsKwFMIqK,25.0,2014,0.352,0.996,3.0,0.0,0.19,195.99,171296,Pense,Falta,Além Daquilo Que Te Cega,"melodic hardcore,hardcore",2014,2010s,False,True,False,1
+mi9PdVWJimc8YEPi,4txn9qnwK3ILQqv5oq2mO3,59.0,2014,0.518,0.809,1.0,1.0,0.261,146.216,264213,J. Cole,03' Adolescence,2014 Forest Hills Drive,hip hop,2014,2010s,False,True,False,1
+o6q0FUAGEnqbIixB,7fScnC0aQM9SyKGoUayTpn,0.0,2014,0.32,0.329,4.0,1.0,0.241,127.682,216853,The Pretenders,Kid,Lights On! Tribute to The Pretenders,"rock,new wave",2014,2010s,False,True,False,1
+rsUtNJ0JWBJEPPy7,4Gqnv8bnvVfYrGbu3MuuYi,24.0,2014,0.967,0.772,3.0,0.0,0.857,131.995,205595,Anitta,Blá Blá Blá - Extended Remix,Ritmo Perfeito,"pop,funk,dubstep",2014,2010s,False,True,False,1
+sypang4PUb6n3eyH,0PewHsjIkGgvNVrzOd5U1E,37.0,2014,0.503,0.456,3.0,1.0,0.282,74.96600000000002,192797,Troye Sivan,The Fault in Our Stars (MMXIV),TRXYE,"pop,downtempo,pop,indie pop",2014,2010s,False,True,False,1
+t7vHU0TBA3ydfq0j,35nTgQscqJHPc96HoRxfgt,39.0,2014,0.672,0.732,0.0,1.0,0.506,94.016,214230,Anderson .Paak,The City,Venice,"soul,neo soul",2014,2010s,False,True,False,1
+u3C1jBEPj3HXUWEU,4dSi4VGaDAeknj8E5Q30ZP,36.0,2014,0.44,0.45,5.0,1.0,0.266,80.005,266853,In the Valley Below,Hymnal,The Belt,pop,2014,2010s,False,True,False,1
+u3ii0PHXSm343HDx,1KpNie4Mbh2TBkEjgQTICT,43.0,2014,0.894,0.7979999999999999,3.0,0.0,0.8270000000000001,131.993,173252,Anitta,Blá Blá Blá,Meu Lugar,pop,2014,2010s,False,True,False,1
+uy7tobA6S7XAsGDz,66aCjeLlSuK5bmAjaFOecH,47.0,2014,0.384,0.534,8.0,1.0,0.326,129.736,304093,Leonardo Gonçalves,Getsêmani,Principio (Ao Vivo),"gospel,soul",2014,2010s,False,True,False,1
+vBOzuzWyQ2NvZ6we,3BFXgZr628FqwDP3pQCgvk,39.0,2014,0.41,0.306,4.0,0.0,0.166,141.565,326206,Damien Rice,My Favourite Faded Fantasy,My Favourite Faded Fantasy,folk,2014,2010s,False,True,False,1
+zU5sk41enwVYMzxD,5F0foAUBZcZVCdXL4x8H9I,6.0,2014,0.84,0.835,11.0,0.0,0.901,126.6,186413,Cabaret Voltaire,Do the Mussolini (Headkick),#7885 Electropunk to Technopop 1978-1985,"electronic,industrial,electronica,post-punk",2014,2010s,False,True,False,1
+0YuArVW0NkFO1rRW,3PEWgIGnnjN9klG2XqtSWq,21.0,2015,0.406,0.544,8.0,1.0,0.303,98.026,208119,Martina Stoessel,Ser Mejor,Violetta: En Mi Mundo (Songs from Season 1 / Original Television Soundtrack),disney,2015,2010s,False,True,False,1
+0kHOF6kwOLF9ddgx,302sth2ekZk0Jx3muBGIC8,16.0,2015,0.545,0.8079999999999999,6.0,0.0,0.036,114.987,211267,Algiers,Claudette,Algiers,"post-punk,gospel,noise rock",2015,2010s,False,True,False,1
+18NP9ZoQUUReqqTb,2jUxOvZhTsI0eCMXf8OYy0,33.0,2015,0.695,0.6920000000000001,6.0,0.0,0.807,83.02600000000002,291690,Inti-Illimani,La Calle De La Desilusión,Teoría de Cuerdas,"folk,latin,world",2015,2010s,False,True,False,1
+1JiNU6ezptCJUm1D,46hs4ABJrgSMGdC9H7p4hh,40.0,2015,0.8320000000000001,0.7909999999999999,10.0,0.0,0.266,130.001,256615,Boys Noize,Cerebral,"Boys Noize Presents Strictly Raw, Vol.1","electronic,electro,techno,electronica",2015,2010s,False,True,False,1
+1lgjXomBlqPgj2c8,2YDpqMSNAEM0SIzZ3sVdpr,24.0,2015,0.828,0.59,10.0,0.0,0.51,147.954,248493,Joss Stone,Underworld,Water for Your Soul,"soul,jazz,soul,jazz",2015,2010s,False,True,False,1
+23JpS1RiuvfyIZ4n,6uDeTAt3aEieeVDxhlJLj5,10.0,2015,0.199,0.904,0.0,1.0,0.196,129.84,232790,Rolo Tomassi,Stage Knives,Grievances,"mathcore,experimental,grindcore,experimental,mathcore,grindcore",2015,2010s,False,True,False,1
+2jVLT34Mg1nXAm0t,0Z960iP7ymm4rLYHGzWMAW,29.0,2015,0.494,0.454,4.0,0.0,0.388,109.251,325933,Cidadão Instigado,Fortaleza,Fortaleza,"alternative rock,rock",2015,2010s,False,True,False,1
+4nGukPlCz9soZHNG,2bD5NpTzUcsC8vZeGb3UMd,37.0,2015,0.086,0.221,8.0,0.0,0.0393,168.02,238187,Trevor Morris,Trespasser - Lost Elf Theme,Dragon Age Inquisition: The Descent / Trespasser,"soundtrack,classical",2015,2010s,False,True,False,1
+6PzMHxVC4IgfwSAR,2tv9LkgUlxZsNAWJWnL1VC,25.0,2015,0.508,0.544,4.0,0.0,0.396,168.234,219493,Opeth,Ending Credits - Remixed,Deliverance & Damnation Remixed,"progressive metal,metal,death metal,melodic death metal",2015,2010s,False,True,False,1
+94sDjq72C3ZMQ1Ha,5xF9Gp82RpnSHTthQjPfce,9.0,2015,0.406,0.97,4.0,0.0,0.0359,120.021,458005,Midnight Odyssey,Against The Moonlight,Funerals From The Astral Sphere,atmospheric black metal,2015,2010s,False,True,False,1
+C6xuZ7KYA4E7kXPd,2yRm4iT3ohO5WOay4l2H0q,61.0,2015,0.682,0.799,6.0,1.0,0.038,105.021,232960,NF,Wake Up,Mansion,rap,2015,2010s,False,True,False,1
+D6Gwu4rsW8woaaPr,1xPdmDk71wdvPJ1erVeIaa,14.0,2015,0.856,0.243,10.0,1.0,0.0781,103.738,262108,Aphex Twin,disk prep calrec2 barn dance [slo],Computer Controlled Acoustic Instruments pt2 EP,"experimental,avant-garde,downtempo",2015,2010s,False,True,False,1
+Eot9Vs1bLDdf2pwI,1VUDNnNd2S0A8jBtPi03nY,35.0,2015,0.657,0.55,11.0,1.0,0.234,131.90200000000002,194373,Miley Cyrus,I Forgive Yiew,Miley Cyrus & Her Dead Petz,experimental,2015,2010s,False,True,False,1
+FbThyzgxIl0IDd4k,5ZSouyaLUY9IKcr6SPK4OL,14.0,2015,0.627,0.972,1.0,1.0,0.276,109.99,38388,Aphex Twin,diskhat2,Computer Controlled Acoustic Instruments pt2 EP,breakbeat,2015,2010s,False,True,False,1
+FbW5QQiixGpdUgi7,68UYGZIa1dTnRYHbD4Q2ZF,41.0,2015,0.7609999999999999,0.583,5.0,0.0,0.318,134.951,206472,$uicideboy$,CERBERUS,YUNGDEATHLILLIFE,"rap,phonk",2015,2010s,False,True,False,1
+FwSImEBMK2R8gnGz,575RK5IvYKYgT8rTgDVrZm,47.0,2015,0.5920000000000001,0.838,6.0,0.0,0.563,148.401,312200,Little Mix,Lightning,Get Weird (Deluxe),pop,2015,2010s,False,True,False,1
+IOEow5NbiFCB8ljn,22dwwxdTQ6wcjEKgBkrE11,13.0,2015,0.1689999999999999,0.921,10.0,0.0,0.516,85.21700000000001,99213,i hate sex,Sleep Paralysis,Circle Thinking,"screamo,emo,screamo,emo",2015,2010s,False,True,False,1
+JUZAiQHy5H5cpm8q,77UBpuAOvgi3iTljWuswz2,41.0,2015,0.8109999999999999,0.902,0.0,0.0,0.67,132.94799999999998,176133,Anitta,Atenção,Bang,"pop,pop,funk",2015,2010s,False,True,False,1
+Ko1Kw2NHb75EVT2u,68tWUok13945tspeXU8Aj9,33.0,2015,0.602,0.914,10.0,1.0,0.901,99.909,222933,Engenheiros Do Hawaii,Depois De Nós,Acústico (Ao Vivo / Deluxe),"brazilian rock,classic rock,rock",2015,2010s,False,True,False,1
+LjhJfJ4nvbl0QXMX,5WFJ17ke5ldHuM0X3J5ddz,56.0,2015,0.453,0.713,0.0,1.0,0.399,116.791,335293,Chris Stapleton,Outlaw State of Mind,Traveller,country,2015,2010s,False,True,False,1
+MbgMMLGQ9K8MAoXV,24tO365YW6lcZr1hN4Ukzj,60.0,2015,0.292,0.7140000000000001,2.0,1.0,0.462,151.412,266280,Silverchair,Tomorrow - Remastered,Frogstomp 20th Anniversary (Deluxe Edition [Remastered]),"grunge,pop,alternative rock",2015,2010s,False,True,False,1
+N0ttm30WLrtx2INE,1UOCtqVYccWUM51dgE8sf6,23.0,2015,0.722,0.399,6.0,0.0,0.773,102.14,93967,Archy Marshall,New Builds,A New Place 2 Drown,"electronic,singer-songwriter,experimental",2015,2010s,False,True,False,1
+NEFi6lVAtSLByG52,30RJZnzAA0VBrPOmvIri3I,34.0,2015,0.404,0.952,7.0,0.0,0.34,161.99,265413,Too Close To Touch,Until I Collapse,Nerve Endings,"post-hardcore,alternative rock",2015,2010s,False,True,False,1
+ONko71PXFqmzD60z,0lIVgAfSAuyDGc242WdjC2,43.0,2015,0.484,0.969,6.0,0.0,0.217,139.988,221333,Eskimo Callboy,My Own Summer,Crystals,post-hardcore,2015,2010s,False,True,False,1
+OgrrM0Gipxg0UG16,2SzpTcsY2jdMDbNkYDtv6Y,40.0,2015,0.807,0.682,0.0,1.0,0.8109999999999999,176.06099999999995,154933,Anitta,Volta Amor,Bang,pop,2015,2010s,False,True,False,1
+SIVIHbRfyzi9mDzP,0DBYW9lHjTTz55gIt63IB9,56.0,2015,0.569,0.5710000000000001,2.0,1.0,0.635,121.698,277067,Chris Stapleton,Might as Well Get Stoned,Traveller,country,2015,2010s,False,True,False,1
+Sps0h230D0qIno9k,12y75BrxNpCcCbrPmBpBZA,45.0,2015,0.629,0.677,5.0,1.0,0.713,93.007,233240,Roberto Carlos,As Curvas Da Estrada De Santos,Primera Fila (Portuguese Version),classic rock,2015,2010s,False,True,False,1
+TxG5a8edqFpW4TtB,7HbwANSdBmfQYCBvBZgvqJ,54.0,2015,0.818,0.6509999999999999,1.0,0.0,0.254,103.989,211788,Campsite Dream,Crush,Crush,tropical,2015,2010s,False,True,False,1
+Ua9AS25c3bVnfcJQ,1nnc8EICgGMHfrr6Z1Fzkf,40.0,2015,0.544,0.883,10.0,0.0,0.696,82.04,153627,Wavves,Way Too Much,V,"lo-fi,noise pop,noise rock",2015,2010s,False,True,False,1
+a4zbAPFRj47EraSz,2t5TE369y8W8PVt44qzCMa,36.0,2015,0.741,0.471,4.0,0.0,0.319,90.01299999999998,323615,CocoRosie,Heartache City,Heartache City,"experimental,folktronica,freak folk",2015,2010s,False,True,False,1
+b1rRqaxwiTtnk02l,6UWKmtXxO3NlnOJjvNZmX8,32.0,2015,0.6829999999999999,0.414,5.0,1.0,0.234,136.015,236653,Brandon Flowers,The Way It's Always Been,The Desired Effect,"electronic,synthpop,indie pop",2015,2010s,False,True,False,1
+cQ5rJ1m9d2ufkS80,3RwzJtMIRCv8HEJOjWqxhV,17.0,2015,0.624,0.79,2.0,1.0,0.358,149.984,225230,Björk,Quicksand,Vulnicura,"electronic,experimental",2015,2010s,False,True,False,1
+foDycnj1IaaO2kIi,1AtSSGHLtGW5aLxAEhlFwE,33.0,2015,0.601,0.459,6.0,0.0,0.326,87.92399999999998,261422,City and Colour,Killing Time,If I Should Go Before You,"folk,singer-songwriter",2015,2010s,False,True,False,1
+hfwIrA3qBW26hJzr,6vw0UxeHGLCRhWhOZdFxjh,43.0,2015,0.5489999999999999,0.442,2.0,1.0,0.0437,126.028,201905,Chelsea Cutler,anything for you,Anything for You,"pop,electronic,indie pop",2015,2010s,False,True,False,1
+mLI2uIS7oBPWVsRg,475xTi4O3s9gRhW7ZsvoeR,13.0,2015,0.7879999999999999,0.868,7.0,1.0,0.107,126.03,256040,Peaches,Light In Places,Rub,"electroclash,electronic",2015,2010s,False,True,False,1
+n127GVxjgW04xIZL,5cIDi1hmgkpikBlhBQhCiP,45.0,2015,0.441,0.795,4.0,0.0,0.183,160.063,246093,Son Lux,Lost It To Trying - Paper Towns Mix,Music From The Motion Picture Paper Towns,"electronic,electropop,soundtrack,post-rock,avant-garde",2015,2010s,False,True,False,1
+oHi5RqF8t4vYaNAX,3ZHGodCDCyhv7uNyEGdYuy,39.0,2015,0.211,0.915,6.0,0.0,0.625,160.14600000000004,229747,Alabama Shakes,The Greatest,Sound & Color,"rock,garage rock,alternative rock",2015,2010s,False,True,False,1
+qDkAbUxVdiDGvpY3,1lgN0A2Vki2FTON5PYq42m,65.0,2015,0.365,0.851,4.0,0.0,0.309,78.068,170067,Imagine Dragons,Smoke and Mirrors,Smoke + Mirrors (Deluxe),"rock,experimental",2015,2010s,False,True,False,1
+qWITLUkLOpxAoYj3,381ELJNHM7EU7xYILylc42,17.0,2015,0.332,0.314,4.0,1.0,0.213,80.563,189549,Winter,All The Things You Do,All The Things You Do - Single,"dream pop,shoegaze",2015,2010s,False,True,False,1
+vqzo9ArpWKIPsIR0,6aEip3FZ1csKxpZayiZ1mM,30.0,2015,0.529,0.713,10.0,1.0,0.403,89.89299999999999,463898,Kamasi Washington,The Rhythm Changes,The Epic,jazz,2015,2010s,False,True,False,1
+wS0tp2lO4eY7aoBn,6W2V1rHv3uowafwmm8fPbF,28.0,2015,0.621,0.721,6.0,1.0,0.5429999999999999,77.446,172283,City and Colour,Map Of the World,If I Should Go Before You,"folk,singer-songwriter",2015,2010s,False,True,False,1
+wqNOs3ZakoiGmfQl,1KDPWUuA213r6M2WbWUauE,58.0,2015,0.359,0.621,11.0,0.0,0.422,113.699,221040,Mumford & Sons,Wilder Mind,Wilder Mind,"folk rock,folk",2015,2010s,False,True,False,1
+xf78sEvdSydYd4UK,16hrWXStiB8IcPiOZyJp0a,34.0,2015,0.648,0.657,1.0,1.0,0.5720000000000001,122.995,196559,Mashrou' Leila,Djin,Ibn El Leil,indie rock,2015,2010s,False,True,False,1
+zReuK4cIvWSAPo92,78zL2RIYaIyV7wT65ntOrg,32.0,2015,0.246,0.192,1.0,1.0,0.032,60.12,129347,Miley Cyrus,Miley Tibetan Bowlzzz,Miley Cyrus & Her Dead Petz,"pop,ambient,experimental",2015,2010s,False,True,False,1
+zwD4T3JCPEiP4VvU,7AuTfSaTG1Uc3jlHiqGlvI,28.0,2015,0.6940000000000001,0.291,7.0,1.0,0.8640000000000001,103.477,167067,Noel Rosa,Com que Roupa?,Noel Rosa e a Turma da Vila,"samba,mpb,samba,mpb",2015,2010s,False,True,False,1
+1dkZHrFQVFIVLHRA,3EvyUsthVyS1vJmk2EMAEY,23.0,2016,0.373,0.73,2.0,1.0,0.186,179.877,250791,El Toro Fuerte,Se a gente tivesse se conhecido,Um Tempo Lindo pra Estar Vivo,"emo,post-rock,emo,math rock",2016,2010s,False,True,False,1
+44ntYDij9p4Q3f4G,3oNx6aXliXRmJgw8rcqNtc,41.0,2016,0.785,0.472,2.0,0.0,0.485,108.667,159728,Dua Lipa,Blow Your Mind (Mwah) - Acoustic,Blow Your Mind (Mwah) [Acoustic],"pop,synthpop",2016,2010s,False,True,False,1
+5NqRTFWeuBEku2AQ,2GuKxi3vpUeTO6f1yPEgFV,30.0,2016,0.32,0.92,0.0,0.0,0.353,110.013,228533,Helloween,Power,Live on 3 Continents,"power metal,metal",2016,2010s,False,True,False,1
+7QDPSrieqkYuh0qa,7dNF3P7IOeqaFS8nJdAKXw,10.0,2016,0.38,0.872,9.0,1.0,0.235,87.88,198320,Motorama,Someone Is Missed,Dialogues,"post-punk,new wave",2016,2010s,False,True,False,1
+9YQLnO6wGezluaO9,2tHbjRGyOiLdgRX8RXDlvE,32.0,2016,0.428,0.669,0.0,1.0,0.6609999999999999,188.965,389133,Deakin,GOLDEN CHORDS,Sleep Cycle,"folk,experimental,ambient",2016,2010s,False,True,False,1
+ALOE8Pmh5sTH3XK2,31fsj6wSyLkOGVWDsJAsAF,38.0,2016,0.657,0.8240000000000001,1.0,1.0,0.76,96.996,189933,Britney Spears,Better,Glory (Deluxe Version),"pop,electronic",2016,2010s,False,True,False,1
+CTAtw3yhNF2aD1NP,2WtCIeywM4NJWmlz6qcVw1,29.0,2016,0.205,0.848,4.0,1.0,0.233,100.207,499864,Belzebong,Bong Thrower,Sonic Scapes & Weedy Grooves,doom metal,2016,2010s,False,True,False,1
+FHDO1cuxgxjokfrQ,7H92j87TWfFb8NdspNYhfP,2.0,2016,0.204,0.991,9.0,0.0,0.0395,148.121,148839,Crematory,Resurrection,Crematory Stench,gothic metal,2016,2010s,False,True,False,1
+FQmDA0CMoQv2BTAF,4p791HOddk5dMdIyYzqR2V,9.0,2016,0.629,0.887,4.0,1.0,0.696,170.017,198179,SONAMOO,Sense Man,I Like U Too Much,"k-pop,girl group,pop",2016,2010s,False,True,False,1
+HLwKvm2rlzejyvj9,0rvALLiQUhRqoTHddkPAkt,40.0,2016,0.359,0.85,1.0,1.0,0.7290000000000001,89.22200000000002,330133,Jimi Hendrix,Power Of Soul - Live At The Fillmore East,Machine Gun: Live at The Fillmore East 12/31/1969 (First Show),"classic rock,rock,blues",2016,2010s,False,True,False,1
+HyRLkTlRiRZP2Ph3,00IyV1WO6t8pAW4SrJvJfK,22.0,2016,0.5539999999999999,0.8059999999999999,2.0,1.0,0.363,114.685,187005,clipping.,Baby Don't Sleep,Splendor & Misery,noise,2016,2010s,False,True,False,1
+I0YlYzZQnfHo7k77,3rmR3lE7ngkkHzbBX5hSL8,13.0,2016,0.485,0.2,0.0,1.0,0.118,119.912,204000,El Toro Fuerte,Canção Para Um Desencontro,Um Tempo Lindo pra Estar Vivo,"emo,lo-fi,noise rock,math rock",2016,2010s,False,True,False,1
+Pqog2DxVhc29O5TW,79fmhV6NAraE4Xz3MIXnN4,45.0,2016,0.385,0.0562,11.0,1.0,0.192,116.666,182653,Grace Kelly,Ballad for MC,Trying to Figure It Out,"jazz,jazz,stoner rock",2016,2010s,False,True,False,1
+RAo3yyY9rhwK7T95,2UGLwTvRN0CHLAhVlcBjCs,30.0,2016,0.6920000000000001,0.84,2.0,0.0,0.264,125.007,368755,Savages,Surrender,Surrender (Trentemøller Remix),"post-punk,noise rock",2016,2010s,False,True,False,1
+Rl2LNuGHaz6KjZws,2CHmgtK8OCL28WtIK96u4N,57.0,2016,0.8220000000000001,0.813,7.0,1.0,0.357,95.122,323303,Kanye West,30 HOURS,The Life Of Pablo,"rap,hip hop",2016,2010s,False,True,False,1
+Rlq6DrtY1GSpq7w3,2VQc9orzwE6a5qFfy54P6e,60.0,2016,0.7140000000000001,0.343,10.0,1.0,0.3720000000000001,72.348,221940,Chance the Rapper,Blessings,Coloring Book,"hip hop,rap,hip hop",2016,2010s,False,True,False,1
+T6mDj9SeHsPjxalb,6G2g9STj9QN0jARMl63a1X,25.0,2016,0.603,0.635,6.0,1.0,0.484,171.908,241853,Birdy,Hear You Calling,Beautiful Lies,indie pop,2016,2010s,False,True,False,1
+YYoVF19v3eJZNQm7,2kJZvHENw6ZKuG1fO5yj6c,46.0,2016,0.677,0.569,0.0,1.0,0.693,117.107,220920,Dylan LeBlanc,Cautionary Tale,Cautionary Tale,"singer-songwriter,folk,country",2016,2010s,False,True,False,1
+ZfFayKHvhBOCxuWf,2OyyhxGR7W3qJMcfWUOdhS,33.0,2016,0.599,0.818,6.0,1.0,0.843,96.031,194951,Jacob Whitesides,Lovesick,Why?,talent show,2016,2010s,False,True,False,1
+a3VYh3vWvDhEeeUu,5OdrKJXwUSD1ay11mepuBN,48.0,2016,0.7809999999999999,0.426,0.0,1.0,0.5710000000000001,91.029,303427,Jordan Rakei,Tawo,Cloak,soul,2016,2010s,False,True,False,1
+cz9Gdgcc6jUfuyOX,7CYqiczUtOPpZswChTtRFe,13.0,2016,0.419,0.7709999999999999,2.0,1.0,0.608,129.084,158689,The Taxpayers,The Bottom (You Fucking Fucker),Big Delusion Factory,"folk punk,punk,folk",2016,2010s,False,True,False,1
+dCVbcKS25BBnCMyK,7lb1sb7BN6U0A8tyEo2cIl,24.0,2016,0.494,0.313,2.0,1.0,0.44,130.938,213573,Ryeowook,Like a Star,어린왕자 The Little Prince - The 1st Mini Album,"k-pop,soul",2016,2010s,False,True,False,1
+hrJz3sDY0oKKq5YI,3MWamYGHPxHUGga6lKgnef,15.0,2016,0.655,0.836,10.0,0.0,0.333,139.898,268565,CupcakKe,Ace Hardware,Audacious,"rap,hip hop",2016,2010s,False,True,False,1
+hsEjUMxvjsF02eti,0N2Jke0NjFxoWStGsc7IOS,39.0,2016,0.581,0.784,8.0,0.0,0.234,138.216,286627,Acid Ghost,The Artist's High,Warhol,"dream pop,shoegaze,lo-fi,indie pop",2016,2010s,False,True,False,1
+ipNEstNVHffndUbc,6YrvxSgbtIHQAomcE2a3Ot,15.0,2016,0.618,0.708,5.0,0.0,0.546,100.033,545613,Coil,Careful What You Wish For,The New Backwards,"electronic,experimental",2016,2010s,False,True,False,1
+kzOyz8kH1GDB6eQo,7sx4WZve7Xq3kj1dnj37b2,32.0,2016,0.638,0.902,1.0,0.0,0.675,146.005,230615,VIXX,Love Me Do,VIXX 2016 CONCEPTION KER Special Package,k-pop,2016,2010s,False,True,False,1
+pyVl2tljz6ajIvlh,7yC7bkNQBeESNoSa2K7h5z,41.0,2016,0.159,0.444,6.0,0.0,0.0587,97.688,175707,Abel Korzeniowski,Wayward Sisters,Nocturnal Animals (Original Motion Picture Soundtrack),"soundtrack,contemporary classical",2016,2010s,False,True,False,1
+sPpdfUdVJQpKFpsr,3irFKykZfYkMcSl6y0O3dt,40.0,2016,0.55,0.963,4.0,1.0,0.6679999999999999,144.013,228427,3 Doors Down,Living In Your Hell,Us And The Night,rock,2016,2010s,False,True,False,1
+sjDneX2SYlb5RvvW,1qcV3uDpiUq5l8B7G0GKDy,26.0,2016,0.408,0.439,7.0,1.0,0.258,97.036,368420,Cass McCombs,I'm A Shoe,Mangy Love,"folk,singer-songwriter,folk,singer-songwriter",2016,2010s,False,True,False,1
+swXeZoShTkYjuahL,1nRj2kW1MI6qJG3fmfpgeO,16.0,2016,0.1669999999999999,0.9,9.0,0.0,0.0832,113.152,579040,Au Champ Des Morts,Après le carnage,Dans la joie,"black metal,atmospheric black metal,post-black metal",2016,2010s,False,True,False,1
+t5EoCtTxvbxHruxM,5hfLnpsQq1wdbxH3PepzeM,30.0,2016,0.6970000000000001,0.936,9.0,1.0,0.57,160.032,145400,M.I.A.,Fly Pirate,AIM (Deluxe),"hip hop,electropop,electronic,uk hip hop,experimental hip hop",2016,2010s,False,True,False,1
+tewQiqEYiInbQhV8,5GUOe0eOnSfy0QRBSDSEfU,26.0,2016,0.532,0.471,11.0,1.0,0.914,129.256,157431,Apache Sun,The Rain That Never Came,The Rain That Never Came,"psychedelic rock,psychedelic rock",2016,2010s,False,True,False,1
+xPshrmHXiQxbws79,5loIRrZU3ez3r102qFzJI2,29.0,2016,0.679,0.922,2.0,0.0,0.8059999999999999,129.016,189800,Meck,Thunder In My Heart Again (Radio Edit),Thunder in My Heart Again,"house,disco,remix",2016,2010s,False,True,False,1
+xlXMbotAWcpupaU3,0C76hBDYVSxcQwfhvBL4yu,34.0,2016,0.464,0.965,7.0,1.0,0.34,118.043,296227,DragonForce,The Game,Killer Elite,power metal,2016,2010s,False,True,False,1
+yOotSDjWBrQanjfc,0rbXbrLDkG01W23q8R3Ycl,30.0,2016,0.153,0.0229,0.0,1.0,0.0361,134.875,1207500,Moby,LA8,Long Ambients1: Calm. Sleep.,ambient,2016,2010s,False,True,False,1
+0k82kUbdDCcZP3pR,2dKD0ronVH8LWanBs2ZfXd,43.0,2017,0.5,0.536,0.0,0.0,0.209,109.369,250533,The Cranberries,When You're Gone - Acoustic Version,Something Else,"rock,alternative rock",2017,2010s,False,True,False,1
+12TZyIzfwMwOALao,0xY2IkjHQxbf0LUQHI38SG,27.0,2017,0.44,0.519,0.0,1.0,0.315,148.137,233200,Lara Fabian,Camouflage,Camouflage,"pop,pop",2017,2010s,False,True,False,1
+2BKPLhWJlMmxpDqu,09MiUxWgWtsR2ITVEbZsOh,41.0,2017,0.456,0.616,8.0,1.0,0.0792,80.002,325875,Pylot,Locke,Shadowtask,electronic,2017,2010s,False,True,False,1
+4FZ3oLhjEhL8kkpB,0mWh2QcnFNYzBpRVitQIrk,34.0,2017,0.648,0.184,4.0,0.0,0.253,95.957,175320,Marika Hackman,Apple Tree,I’m Not Your Man,"singer-songwriter,folk,pop",2017,2010s,False,True,False,1
+58dD4cTmw5GaMqoO,3be0X3dtr2OipbZJi09t7J,30.0,2017,0.778,0.865,7.0,1.0,0.733,106.988,180484,PRISTIN,TINA,The 2nd Mini Album ‘SCHXXL OUT’,k-pop,2017,2010s,False,True,False,1
+5CiIuyTTCSKHdsgc,7bTOo2cEsj7HqColBVPkm1,43.0,2017,0.399,0.507,9.0,1.0,0.3720000000000001,76.385,418668,Cro,Baum,tru. (Deluxe Edition),"rap,hip hop",2017,2010s,False,True,False,1
+6mHOZyN5LHlSwec0,4e3wYOolOau2A9D7GYqtSG,68.0,2017,0.539,0.0511,3.0,1.0,0.135,179.99400000000003,274493,SYML,Where's My Love - Piano Solo,Where's My Love,"indie pop,dream pop,pop",2017,2010s,False,True,False,1
+AAUuIc2DhUjE5f5q,0ufEVwujjfht29nMSWWefR,48.0,2017,0.53,0.435,0.0,1.0,0.233,129.57399999999998,179613,Julia Michaels,Don't Wanna Think,Nervous System,pop,2017,2010s,False,True,False,1
+ANM4z859FxBEpmBF,5tDkjUaPiTYne5aDtg6ZUE,41.0,2017,0.385,0.7759999999999999,4.0,1.0,0.148,202.052,187707,Radiohead,Meeting In The Aisle,OK Computer OKNOTOK 1997 2017,electronic,2017,2010s,False,True,False,1
+AgPod69k93SDTywU,77CVUJm8H0vNMthw6WP6e5,37.0,2017,0.444,0.521,10.0,0.0,0.434,104.842,230339,Princess Nokia,Green Line,1992 Deluxe,"rap,jazz rap",2017,2010s,False,True,False,1
+B19JLLqTNb0vZW7F,2Qxcbc5Qxz5WoZwSSqA6Gg,36.0,2017,0.476,0.106,1.0,1.0,0.159,108.905,197107,Loïc Nottet,Go To Sleep,Go To Sleep,"eurovision,pop,eurovision,pop",2017,2010s,False,True,False,1
+B7fSYIXwFR1On51L,5O1KKCymoKvOOOfbLBsIG2,47.0,2017,0.588,0.812,7.0,1.0,0.331,119.021,321647,Letrux,Ninguém perguntou por você,Letrux em Noite de Climão,"synthpop,new wave",2017,2010s,False,True,False,1
+BQiib7sfJE2JSbRB,7Dgju7iB9XTjAxHBkRWoEX,28.0,2017,0.696,0.8740000000000001,2.0,0.0,0.615,125.924,182040,Dinah Nah,One More Night,One More Night,pop,2017,2010s,False,True,False,1
+DvaC9BHP7i0P37HA,4YM7WVBYpm8WkQwiFjJR5Y,36.0,2017,0.483,0.81,4.0,1.0,0.523,129.966,260280,Nana Grizol,Mississippi Swells,Ursa Minor,"folk,folk punk,indie pop",2017,2010s,False,True,False,1
+EFwTd7Q2Zg2TE6Wo,7qGvN22jEHotPK4K5uyxBG,22.0,2017,0.146,0.977,0.0,1.0,0.0382,185.021,323993,Do Make Say Think,War On Torpor,Stubborn Persistent Illusions,"post-rock,experimental,rock",2017,2010s,False,True,False,1
+FEvm1V3JSk2DkdbS,4MCONl1OnClOpsJP429zg1,35.0,2017,0.7040000000000001,0.695,0.0,1.0,0.511,144.922,217319,ShyGirl,MSRY,MSRYNVR,"grime,electronic",2017,2010s,False,True,False,1
+Fm8MoX0Cb3r5iq1K,6hPFEpT7bVguj9aCFLOmiz,58.0,2017,0.706,0.597,4.0,1.0,0.393,96.026,207164,Sam Smith,Midnight Train,The Thrill Of It All (Special Edition),"soul,pop,electronic",2017,2010s,False,True,False,1
+GLrZm0f0LlQU7eAv,0uknnA7CnrkpSu5ozg0B7x,48.0,2017,0.685,0.872,2.0,1.0,0.374,130.004,272453,Marilyn Manson,We Know Where You Fucking Live,Heaven Upside Down,"metal,rock,industrial,industrial rock",2017,2010s,False,True,False,1
+Jf9Eagq8fxjcvr5P,1ftQH0W8YA06MttqybPkui,36.0,2017,0.495,0.195,9.0,0.0,0.238,123.733,205497,Ana Muller,Fragmentar,2012-2016,mpb,2017,2010s,False,True,False,1
+JmT8dzOSnqnonmbc,6eEaHyNInHsVrOcUoT2xDL,16.0,2017,0.467,0.737,9.0,0.0,0.122,128.042,357547,Deep Purple,The Surprising,Infinite,progressive rock,2017,2010s,False,True,False,1
+K0q7MStMboy2dpzY,2qsalMTxsMGCPOadfgXSzl,43.0,2017,0.55,0.8059999999999999,0.0,1.0,0.431,166.065,217879,Remo Drive,Strawberita,Greatest Hits,"emo,punk,post-hardcore,indie rock,pop punk",2017,2010s,False,True,False,1
+Kgk9hkiypQ19j02v,5LmwNHC9YCUvgcCGiKdsYV,26.0,2017,0.624,0.7909999999999999,2.0,1.0,0.5,148.043,197248,Xiu Xiu,The Call,FORGET,experimental,2017,2010s,False,True,False,1
+N66qXFCABaCiso3R,269xqcgGTN9PlivhUkOLhX,60.0,2017,0.54,0.674,2.0,1.0,0.309,89.93299999999998,238719,Lana Del Rey,In My Feelings,Lust For Life,"trip hop,baroque pop",2017,2010s,False,True,False,1
+NB8oY0kslCr6cGBr,0qj1v3ExQElzZVA7ldo7G2,10.0,2017,0.376,0.867,8.0,1.0,0.168,150.053,280801,Psyclon Nine,So Be It,Divine Infekt,"ebm,aggrotech,industrial",2017,2010s,False,True,False,1
+PDAS36qtuWSM2FGB,3BTFDG5WXYZtJmQIK5S3Xp,24.0,2017,0.383,0.48,1.0,0.0,0.287,132.38,284640,Björk,Courtship,Utopia,"art pop,electronic,experimental",2017,2010s,False,True,False,1
+Pwzncs7ggaYCxf38,38n1P4mFuCWKbFSfQT568Z,49.0,2017,0.8340000000000001,0.5,9.0,1.0,0.18,123.97,238387,Beshken,The Roman Call,For Time Is the Longest Distance Between Two People,downtempo,2017,2010s,False,True,False,1
+QrYJSmCYMC4ZytEy,2XZ1I5xCHe38XOvfpMRY5e,44.0,2017,0.919,0.485,11.0,0.0,0.677,119.999,216453,Julia Michaels,Make It Up to You,Nervous System,pop,2017,2010s,False,True,False,1
+TBVYm2NYJrRZq1mS,6X6kCTsrpTZFDDfrlH2wLV,32.0,2017,0.631,0.805,5.0,1.0,0.894,165.80200000000005,183493,Boris René,Her Kiss,Her Kiss,pop,2017,2010s,False,True,False,1
+TrrSFIlAxXD3Urag,3ENi1AkXT62LA4ULCpHtSk,14.0,2017,0.426,0.369,0.0,1.0,0.144,87.986,219533,Death in Vegas,Lever Street,The Contino Sessions,electronic,2017,2010s,False,True,False,1
+Wux1EuhGrDvs7Jr8,0dssTLrqY79Klk6jx2RXCj,56.0,2017,0.616,0.605,7.0,1.0,0.185,116.031,275617,Lana Del Rey,When the World Was at War We Kept Dancing,Lust For Life,"trip hop,dream pop",2017,2010s,False,True,False,1
+Z6EyIBjbIdosu9Rr,0maOHvapjWjwXuPcLL7dCL,41.0,2017,0.7340000000000001,0.6940000000000001,5.0,0.0,0.805,139.947,193591,Bobby,Alien,LOVE AND FALL,synthpop,2017,2010s,False,True,False,1
+aVkATraXgWupm9iT,4rL7wJv8tEpt6ND1cFjj0a,29.0,2017,0.507,0.542,9.0,1.0,0.127,132.093,210533,Beth Ditto,We Could Run,Fake Sugar,"electronic,electropop",2017,2010s,False,True,False,1
+cwSGZ8EVPgG8kZCP,7BOXzaH1Rv9JLUgwvAkID5,47.0,2017,0.364,0.752,9.0,1.0,0.122,102.754,299280,Radiohead,Let Down (Remastered),OK Computer OKNOTOK 1997 2017,art rock,2017,2010s,False,True,False,1
+di8omx3wJL6j1oGy,21zxICKVL4rSwgZNuxk9af,50.0,2017,0.79,0.121,3.0,1.0,0.161,121.954,228237,Brad stank,DADDY BLUE,Daddy Blue / O.T.D.,"dream pop,lo-fi,chillwave",2017,2010s,False,True,False,1
+h0N4YwWLxbY03TtC,5LX6k3iekl9UucBf1nzFQD,38.0,2017,0.825,0.759,7.0,1.0,0.743,134.96,225282,Akdong Musician,MY DARLING,SUMMER EPISODE,"k-pop,folk,k-pop",2017,2010s,False,True,False,1
+jya3u7FEolI1rr3W,73SDA3uGllgkNKrMNT1FNK,32.0,2017,0.412,0.664,8.0,1.0,0.239,108.833,309002,Kelela,Enough,Take Me Apart,"art pop,wonky",2017,2010s,False,True,False,1
+klFSyJqiipFN08TK,0SeZv0QBimtX1BUbzmmTyO,47.0,2017,0.54,0.599,2.0,0.0,0.393,119.977,235387,U2,Book of Your Heart,Songs Of Experience (Deluxe Edition),"rock,classic rock,pop",2017,2010s,False,True,False,1
+mahr3kLtteOPLO4G,1KkMyWwHcLyVWWpaPrqphg,30.0,2017,0.804,0.8340000000000001,10.0,1.0,0.605,104.965,209084,CupcakKe,Cumshot,Queen Elizabitch,"rap,hip hop",2017,2010s,False,True,False,1
+nZvD6PJMhV99x7Xl,5sTQmMW2ts3cp98lKzxCXt,25.0,2017,0.139,0.799,4.0,1.0,0.17,86.465,358720,Primitive Man,Victim,Caustic,"doom metal,metal,death metal",2017,2010s,False,True,False,1
+oR8auXDNeOUf38tY,1Mza2sr6tPhy6jjI3HB9fW,64.0,2017,0.463,0.4270000000000001,8.0,0.0,0.231,116.059,231268,Daniel Caesar,Hold Me Down,Freudian,soul,2017,2010s,False,True,False,1
+oRPp1sxsHQcsV9hU,3xuRKGbalblooPG3Fojb4Y,42.0,2017,0.586,0.703,9.0,1.0,0.8059999999999999,145.148,236565,The Growlers,Late Bloomers,Late Bloomers,"lo-fi,rock,garage rock",2017,2010s,False,True,False,1
+qQJZsekrepRKLGgM,0G7UpovSdCBnvkZUJBJjR4,52.0,2017,0.7,0.262,11.0,1.0,0.321,81.88,164902,Devaloop,Suffer No Fools,From The Bits To The Cosmos,beats,2017,2010s,False,True,False,1
+s3rXTMZ4aTJkVnQ2,5ok9IPHLTPbhMjouDHYMrk,35.0,2017,0.703,0.746,6.0,0.0,0.65,122.028,277632,Raimundos,Mas Vó,Acústico - Ao Vivo,hardcore,2017,2010s,False,True,False,1
+spBZ2IYX22aSwTwV,6FvkQyoxJlHGnARCr4S02u,44.0,2017,0.266,0.8740000000000001,1.0,0.0,0.292,142.99,218893,The Amazons,Ultraviolet,The Amazons (Deluxe),"indie rock,rock",2017,2010s,False,True,False,1
+tHUK4Rop6Ol96c7z,71T6AcPHygJRPmAVONGKUd,25.0,2017,0.467,0.981,1.0,0.0,0.428,149.976,222189,Employed To Serve,The Warmth Of A Dying Sun,The Warmth of a Dying Sun,"mathcore,hardcore,post-hardcore,chaotic hardcore",2017,2010s,False,True,False,1
+uDw3CMApfadT4cfz,4l8LhfOhUwEVHdsAGFJkHN,17.0,2017,0.631,0.8,11.0,1.0,0.8759999999999999,169.982,206305,Kriesha Chu,"I Want You (Feat. Yong Jun Hyung) (Prod. By Yong Jun Hyung, Kim Tae Ju)",Kriesha Chu 1st Single Album,"pop,korean pop",2017,2010s,False,True,False,1
+uuYy0dYMp8uJwb32,5c5ARrENAc6Dqsn43vlwbt,24.0,2017,0.564,0.737,8.0,1.0,0.476,77.527,179931,Bebe Rexha,Count On Christmas,Count on Christmas,pop,2017,2010s,False,True,False,1
+vH2e23ADwY3ccim9,4RcttSz7uRL9O2NyuFKaW2,60.0,2017,0.831,0.657,11.0,0.0,0.916,105.001,204760,Little Mix,Oops,Glory Days: The Platinum Edition,pop,2017,2010s,False,True,False,1
+vxPBUExoJHAeVket,1rvrexnMTsnVzK22zpys6i,28.0,2017,0.578,0.103,2.0,0.0,0.416,115.921,242268,Ana Muller,Sorte,2012-2016,"mpb,folk,mpb",2017,2010s,False,True,False,1
+w7jMl470MiVILNSv,6J0xeqjdpsUH0W1YBCmD1L,58.0,2017,0.557,0.532,2.0,1.0,0.122,103.992,271307,You Me at Six,Take On The World,Night People,pop punk,2017,2010s,False,True,False,1
+0TqKk5PVMVt0cqjZ,0Wflmk2qlce7MUaFJKOYu4,34.0,2018,0.4,0.8759999999999999,3.0,1.0,0.261,79.35,277549,The Smashing Pumpkins,Knights Of Malta,"SHINY AND OH SO BRIGHT, VOL. 1 / LP: NO PAST. NO FUTURE. NO SUN.","alternative rock,rock",2018,2010s,False,True,False,1
+301oCedB05w55J1P,0DJorSb5AEGEY2N6nBRwP8,27.0,2018,0.774,0.904,1.0,1.0,0.802,104.0,278735,Objekt,35,Cocoon Crush,"techno,dubstep,industrial,electronic,minimal",2018,2010s,False,True,False,1
+3Hdherepb2WQYYYB,0wqj4c0MWhlP8niWFADiVL,26.0,2018,0.7559999999999999,0.758,9.0,1.0,0.921,118.013,181808,Ida Maria,Scandilove,Scandilove,eurovision,2018,2010s,False,True,False,1
+5ZomChfGNezm7ZCk,20fjyYS1aoB5kCEIFVRuhE,14.0,2018,0.722,0.922,7.0,1.0,0.672,98.017,178317,BerryGood,Give It Away,FREE TRAVEL,"k-pop,pop,girl group",2018,2010s,False,True,False,1
+6FX3aPucDCtm78NC,7HFm14VzKW91gyjwYquKrn,20.0,2018,0.416,0.461,5.0,1.0,0.27,120.022,309988,Julia Holter,I Shall Love 1,Aviary,"avant-garde,baroque pop",2018,2010s,False,True,False,1
+6OaLH97SBrNzCTPH,0fJ0jt5W5B9VnOxX6CmoD8,44.0,2018,0.625,0.7070000000000001,8.0,0.0,0.593,92.004,203160,Nicole Millar,Blindfolded,Excuse Me (Deluxe),"indie pop,pop",2018,2010s,False,True,False,1
+7zZ0MLH9eQVJbHln,3aIw48T33VVn5Vhz9vLMvY,39.0,2018,0.672,0.804,1.0,1.0,0.61,114.02,182896,Leland,Lights,Sierra Burgess is a Loser (Original Motion Picture Soundtrack),"psychedelic rock,hard rock",2018,2010s,False,True,False,1
+8uEiLPVykPxqFCdv,10wtDVgkPDh7iMvSC1TIEw,36.0,2018,0.493,0.399,10.0,0.0,0.618,119.647,209093,Menahan Street Band,Black Velvet,Black Velvet,"funk,soul,jazz,jazz fusion",2018,2010s,False,True,False,1
+AIGgoVrVlNiYC3Os,2CzqIov2TzlGrM6Xn0qP7I,34.0,2018,0.463,0.977,4.0,1.0,0.366,112.531,143107,Alkaline Trio,Little Help?,Is This Thing Cursed?,"punk,emo,pop punk",2018,2010s,False,True,False,1
+B2rA0s99KdswRtQP,4LRYAQpXT42pWVZPMUoYi3,32.0,2018,0.192,0.0093,9.0,0.0,0.0835,180.043,215707,Max Richter,Your Reflection,My Brilliant Friend (TV Series Soundtrack),"ambient,contemporary classical,neoclassical,classical,electronic",2018,2010s,False,True,False,1
+BdWMpLhbZ3ZjWOoj,3DkinGCV7vcd5hGGBDjtJm,25.0,2018,0.205,0.347,10.0,1.0,0.0321,62.606,48353,Daniel Pemberton,Gwen Enters the Spider-Verse,Spider-Man: Into the Spider-Verse (Original Score),"ambient,soundtrack,electronic",2018,2010s,False,True,False,1
+DTim6DQ4wlO1Evsp,6cX1iTffMIAU8lEWSOYIIO,60.0,2018,0.501,0.486,2.0,0.0,0.318,139.872,206493,Lil Peep,Leanin',"Come Over When You're Sober, Pt. 2","emo,emo rap,rap",2018,2010s,False,True,False,1
+EDqlQN3PPHLVhwFk,7qJR9Buzv0ouKnVZB5AXQx,32.0,2018,0.4920000000000001,0.952,0.0,1.0,0.294,111.994,214533,The Brian Jonestown Massacre,Who?,Something Else,"psychedelic rock,indie rock",2018,2010s,False,True,False,1
+EULumquRodL1TbYv,4xI1VwZa8u3ymeS8hsHKed,52.0,2018,0.657,0.32,1.0,1.0,0.39,115.724,195200,Iron & Wine,Autumn Town Leaves,Weed Garden,"folk,singer-songwriter",2018,2010s,False,True,False,1
+F7edKieC1AG4dhDI,0wVLIpc1C3nSwvKNtkPrq3,38.0,2018,0.737,0.912,2.0,1.0,0.848,138.969,187576,gugudan SEMINA,SEMINA,Semina,"k-pop,dance pop,k-pop,dance pop",2018,2010s,False,True,False,1
+HwywHCFOWiiEaCMY,1mSlKFybAPr9YpVwbnH4P5,48.0,2018,0.59,0.919,2.0,0.0,0.848,160.066,154594,Luan Estilizado,"Beleza, Valeu","Beleza, Valeu",forro,2018,2010s,False,True,False,1
+J02nvB0xoiaGWQWz,1nbf5QQSDA8db62ZvKHQHi,32.0,2018,0.181,0.23,4.0,1.0,0.0427,116.589,178720,Marco Beltrami,A Quiet Life,A Quiet Place (Original Soundtrack Album),soundtrack,2018,2010s,False,True,False,1
+JQj22UK6npHEtJO8,3KM25ML3KNVq3w2ERvTyB5,26.0,2018,0.5710000000000001,0.828,1.0,0.0,0.535,90.00399999999998,131770,Goa,Suicidal Thoughts,HellPopStar,"rap,electronic,emo",2018,2010s,False,True,False,1
+L2lnVwURsmX9XvNQ,56mCGN7S1druROilPGNe3R,52.0,2018,0.856,0.598,6.0,1.0,0.352,122.005,202153,Charli XCX,No Angel,Focus / No Angel,"pop,electronic,electropop",2018,2010s,False,True,False,1
+LMiWW0K0KtM87ihJ,788vsDvqfhwIcFBTp4d8jG,18.0,2018,0.5710000000000001,0.569,3.0,1.0,0.287,135.921,208623,LABOUM,Heal Song 흐르는 이 노래가 멈추고 나면,I'M YOURS,k-pop,2018,2010s,False,True,False,1
+NM6peZw1ljlAhNPr,7aGpjo6SB59tpTiMlD1uvL,41.0,2018,0.429,0.368,8.0,1.0,0.596,111.348,341213,John Coltrane,Untitled Original 11383,Both Directions At Once: The Lost Album (Deluxe Version),"jazz,hard bop",2018,2010s,False,True,False,1
+Nc23X8NR3pvwveYL,0S5pueOUOvIancaAwpFTlC,42.0,2018,0.65,0.797,7.0,0.0,0.67,110.017,224392,Studio Killers,Party Like It's Your Birthday,Party Like It's Your Birthday,"electronic,electropop,house,pop,electronica",2018,2010s,False,True,False,1
+NkgwJZvnda87QDGk,14ZDAhS7qXjdQ01fTEKKhk,16.0,2018,0.462,0.5770000000000001,5.0,1.0,0.302,101.974,204880,Jenny Wilson,RAPIN*,EXORCISM,indie pop,2018,2010s,False,True,False,1
+P1kKlt1XQy6NZsj4,4xMC3dU4fINHY8leDi4f8R,26.0,2018,0.516,0.337,5.0,1.0,0.879,169.923,216088,Katzù Oso,Give It Up to You,Pastel,"synthpop,alternative rock,lo-fi,bedroom pop",2018,2010s,False,True,False,1
+Pxu7d6dw3oRvAjfm,4UEuIEv9Wc3wtiWUplGJ7q,65.0,2018,0.785,0.626,4.0,0.0,0.183,154.946,193211,Bad Bunny,Ser Bichote,X 100PRE,"latin,reggaeton",2018,2010s,False,True,False,1
+Q7Dde2PcA3IkXSWL,4i9FPWJr8gg1xFrlFKyN28,20.0,2018,0.738,0.7390000000000001,8.0,1.0,0.6709999999999999,93.969,184728,Emily Vaughn,Strangers,Strangers,pop,2018,2010s,False,True,False,1
+R196kz3Lf8Q2yn5E,2mdNTPJ4xgwPZZsKEqXbK0,49.0,2018,0.6,0.608,4.0,1.0,0.384,123.953,243707,Chase Atlantic,Tidal Wave,Tidal Wave,rock,2018,2010s,False,True,False,1
+RLN1ZXf6uo75GKLo,4P7GisEDBlksXL44XSQfxu,19.0,2018,0.365,0.8740000000000001,8.0,0.0,0.726,132.484,225672,Blair St. Clair,Now or Never (Remix),Call My Life,"pop,pop",2018,2010s,False,True,False,1
+S4WumCp8ipelaIB6,43GUQ5FujwMeyYZ4ns0Wek,38.0,2018,0.662,0.805,4.0,1.0,0.583,129.996,286573,Aimer,Tiny Dancers,Black Bird / Tiny Dancers /Omoideha Kireide,"j-pop,pop",2018,2010s,False,True,False,1
+SwmAo2NGdOn5nUsc,7uEzEAcV7WL9osYSXWXeF5,43.0,2018,0.47,0.845,6.0,1.0,0.371,160.018,325787,Alice in Chains,Red Giant,Rainier Fog,"grunge,doom metal",2018,2010s,False,True,False,1
+TMIxARRK2Cjj1yvY,1nUqrf8MMTeEhPQQpXHS11,52.0,2018,0.565,0.87,2.0,1.0,0.363,96.006,194907,Airways,Alien,Alien,"rock,indie rock,rock,alternative rock",2018,2010s,False,True,False,1
+TRBhqkrH330Q9moX,5wA1SaqrhmPc2G5UtmedU9,26.0,2018,0.537,0.6809999999999999,2.0,1.0,0.104,90.01799999999999,203973,Deaf Havana,Hell,RITUALS,"post-hardcore,pop rock,screamo",2018,2010s,False,True,False,1
+TY0GOU6aq4duBPHF,7sCxKDG9sIDykZkTL1YWXc,24.0,2018,0.401,0.987,2.0,1.0,0.467,164.99200000000005,185091,LANDMVRKS,Wake up Call,Fantasy,metalcore,2018,2010s,False,True,False,1
+WWL0vJaXgFQlaiMP,0TuPaGnVZ9wwv0qAjCLEin,39.0,2018,0.6409999999999999,0.539,7.0,0.0,0.6990000000000001,95.942,313547,Buddy Guy,The Blues Is Alive and Well,The Blues Is Alive And Well,"blues,chicago blues,classic rock",2018,2010s,False,True,False,1
+X6XR4Kf5AY11qzhV,5bj2XmbAU0WCGI14P4LsON,53.0,2018,0.6559999999999999,0.594,6.0,1.0,0.6970000000000001,88.38,128985,Jakob Ogawa,Sunshine Girl - Demo,Sunshine Girl,lo-fi,2018,2010s,False,True,False,1
+XMFktBOEP2sOZEX7,7InrtgkyHF9DBqL8jGHnP2,26.0,2018,0.339,0.182,2.0,1.0,0.268,93.063,294613,Marianne Faithfull,No Moon in Paris,Negative Capability,"rock,singer-songwriter,singer-songwriter,rock",2018,2010s,False,True,False,1
+YfsKGIMMmOsUZchc,7lYtsuiY4dx0w0fzSAblvL,23.0,2018,0.496,0.6679999999999999,1.0,0.0,0.447,94.197,170227,J Mascis,Give It Off,Elastic Days,"indie rock,singer-songwriter,alternative rock",2018,2010s,False,True,False,1
+YiThri82217RJvs1,4Ku7rosvDLO4ibbxtdMKmt,14.0,2018,0.425,0.909,6.0,0.0,0.468,154.069,191800,The Joy Formidable,Go Loving,Aaarth,"indie rock,rock",2018,2010s,False,True,False,1
+YleZ5m5364DFtSEo,54Dc35Szw78T2bVm7mb8OL,39.0,2018,0.557,0.247,0.0,1.0,0.199,117.031,181426,Muddy Monk,Baby,Longue Ride,"synthpop,french pop",2018,2010s,False,True,False,1
+ZBfCk9VYX427AQR6,12FSdXvwvT79VkwtxPPQjZ,39.0,2018,0.5479999999999999,0.747,4.0,0.0,0.622,81.017,304596,Sundara Karma,Illusions,Illusions,indie rock,2018,2010s,False,True,False,1
+Zamqnt0eK6XohUbb,49AmZvID6vCq7xptGmk86n,46.0,2018,0.705,0.441,11.0,0.0,0.198,114.898,144000,Ellise,Nightmares,Can You Keep a Secret?,"pop,electronic,indie pop",2018,2010s,False,True,False,1
+a11QkDz7iIPm0RSY,3v44foCPVz6udaYKHzazPt,33.0,2018,0.6920000000000001,0.71,9.0,1.0,0.416,95.028,205076,EXID,Dreamer (Solji Solo),[Re:flower] PROJECT #1,k-pop,2018,2010s,False,True,False,1
+aHWcnpIN3b7beSkj,4BQrEOiu5dLYNl7kpNRNvS,34.0,2018,0.7759999999999999,0.85,6.0,1.0,0.884,97.974,212741,OH MY GIRL,Echo,OH MY GIRL 6th Mini Album [REMEMBER ME],"k-pop,girl group,pop",2018,2010s,False,True,False,1
+bbDB4NEC3JiJINNP,353NhKxbhWRe0dbcCWHYby,26.0,2018,0.531,0.934,1.0,1.0,0.8370000000000001,88.934,182888,Deaf Havana,Saviour,RITUALS,"post-hardcore,pop rock,screamo",2018,2010s,False,True,False,1
+bo6Dv8Zk5WlWm993,0p4k4leZzL9DE1RWFr2Dpe,5.0,2018,0.148,0.4370000000000001,3.0,1.0,0.0372,103.747,588192,Them Are Us Too,Could Deepen,Amends,"dream pop,shoegaze,gothic rock",2018,2010s,False,True,False,1
+dYs8bCBYYdVqa92P,1V1NpX9DlBb9koXof9nIBF,70.0,2018,0.638,0.411,2.0,1.0,0.158,96.969,180120,Zayn,Good Years,Icarus Falls,pop,2018,2010s,False,True,False,1
+dvSatcCTehpviJIR,3JbHbI3IW8HaPf0ROdQ0Hj,25.0,2018,0.365,0.991,0.0,1.0,0.104,167.05700000000004,166147,DIR EN GREY,Devote My Life,The Insulated World,"metal,death metal,j-metal,j-rock,visual kei",2018,2010s,False,True,False,1
+fiZrarjVdoPYNDnq,3WjFQ0j4rzi4Qh7LTxbbSQ,29.0,2018,0.785,0.906,4.0,0.0,0.557,124.04,199799,Super Junior-D&E,Illusion (Obsessed),'Bout You - The 2nd Mini Album,"pop,k-pop,rap",2018,2010s,False,True,False,1
+fjKDpP0eEApIqFWw,0oc1iLEPTcu0EG7F5yaWAq,3.0,2018,0.418,0.13,7.0,0.0,0.0333,119.685,281627,Jlin,First Interlude (Absence Of Measure),Autobiography (Music from Wayne McGregor's Autobiography),"footwork,electronic,experimental,footwork,electronic",2018,2010s,False,True,False,1
+fqycp9lOmhAV422u,4GJW6AbroTYMzAvulTFPJy,41.0,2018,0.591,0.8759999999999999,10.0,1.0,0.662,172.884,204920,JoJo,Not That Kinda Girl,JoJo (2018),pop,2018,2010s,False,True,False,1
+gEwQNtbwMcz1P0zr,74wOPCkFDi87whuUQOdrjN,23.0,2018,0.6890000000000001,0.599,5.0,1.0,0.393,104.7,188082,Thomas Azier,White Horses,Stray,"electropop,synthpop,electronic",2018,2010s,False,True,False,1
+gNW0dozM7fmWV1w2,3TSZKGfniDDQACk9jt4XXx,20.0,2018,0.5479999999999999,0.382,0.0,1.0,0.181,139.931,358053,Kalafina,I have a dream,Kalafina All Time Best 2008-2018,j-pop,2018,2010s,False,True,False,1
+gZOuoRs3mi3aiq2r,1nMFjfpVjySETbkEEvdLX5,34.0,2018,0.915,0.672,2.0,0.0,0.62,139.991,164400,Santigold,Crashing Your Party,I Don't Want: The Gold Fire Sessions,"electronic,electronic",2018,2010s,False,True,False,1
+gfar8XC9KaRXmZmD,0cg0rDz8lF3ZSi8SWVptPd,38.0,2018,0.308,0.731,7.0,0.0,0.273,75.063,284107,Alice in Chains,Deaf Ears Blind Eyes,Rainier Fog,"grunge,rock,doom metal",2018,2010s,False,True,False,1
+hCCi0Y08zaEYz0z0,5rW24MHtNOhKl8C08fmqDs,42.0,2018,0.635,0.36,1.0,1.0,0.245,120.592,208573,Erin Rae,Wild Blue Wind,Putting on Airs,"folk,singer-songwriter",2018,2010s,False,True,False,1
+hwKbn6JyeSXTRQjA,4yZWmplWYoxcOxUr8ezyxR,35.0,2018,0.662,0.7,7.0,1.0,0.557,130.967,215869,She Wants Revenge,Big Love,Big Love,"electronic,synthpop,new wave,disco",2018,2010s,False,True,False,1
+i2EKgKivzthO3VQ7,0nNocEvNLEXbkUkbMBM1Fo,31.0,2018,0.44,0.722,0.0,1.0,0.415,95.075,275943,Hatchie,Sugar & Spice,Sugar & Spice,"dream pop,indie pop",2018,2010s,False,True,False,1
+iP7zwn1yzcMIZvMy,0k165ayrLWHRW4TYjsArx7,49.0,2018,0.662,0.957,0.0,1.0,0.476,130.01,216377,Stray Kids,SCHOOL LIFE,Mixtape,"k-pop,rock,pop",2018,2010s,False,True,False,1
+kufmRCU4ELbkoBG7,4RVbK6cV0VqWdpCDcx3hiT,71.0,2018,0.585,0.597,0.0,1.0,0.227,100.051,324674,Kids See Ghosts,Reborn,KIDS SEE GHOSTS,"rap,rap,hip hop",2018,2010s,False,True,False,1
+ljZC0HV73FGtwbub,6ALWsAWq3bZmKBNnVKcMJG,32.0,2018,0.25,0.301,11.0,0.0,0.0386,103.761,288678,Low,Tempest,Double Negative,"post-rock,noise,noise pop",2018,2010s,False,True,False,1
+mxZ9lzN79iH3mHu1,07RpKC01JqwqvlJNV7SGeF,39.0,2018,0.672,0.911,7.0,0.0,0.644,96.807,197667,JoJo,Breezy,JoJo (2018),pop,2018,2010s,False,True,False,1
+nO2u059v8wG09FlJ,0tkoOTYz09ro8WWpD8voMa,31.0,2018,0.535,0.812,6.0,0.0,0.515,90.03,176278,Inner Wave,Fine,Underwater +,"indie rock,rock,jazz",2018,2010s,False,True,False,1
+oSVYRFLlOrnBR0Nx,6NpT0bN5yaVZxMgaLPXaeV,35.0,2018,0.6559999999999999,0.8640000000000001,10.0,0.0,0.594,86.85600000000002,151416,CupcakKe,Cartoons,Ephorize,rap,2018,2010s,False,True,False,1
+pjSQUrl2HSqxPQhq,0PXw9NKvolWTo7U9JkNzmc,54.0,2018,0.622,0.865,7.0,1.0,0.87,149.70600000000005,227800,Glenn Frey,The Heat Is On,Above The Clouds - The Collection (Deluxe),"rock,classic rock,soundtrack,pop",2018,2010s,False,True,False,1
+rXmYn9Vj4WLPot24,3fAPSHaCcVLsAUIvrawN4y,49.0,2018,0.687,0.478,6.0,0.0,0.4970000000000001,87.05,207120,Tom Grennan,Something In the Water,Lighting Matches (Deluxe),soul,2018,2010s,False,True,False,1
+rzASmvAu08PKSmog,5BvQwiLhc12u2VEvRqqi80,18.0,2018,0.748,0.404,9.0,1.0,0.8059999999999999,143.423,183833,Bauhaus,Boys,The Bela Session,"post-punk,gothic rock",2018,2010s,False,True,False,1
+rzu5ODW2zpWBQL4J,1nNvIXCUmjcSp59qbwWktb,44.0,2018,0.469,0.899,7.0,1.0,0.527,79.553,218813,JoJo,Disaster,Disaster (2018),pop,2018,2010s,False,True,False,1
+vbUSy3NmJPKxFrvW,6skB3xAbV9pQB6ICiOqvCg,24.0,2018,0.4970000000000001,0.403,11.0,1.0,0.465,170.041,232373,Emma Blackery,What I Felt With You,Villains,pop,2018,2010s,False,True,False,1
+y8KIVhwT50ZaIsiM,1AOXIPRhIw7AaN2dHZ0ZrT,31.0,2018,0.833,0.917,2.0,1.0,0.56,129.93200000000002,218832,CupcakKe,Fullest,Ephorize,"rap,hip hop",2018,2010s,False,True,False,1
+0yBToSAEnXHRyFgL,0THEoQhUV0cpATg9W2kuih,23.0,2019,0.382,0.915,7.0,1.0,0.481,129.737,204311,Pedro the Lion,My Phoenix,Phoenix,"indie rock,emo",2019,2010s,False,True,False,1
+2YUorCHfgH5Qw1qi,0XhNusoLXMdk0DBC7rZdUs,43.0,2019,0.6509999999999999,0.644,11.0,1.0,0.782,87.0,230360,Aaliyah,More Than a Woman,The Gangsta Rap Collection,"soul,pop,soul",2019,2010s,False,True,False,1
+6bGyO0pip5cK53JN,1p7IP0JMy5fuOdozeoDmnh,43.0,2019,0.384,0.825,4.0,0.0,0.351,174.979,242743,Rogue,Oceans,Oceans,electronic,2019,2010s,False,True,False,1
+6dDpecuiPp5wmhn5,4YfXmGT2WEH8JbWUtyuEwi,36.0,2019,0.588,0.7240000000000001,2.0,1.0,0.636,100.101,179431,Ann-Louise Hanson,Kärleken finns kvar,Kärleken finns kvar,eurovision,2019,2010s,False,True,False,1
+7zlY5B7sriALWm7b,3yEpyFpMdjd521kAHfvd0s,40.0,2019,0.188,0.906,8.0,1.0,0.251,162.127,225373,Aimer,Black Bird,Penny Rain,"j-pop,pop",2019,2010s,False,True,False,1
+8HtAPTFA63LIUW4t,2l6i0yqfxql1N61hCYZ0Me,18.0,2019,0.685,0.872,3.0,1.0,0.7140000000000001,140.013,211483,Giungla,In My Head,In My Head,"electronic,indie pop",2019,2010s,False,True,False,1
+91e4CrxwnYWlYHSG,4Lwn5LiXnjJN3AZacKnWll,36.0,2019,0.517,0.669,9.0,0.0,0.362,119.877,223801,Bang Yongguk,Hikikomori,Hikikomori,"k-pop,rap",2019,2010s,False,True,False,1
+9zPuBGnzmgSxCdoH,6EJNuzZFjswgHwVYx3MZa9,23.0,2019,0.431,0.872,0.0,1.0,0.465,118.114,285893,Shellac,Crow,The End of Radio,"noise rock,math rock",2019,2010s,False,True,False,1
+DzW10pPaeDyRnSqh,1jNey8rqLtOB0fPy3eTVos,17.0,2019,0.46,0.826,8.0,1.0,0.15,159.961,199747,Die Goldenen Zitronen,Katakombe,More Than a Feeling,"punk,hamburger schule",2019,2010s,False,True,False,1
+EuHdm2CkRMi1lnYm,3OIj1ZsBTNXMtBVRe4pFTe,25.0,2019,0.877,0.65,1.0,1.0,0.3,140.588,173280,Sneaks,Hong Kong to Amsterdam,Highway Hypnosis,"post-punk,minimal",2019,2010s,False,True,False,1
+H2rvjiPuedabd4Eb,02J6vO0KVLQriPIUcR3CHQ,24.0,2019,0.191,0.994,4.0,0.0,0.196,161.84799999999996,303413,Overkill,Believe In The Fight,The Wings of War,thrash metal,2019,2010s,False,True,False,1
+Mxx0nVi3JWYLlBvH,0CiVLDCxTXmlVPoDZUXQiG,30.0,2019,0.418,0.818,0.0,1.0,0.0508,120.043,260017,Shlohmo,Eating Away,The End,"experimental,electronic,abstract",2019,2010s,False,True,False,1
+NSeIEJUPATpjuI21,6PO1Kl74Rw9g2jGyDHlQht,33.0,2019,0.313,0.996,10.0,0.0,0.0393,116.867,192352,Motörhead,Bomber,"Bomber (Live in Le Mans, 3rd November 1979)","hard rock,speed metal,metal",2019,2010s,False,True,False,1
+QlZixlyi1Dc02MOK,1jWJcuTUgO99gntArSPmrB,59.0,2019,0.84,0.4,5.0,0.0,0.381,124.009,154947,Night Lovell,BUMBLE BEE,GOODNIGHT LOVELL,rap,2019,2010s,False,True,False,1
+S3E7SN5cU6BL4CWa,5VGUcDkSBaOsxdp4vOKQtl,23.0,2019,0.63,0.5379999999999999,5.0,1.0,0.234,117.037,195267,Jamala,SOLO,SOLO,"jazz,soul,pop",2019,2010s,False,True,False,1
+WvdvPi2MtNllko4H,6NZcrWR0zIlTo37ohgs9OJ,18.0,2019,0.407,0.6,8.0,1.0,0.45,200.057,259197,PHILLIPI & RODRIGO,Magnetico,Paciencia,"electronic,experimental",2019,2010s,False,True,False,1
+aQN6wKitRTyvTL5g,0F7oaq4qpD7ijADV6gJBwe,56.0,2019,0.757,0.565,8.0,1.0,0.318,164.8,146390,YNW Melly,Beat a N*gga Block,We All Shine,rap,2019,2010s,False,True,False,1
+aZRDWSInFsTANTF8,7sscuv5hT1vQBt8QHvaZM2,23.0,2019,0.698,0.865,9.0,0.0,0.7340000000000001,116.023,289320,Blutengel,Teufelswerk,Un:Gott,"ebm,industrial,electronic",2019,2010s,False,True,False,1
+hruzAE2xxiwFTJ5m,0mzPIqyMzN5L7L3PBgVxJD,39.0,2019,0.5479999999999999,0.816,1.0,0.0,0.7509999999999999,195.9,257907,IZ*ONE,猫になりたい,好きと言わせたい (Type B),"k-pop,j-pop,girl group",2019,2010s,False,True,False,1
+mCdsR6LfyWuEd8lj,5Ul8NL59B9EdAnY9hk8ngC,23.0,2019,0.7609999999999999,0.655,6.0,1.0,0.858,128.036,292502,Danger,13:12,Origins,"house,electronic,electro",2019,2010s,False,True,False,1
+ouXmhfUjwmqj16Mw,5D2oMeCNn1rxrLF71G2t9X,28.0,2019,0.504,0.944,1.0,1.0,0.329,139.969,217576,Ladytron,Paper Highways,Ladytron,"electronic,electroclash,synthpop,electropop",2019,2010s,False,True,False,1
+pNMJxIwbaDxRxgyw,6mbZ4MjFsavKvEzUofqxRn,15.0,2019,0.6609999999999999,0.499,2.0,0.0,0.195,113.062,208667,Die Goldenen Zitronen,Bleib bei mir,More Than a Feeling,"punk,hamburger schule",2019,2010s,False,True,False,1
+qoYRqOILsd9o5dLN,2HAKS4gf5bnMbPpXmNTCHM,27.0,2019,0.5489999999999999,0.591,1.0,0.0,0.611,93.912,204900,Pedro the Lion,Powerful Taboo,Phoenix,"indie rock,emo",2019,2010s,False,True,False,1
+rHfOnphVW5ceQhqZ,1ry9oX8egLP4X3nPgJmu7y,39.0,2019,0.374,0.7490000000000001,4.0,0.0,0.299,168.24900000000005,212507,Watsky,Whitecaps,COMPLAINT,"rap,hip hop",2019,2010s,False,True,False,1
+sCWtSp8V16YQu9iJ,1RqpijoxxQJ9FWS1V56DeE,57.0,2019,0.6990000000000001,0.489,1.0,0.0,0.0739,134.017,214925,Night Lovell,MARY JANE,GOODNIGHT LOVELL,rap,2019,2010s,False,True,False,1
+tHTiNl3AkmPqogo7,13DNGYUguRgcfFoTQPMwYf,41.0,2019,0.737,0.5660000000000001,11.0,0.0,0.637,125.83,177547,FIL BO RIVA,Blindmaker,Beautiful Sadness (Deluxe Edition),"singer-songwriter,singer-songwriter",2019,2010s,False,True,False,1
+uzXDRBcxFZ0BhbsW,1aj1Qg7QvZJ7GZuSY9ISea,49.0,2019,0.8340000000000001,0.421,7.0,0.0,0.093,130.03,162462,Night Lovell,THE SUN,GOODNIGHT LOVELL,rap,2019,2010s,False,True,False,1
+xDAO0jt1Dl84RiJJ,6XAnMo04PnsRcXhCT9u0rZ,44.0,2019,0.487,0.856,5.0,0.0,0.379,134.139,237845,Rosa de Saron,A Fênix,A Fênix,"rock,christian rock,pop rock,christian rock,rock",2019,2010s,False,True,False,1
