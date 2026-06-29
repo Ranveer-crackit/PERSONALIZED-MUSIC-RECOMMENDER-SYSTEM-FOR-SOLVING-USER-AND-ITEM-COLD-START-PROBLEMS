@@ -110,7 +110,7 @@ The project uses the **Music4AllOnion** dataset containing multimodal music info
 
 ##  Author
 
-**Ranveer Bharti and Ashwini Kumar (ashwani1695)**
+**Ranveer Bharti and Ashwani Kumar (ashwani1695)**
 
 B.Tech Project — Personalized Music Recommendation using Transformer-Based Deep Learning Models.
 
